@@ -1,0 +1,9 @@
+id,timestamp,ticker,cik,company,form_type,description,url,mode
+0001628280-26-064366,2026-10-02 00:00:00+00:00,TSLA,0001318605,"Tesla, Inc.",8-K,tsla-20261002.htm,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001318605&type=8-K&dateb=&owner=include&count=10,live
+0001628280-26-063820,2026-09-29 00:00:00+00:00,TSLA,0001318605,"Tesla, Inc.",8-K,tsla-20260929.htm,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001318605&type=8-K&dateb=&owner=include&count=10,live
+0001403161-26-000121,2026-09-23 00:00:00+00:00,V,0001403161,VISA INC.,8-K,v-20260918.htm,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001403161&type=8-K&dateb=&owner=include&count=10,live
+0001104659-26-107526,2026-09-14 00:00:00+00:00,AMZN,0001018724,AMAZON COM INC,8-K,tm2624614d5_8k.htm,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018724&type=8-K&dateb=&owner=include&count=10,live
+0001018724-26-000036,2026-09-09 00:00:00+00:00,AMZN,0001018724,AMAZON COM INC,8-K,amzn-20260908.htm,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018724&type=8-K&dateb=&owner=include&count=10,live
+0000731766-26-000205,2026-09-08 00:00:00+00:00,UNH,0000731766,UNITEDHEALTH GROUP INC,8-K,unh-20260908.htm,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000731766&type=8-K&dateb=&owner=include&count=10,live
+0001045810-26-000078,2026-09-03 00:00:00+00:00,NVDA,0001045810,NVIDIA CORP,8-K,nvda-20260902.htm,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001045810&type=8-K&dateb=&owner=include&count=10,live
+0001193125-26-380280,2026-09-02 00:00:00+00:00,MSFT,0000789019,MICROSOFT CORP,8-K,d291965d8k.htm,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789019&type=8-K&dateb=&owner=include&count=10,live

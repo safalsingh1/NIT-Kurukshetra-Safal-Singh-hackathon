@@ -1,0 +1,5 @@
+dataset,origin,type,license,n_records,date_range
+news.csv,GDELT Project (gdeltproject.org) — synthetic sample,News articles,GDELT is open/public domain,500,2023-10 to 2024-10
+sec.csv,SEC EDGAR API (data.sec.gov) — synthetic sample,"SEC filings (8-K, 10-Q, 10-K)",Public domain (U.S. Government),100,2023-10 to 2024-10
+social.csv,Historical Reddit r/wallstreetbets & r/investing — synthetic sample,Social media posts,For research / demo use only,300,2023-10 to 2024-10
+prices.csv,Synthetic GBM price series — no real market data,Daily OHLCV (close prices),Generated for demo,504,2022-10 to 2024-10

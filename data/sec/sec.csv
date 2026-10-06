@@ -1,0 +1,101 @@
+id,timestamp,ticker,cik,company,form_type,description,url,mode
+SEC-000000,2025-10-25T14:33:13.749522+00:00,META,0000310445,Meta Platforms Inc.,10-K,Period of report: 2025-07-27,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0&type=10-K,demo
+SEC-000001,2026-01-15T14:48:50.749522+00:00,KO,0000587546,Coca-Cola Company,8-K,Period of report: 2025-10-17,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1&type=8-K,demo
+SEC-000002,2025-10-28T03:01:26.749522+00:00,AAPL,0000792451,Apple Inc.,8-K,Period of report: 2025-07-30,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2&type=8-K,demo
+SEC-000003,2026-06-16T17:43:27.749522+00:00,JPM,0000213132,JPMorgan Chase & Co.,10-K,Period of report: 2026-03-18,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=3&type=10-K,demo
+SEC-000004,2026-01-23T20:32:37.749522+00:00,AAPL,0000342397,Apple Inc.,8-K,Period of report: 2025-10-25,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=4&type=8-K,demo
+SEC-000005,2026-04-17T18:13:36.749522+00:00,UNH,0000430779,UnitedHealth Group,8-K,Period of report: 2026-01-17,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=5&type=8-K,demo
+SEC-000006,2026-09-03T21:11:42.749522+00:00,XOM,0000657381,Exxon Mobil Corporation,8-K,Period of report: 2026-06-05,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=6&type=8-K,demo
+SEC-000007,2025-12-13T15:49:24.749522+00:00,NVDA,0000624970,NVIDIA Corporation,10-Q,Period of report: 2025-09-14,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=7&type=10-Q,demo
+SEC-000008,2026-05-08T00:16:26.749522+00:00,MA,0000141683,Mastercard Inc.,8-K,Period of report: 2026-02-07,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=8&type=8-K,demo
+SEC-000009,2026-09-25T10:28:04.749522+00:00,BRK.B,0000419739,Berkshire Hathaway,8-K,Period of report: 2026-06-27,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=9&type=8-K,demo
+SEC-000010,2026-04-10T12:47:33.749522+00:00,V,0000880550,Visa Inc.,8-K,Period of report: 2026-01-10,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=10&type=8-K,demo
+SEC-000011,2025-10-09T09:31:44.749522+00:00,META,0000817552,Meta Platforms Inc.,10-K,Period of report: 2025-07-11,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=11&type=10-K,demo
+SEC-000012,2026-02-17T06:39:06.749522+00:00,PG,0000347678,Procter & Gamble Co.,10-K,Period of report: 2025-11-19,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=12&type=10-K,demo
+SEC-000013,2026-01-17T09:39:33.749522+00:00,BAC,0000756190,Bank of America Corp.,8-K,Period of report: 2025-10-19,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=13&type=8-K,demo
+SEC-000014,2026-09-08T12:09:11.749522+00:00,JPM,0000954441,JPMorgan Chase & Co.,8-K,Period of report: 2026-06-10,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=14&type=8-K,demo
+SEC-000015,2026-05-05T18:41:49.749522+00:00,AAPL,0000336540,Apple Inc.,10-K,Period of report: 2026-02-04,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=15&type=10-K,demo
+SEC-000016,2026-02-11T23:57:55.749522+00:00,AMZN,0000788842,Amazon.com Inc.,8-K,Period of report: 2025-11-13,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=16&type=8-K,demo
+SEC-000017,2025-11-05T08:35:46.749522+00:00,AMZN,0000646012,Amazon.com Inc.,8-K,Period of report: 2025-08-07,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=17&type=8-K,demo
+SEC-000018,2026-09-06T04:27:17.749522+00:00,KO,0000537605,Coca-Cola Company,10-Q,Period of report: 2026-06-08,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=18&type=10-Q,demo
+SEC-000019,2026-05-12T18:05:20.749522+00:00,BRK.B,0000547180,Berkshire Hathaway,10-Q,Period of report: 2026-02-11,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=19&type=10-Q,demo
+SEC-000020,2026-09-20T13:38:09.749522+00:00,JNJ,0000445280,Johnson & Johnson,8-K,Period of report: 2026-06-22,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=20&type=8-K,demo
+SEC-000021,2026-04-30T20:16:20.749522+00:00,MA,0000316800,Mastercard Inc.,10-Q,Period of report: 2026-01-30,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=21&type=10-Q,demo
+SEC-000022,2026-05-15T21:53:10.749522+00:00,AMZN,0000817276,Amazon.com Inc.,8-K,Period of report: 2026-02-14,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=22&type=8-K,demo
+SEC-000023,2026-09-02T06:11:14.749522+00:00,TSLA,0000424008,Tesla Inc.,10-Q,Period of report: 2026-06-04,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=23&type=10-Q,demo
+SEC-000024,2026-09-20T12:01:35.749522+00:00,BAC,0000550955,Bank of America Corp.,10-Q,Period of report: 2026-06-22,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=24&type=10-Q,demo
+SEC-000025,2026-06-14T02:48:38.749522+00:00,AMZN,0000265725,Amazon.com Inc.,8-K,Period of report: 2026-03-16,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=25&type=8-K,demo
+SEC-000026,2025-10-28T14:21:36.749522+00:00,V,0000658850,Visa Inc.,8-K,Period of report: 2025-07-30,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=26&type=8-K,demo
+SEC-000027,2025-12-12T18:33:07.749522+00:00,GOOGL,0000980303,Alphabet Inc.,10-K,Period of report: 2025-09-13,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=27&type=10-K,demo
+SEC-000028,2026-07-11T15:09:35.749522+00:00,AMZN,0000902616,Amazon.com Inc.,8-K,Period of report: 2026-04-12,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=28&type=8-K,demo
+SEC-000029,2026-09-09T01:42:40.749522+00:00,V,0000531228,Visa Inc.,8-K,Period of report: 2026-06-11,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=29&type=8-K,demo
+SEC-000030,2026-03-23T07:23:18.749522+00:00,JNJ,0000259338,Johnson & Johnson,10-K,Period of report: 2025-12-23,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=30&type=10-K,demo
+SEC-000031,2025-11-12T17:28:09.749522+00:00,TSLA,0000293720,Tesla Inc.,10-Q,Period of report: 2025-08-14,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=31&type=10-Q,demo
+SEC-000032,2026-07-25T08:48:47.749522+00:00,AAPL,0000746915,Apple Inc.,8-K,Period of report: 2026-04-26,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=32&type=8-K,demo
+SEC-000033,2026-05-25T10:55:50.749522+00:00,JPM,0000742108,JPMorgan Chase & Co.,8-K,Period of report: 2026-02-24,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=33&type=8-K,demo
+SEC-000034,2026-05-21T20:46:19.749522+00:00,BRK.B,0000342129,Berkshire Hathaway,10-Q,Period of report: 2026-02-20,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=34&type=10-Q,demo
+SEC-000035,2026-02-18T18:50:45.749522+00:00,AAPL,0000821568,Apple Inc.,8-K,Period of report: 2025-11-20,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=35&type=8-K,demo
+SEC-000036,2025-11-23T08:03:55.749522+00:00,XOM,0000987240,Exxon Mobil Corporation,8-K,Period of report: 2025-08-25,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=36&type=8-K,demo
+SEC-000037,2026-04-02T07:28:47.749522+00:00,KO,0000292913,Coca-Cola Company,10-K,Period of report: 2026-01-02,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=37&type=10-K,demo
+SEC-000038,2026-04-11T02:53:32.749522+00:00,UNH,0000244192,UnitedHealth Group,8-K,Period of report: 2026-01-11,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=38&type=8-K,demo
+SEC-000039,2025-12-16T07:35:58.749522+00:00,META,0000133795,Meta Platforms Inc.,10-Q,Period of report: 2025-09-17,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=39&type=10-Q,demo
+SEC-000040,2026-07-26T04:18:21.749522+00:00,HD,0000382967,Home Depot Inc.,8-K,Period of report: 2026-04-27,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=40&type=8-K,demo
+SEC-000041,2025-12-27T16:38:35.749522+00:00,HD,0000894586,Home Depot Inc.,10-Q,Period of report: 2025-09-28,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=41&type=10-Q,demo
+SEC-000042,2025-10-27T22:43:21.749522+00:00,TSLA,0000560623,Tesla Inc.,10-Q,Period of report: 2025-07-29,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=42&type=10-Q,demo
+SEC-000043,2026-04-10T12:53:10.749522+00:00,KO,0000579770,Coca-Cola Company,10-K,Period of report: 2026-01-10,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=43&type=10-K,demo
+SEC-000044,2026-03-17T07:23:43.749522+00:00,BRK.B,0000913920,Berkshire Hathaway,8-K,Period of report: 2025-12-17,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=44&type=8-K,demo
+SEC-000045,2026-05-26T08:36:19.749522+00:00,MSFT,0000855185,Microsoft Corporation,8-K,Period of report: 2026-02-25,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=45&type=8-K,demo
+SEC-000046,2026-03-04T08:02:18.749522+00:00,V,0000878533,Visa Inc.,8-K,Period of report: 2025-12-04,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=46&type=8-K,demo
+SEC-000047,2026-05-20T20:57:31.749522+00:00,CVX,0000650744,Chevron Corporation,8-K,Period of report: 2026-02-19,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=47&type=8-K,demo
+SEC-000048,2026-04-22T11:05:19.749522+00:00,MSFT,0000573546,Microsoft Corporation,8-K,Period of report: 2026-01-22,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=48&type=8-K,demo
+SEC-000049,2026-08-19T10:34:49.749522+00:00,MA,0000357657,Mastercard Inc.,8-K,Period of report: 2026-05-21,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=49&type=8-K,demo
+SEC-000050,2026-04-29T03:35:28.749522+00:00,BAC,0000870881,Bank of America Corp.,8-K,Period of report: 2026-01-29,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=50&type=8-K,demo
+SEC-000051,2026-05-06T20:26:13.749522+00:00,MSFT,0000641198,Microsoft Corporation,8-K,Period of report: 2026-02-05,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=51&type=8-K,demo
+SEC-000052,2025-12-14T23:49:15.749522+00:00,MSFT,0000560905,Microsoft Corporation,10-K,Period of report: 2025-09-15,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=52&type=10-K,demo
+SEC-000053,2026-09-10T17:28:13.749522+00:00,UNH,0000911259,UnitedHealth Group,10-K,Period of report: 2026-06-12,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=53&type=10-K,demo
+SEC-000054,2026-03-30T10:21:17.749522+00:00,JNJ,0000542983,Johnson & Johnson,10-Q,Period of report: 2025-12-30,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=54&type=10-Q,demo
+SEC-000055,2026-05-28T09:06:47.749522+00:00,JNJ,0000823468,Johnson & Johnson,8-K,Period of report: 2026-02-27,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=55&type=8-K,demo
+SEC-000056,2026-09-18T05:09:18.749522+00:00,BAC,0000586097,Bank of America Corp.,10-Q,Period of report: 2026-06-20,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=56&type=10-Q,demo
+SEC-000057,2025-11-06T09:15:24.749522+00:00,MA,0000218669,Mastercard Inc.,8-K,Period of report: 2025-08-08,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=57&type=8-K,demo
+SEC-000058,2026-07-31T16:35:16.749522+00:00,META,0000829928,Meta Platforms Inc.,8-K,Period of report: 2026-05-02,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=58&type=8-K,demo
+SEC-000059,2025-11-23T19:26:13.749522+00:00,ABBV,0000533648,AbbVie Inc.,8-K,Period of report: 2025-08-25,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=59&type=8-K,demo
+SEC-000060,2026-03-26T08:50:53.749522+00:00,V,0000287567,Visa Inc.,8-K,Period of report: 2025-12-26,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=60&type=8-K,demo
+SEC-000061,2026-05-19T12:25:35.749522+00:00,MA,0000576769,Mastercard Inc.,10-Q,Period of report: 2026-02-18,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=61&type=10-Q,demo
+SEC-000062,2026-01-07T09:13:24.749522+00:00,NVDA,0000825318,NVIDIA Corporation,10-K,Period of report: 2025-10-09,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=62&type=10-K,demo
+SEC-000063,2026-07-08T06:01:30.749522+00:00,META,0000195620,Meta Platforms Inc.,8-K,Period of report: 2026-04-09,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=63&type=8-K,demo
+SEC-000064,2026-07-03T12:47:51.749522+00:00,GOOGL,0000764873,Alphabet Inc.,8-K,Period of report: 2026-04-04,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64&type=8-K,demo
+SEC-000065,2025-11-04T09:24:07.749522+00:00,PG,0000841635,Procter & Gamble Co.,8-K,Period of report: 2025-08-06,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=65&type=8-K,demo
+SEC-000066,2026-07-11T13:14:33.749522+00:00,UNH,0000741804,UnitedHealth Group,8-K,Period of report: 2026-04-12,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=66&type=8-K,demo
+SEC-000067,2026-02-26T07:49:41.749522+00:00,META,0000499095,Meta Platforms Inc.,8-K,Period of report: 2025-11-28,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=67&type=8-K,demo
+SEC-000068,2026-07-27T14:59:33.749522+00:00,MSFT,0000451475,Microsoft Corporation,10-Q,Period of report: 2026-04-28,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=68&type=10-Q,demo
+SEC-000069,2026-09-05T15:26:32.749522+00:00,CVX,0000269999,Chevron Corporation,10-Q,Period of report: 2026-06-07,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=69&type=10-Q,demo
+SEC-000070,2025-12-10T17:26:47.749522+00:00,AMZN,0000539963,Amazon.com Inc.,8-K,Period of report: 2025-09-11,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=70&type=8-K,demo
+SEC-000071,2026-01-30T11:12:25.749522+00:00,JNJ,0000402808,Johnson & Johnson,8-K,Period of report: 2025-11-01,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=71&type=8-K,demo
+SEC-000072,2025-11-16T21:58:11.749522+00:00,META,0000312705,Meta Platforms Inc.,10-Q,Period of report: 2025-08-18,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=72&type=10-Q,demo
+SEC-000073,2026-06-01T00:58:13.749522+00:00,AAPL,0000112800,Apple Inc.,10-K,Period of report: 2026-03-03,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=73&type=10-K,demo
+SEC-000074,2026-04-13T12:30:46.749522+00:00,MA,0000669902,Mastercard Inc.,8-K,Period of report: 2026-01-13,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=74&type=8-K,demo
+SEC-000075,2026-05-26T09:06:30.749522+00:00,AAPL,0000349433,Apple Inc.,8-K,Period of report: 2026-02-25,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=75&type=8-K,demo
+SEC-000076,2026-05-18T22:52:55.749522+00:00,TSLA,0000575779,Tesla Inc.,8-K,Period of report: 2026-02-17,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=76&type=8-K,demo
+SEC-000077,2026-03-22T20:51:51.749522+00:00,HD,0000730421,Home Depot Inc.,8-K,Period of report: 2025-12-22,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=77&type=8-K,demo
+SEC-000078,2025-10-04T19:33:09.749522+00:00,KO,0000673929,Coca-Cola Company,10-Q,Period of report: 2025-07-06,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=78&type=10-Q,demo
+SEC-000079,2026-05-30T22:55:32.749522+00:00,JPM,0000959959,JPMorgan Chase & Co.,8-K,Period of report: 2026-03-01,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=79&type=8-K,demo
+SEC-000080,2025-10-21T06:14:37.749522+00:00,TSLA,0000255457,Tesla Inc.,10-Q,Period of report: 2025-07-23,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=80&type=10-Q,demo
+SEC-000081,2026-06-12T23:16:09.749522+00:00,MSFT,0000138504,Microsoft Corporation,10-K,Period of report: 2026-03-14,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=81&type=10-K,demo
+SEC-000082,2026-08-29T20:33:11.749522+00:00,AMZN,0000799396,Amazon.com Inc.,8-K,Period of report: 2026-05-31,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=82&type=8-K,demo
+SEC-000083,2026-08-23T17:08:53.749522+00:00,CVX,0000412938,Chevron Corporation,8-K,Period of report: 2026-05-25,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=83&type=8-K,demo
+SEC-000084,2026-09-24T16:53:40.749522+00:00,V,0000151413,Visa Inc.,8-K,Period of report: 2026-06-26,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=84&type=8-K,demo
+SEC-000085,2026-03-13T04:36:27.749522+00:00,GOOGL,0000269172,Alphabet Inc.,10-Q,Period of report: 2025-12-13,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=85&type=10-Q,demo
+SEC-000086,2026-05-27T14:03:24.749522+00:00,JNJ,0000700081,Johnson & Johnson,8-K,Period of report: 2026-02-26,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=86&type=8-K,demo
+SEC-000087,2025-12-10T03:57:17.749522+00:00,ABBV,0000885734,AbbVie Inc.,8-K,Period of report: 2025-09-11,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=87&type=8-K,demo
+SEC-000088,2026-02-19T03:29:20.749522+00:00,CVX,0000197649,Chevron Corporation,8-K,Period of report: 2025-11-21,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=88&type=8-K,demo
+SEC-000089,2026-02-04T15:12:18.749522+00:00,JNJ,0000497346,Johnson & Johnson,10-K,Period of report: 2025-11-06,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=89&type=10-K,demo
+SEC-000090,2026-07-23T19:28:45.749522+00:00,NVDA,0000984274,NVIDIA Corporation,8-K,Period of report: 2026-04-24,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=90&type=8-K,demo
+SEC-000091,2025-10-27T11:26:25.749522+00:00,ABBV,0000593687,AbbVie Inc.,10-K,Period of report: 2025-07-29,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=91&type=10-K,demo
+SEC-000092,2025-11-18T15:37:35.749522+00:00,AMZN,0000445200,Amazon.com Inc.,10-K,Period of report: 2025-08-20,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=92&type=10-K,demo
+SEC-000093,2026-03-11T22:47:26.749522+00:00,BAC,0000320038,Bank of America Corp.,8-K,Period of report: 2025-12-11,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=93&type=8-K,demo
+SEC-000094,2026-05-27T23:02:30.749522+00:00,TSLA,0000214611,Tesla Inc.,8-K,Period of report: 2026-02-26,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=94&type=8-K,demo
+SEC-000095,2026-07-12T15:51:00.749522+00:00,CVX,0000191928,Chevron Corporation,8-K,Period of report: 2026-04-13,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=95&type=8-K,demo
+SEC-000096,2026-07-10T11:08:51.749522+00:00,XOM,0000926471,Exxon Mobil Corporation,8-K,Period of report: 2026-04-11,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=96&type=8-K,demo
+SEC-000097,2026-03-17T02:42:56.749522+00:00,JNJ,0000988980,Johnson & Johnson,8-K,Period of report: 2025-12-17,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=97&type=8-K,demo
+SEC-000098,2026-01-11T02:29:40.749522+00:00,V,0000703080,Visa Inc.,8-K,Period of report: 2025-10-13,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=98&type=8-K,demo
+SEC-000099,2026-02-16T16:26:22.749522+00:00,KO,0000744129,Coca-Cola Company,10-Q,Period of report: 2025-11-18,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=99&type=10-Q,demo

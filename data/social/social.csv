@@ -1,0 +1,301 @@
+id,timestamp,platform,author,subreddit,title,body,score,entities,mode
+social-00000,2026-04-13T01:02:31.757881+00:00,reddit,user_65553,investing,CVX earnings tomorrow – what's your position?,,2379,CVX,demo
+social-00001,2025-10-02T21:01:21.757881+00:00,reddit,user_16493,wallstreetbets,TSLA CEO news — thoughts?,,966,TSLA,demo
+social-00002,2026-08-08T18:46:02.757881+00:00,reddit,user_6962,stocks,"Just bought TSLA calls for the first time, nervous",,4590,TSLA,demo
+social-00003,2025-10-06T15:35:08.757881+00:00,reddit,user_84967,investing,Hot take: TSLA is overvalued at current prices,,2084,TSLA,demo
+social-00004,2026-01-29T18:56:08.757881+00:00,reddit,user_1803,wallstreetbets,"Just bought NVDA calls for the first time, nervous",,2796,NVDA,demo
+social-00005,2026-07-10T14:09:12.757881+00:00,reddit,user_75569,StockMarket,Anyone else holding UNH? Earnings play looks interesting,,1438,UNH,demo
+social-00006,2026-02-07T14:54:32.757881+00:00,reddit,user_63797,finance,Anyone else holding TSLA? Earnings play looks interesting,,1112,TSLA,demo
+social-00007,2025-12-01T14:35:33.757881+00:00,reddit,user_83208,finance,"Just bought XOM calls for the first time, nervous",,3788,XOM,demo
+social-00008,2026-09-27T13:55:00.757881+00:00,reddit,user_40235,StockMarket,"Just bought HD calls for the first time, nervous",,4548,HD,demo
+social-00009,2025-10-09T12:45:21.757881+00:00,reddit,user_28297,StockMarket,"Just bought ABBV calls for the first time, nervous",,2896,ABBV,demo
+social-00010,2025-11-29T05:54:36.757881+00:00,reddit,user_50183,StockMarket,"Sold NVDA today, here's why",,4677,NVDA,demo
+social-00011,2026-03-02T13:18:30.757881+00:00,reddit,user_25560,StockMarket,KO DD: Why I think this is a 10-bagger,,2525,KO,demo
+social-00012,2026-07-04T22:28:33.757881+00:00,reddit,user_66149,investing,"Just bought V calls for the first time, nervous",,3702,V,demo
+social-00013,2025-12-25T04:51:25.757881+00:00,reddit,user_69825,stocks,"Sold JNJ today, here's why",,919,JNJ,demo
+social-00014,2026-08-03T02:29:44.757881+00:00,reddit,user_13137,finance,Anyone else holding PG? Earnings play looks interesting,,3953,PG,demo
+social-00015,2025-12-01T02:23:47.757881+00:00,reddit,user_25931,stocks,BAC CEO news — thoughts?,,4289,BAC,demo
+social-00016,2026-07-30T10:46:51.757881+00:00,reddit,user_13878,StockMarket,"Sold JNJ today, here's why",,1680,JNJ,demo
+social-00017,2026-03-29T15:54:41.757881+00:00,reddit,user_51801,StockMarket,MSFT DD: Why I think this is a 10-bagger,,33,MSFT,demo
+social-00018,2026-09-29T08:18:05.757881+00:00,reddit,user_12413,stocks,JNJ CEO news — thoughts?,,377,JNJ,demo
+social-00019,2026-04-22T10:25:24.757881+00:00,reddit,user_87374,stocks,Anyone else holding GOOGL? Earnings play looks interesting,,4731,GOOGL,demo
+social-00020,2026-06-07T08:48:32.757881+00:00,reddit,user_26237,stocks,Hot take: JNJ is overvalued at current prices,,4360,JNJ,demo
+social-00021,2026-07-29T09:11:07.757881+00:00,reddit,user_58817,wallstreetbets,Hot take: V is overvalued at current prices,,1223,V,demo
+social-00022,2026-01-16T12:46:05.757881+00:00,reddit,user_74351,StockMarket,META DD: Why I think this is a 10-bagger,,1692,META,demo
+social-00023,2026-02-15T07:29:21.757881+00:00,reddit,user_73006,stocks,Hot take: ABBV is overvalued at current prices,,1159,ABBV,demo
+social-00024,2026-05-13T05:07:42.757881+00:00,reddit,user_81381,stocks,JNJ CEO news — thoughts?,,415,JNJ,demo
+social-00025,2025-10-13T12:31:08.757881+00:00,reddit,user_62700,wallstreetbets,AMZN DD: Why I think this is a 10-bagger,,3142,AMZN,demo
+social-00026,2025-11-04T16:58:48.757881+00:00,reddit,user_79134,StockMarket,MSFT CEO news — thoughts?,,2913,MSFT,demo
+social-00027,2026-02-08T07:50:49.757881+00:00,reddit,user_26971,StockMarket,JNJ DD: Why I think this is a 10-bagger,,3814,JNJ,demo
+social-00028,2025-11-22T10:42:30.757881+00:00,reddit,user_92566,finance,CVX DD: Why I think this is a 10-bagger,,3732,CVX,demo
+social-00029,2026-06-25T02:05:04.757881+00:00,reddit,user_85465,finance,JNJ CEO news — thoughts?,,1898,JNJ,demo
+social-00030,2025-11-27T01:52:14.757881+00:00,reddit,user_48638,finance,"Sold BRK.B today, here's why",,2706,BRK.B,demo
+social-00031,2026-03-27T07:11:30.757881+00:00,reddit,user_64898,wallstreetbets,V DD: Why I think this is a 10-bagger,,3893,V,demo
+social-00032,2026-02-15T17:57:12.757881+00:00,reddit,user_37996,stocks,"Sold GOOGL today, here's why",,4161,GOOGL,demo
+social-00033,2026-03-08T19:33:17.757881+00:00,reddit,user_94621,wallstreetbets,"Just bought GOOGL calls for the first time, nervous",,4555,GOOGL,demo
+social-00034,2026-08-06T00:16:45.757881+00:00,reddit,user_78402,finance,NVDA earnings tomorrow – what's your position?,,1996,NVDA,demo
+social-00035,2025-12-03T00:27:50.757881+00:00,reddit,user_64225,finance,ABBV DD: Why I think this is a 10-bagger,,2791,ABBV,demo
+social-00036,2026-08-14T08:31:54.757881+00:00,reddit,user_58062,StockMarket,"Just bought TSLA calls for the first time, nervous",,4460,TSLA,demo
+social-00037,2025-12-08T11:33:39.757881+00:00,reddit,user_87849,wallstreetbets,BRK.B CEO news — thoughts?,,936,BRK.B,demo
+social-00038,2026-05-21T18:06:49.757881+00:00,reddit,user_59355,investing,Hot take: CVX is overvalued at current prices,,3324,CVX,demo
+social-00039,2026-05-22T14:28:02.757881+00:00,reddit,user_15253,StockMarket,NVDA is about to moon based on these signals,,2682,NVDA,demo
+social-00040,2026-06-09T18:01:18.757881+00:00,reddit,user_19208,StockMarket,Anyone else holding XOM? Earnings play looks interesting,,1201,XOM,demo
+social-00041,2026-03-27T04:18:54.757881+00:00,reddit,user_70632,stocks,AMZN is about to moon based on these signals,,4734,AMZN,demo
+social-00042,2025-12-17T06:01:57.757881+00:00,reddit,user_40286,StockMarket,Hot take: MA is overvalued at current prices,,3561,MA,demo
+social-00043,2025-11-05T22:30:23.757881+00:00,reddit,user_77379,wallstreetbets,PG is about to moon based on these signals,,1044,PG,demo
+social-00044,2025-10-26T11:59:45.757881+00:00,reddit,user_7963,wallstreetbets,"Just bought JNJ calls for the first time, nervous",,898,JNJ,demo
+social-00045,2026-09-03T11:00:23.757881+00:00,reddit,user_5087,investing,JNJ is about to moon based on these signals,,4834,JNJ,demo
+social-00046,2026-06-02T01:42:25.757881+00:00,reddit,user_51012,finance,UNH earnings tomorrow – what's your position?,,1420,UNH,demo
+social-00047,2025-11-25T06:30:11.757881+00:00,reddit,user_25671,StockMarket,XOM is about to moon based on these signals,,2951,XOM,demo
+social-00048,2025-12-01T04:09:46.757881+00:00,reddit,user_17455,investing,Anyone else holding HD? Earnings play looks interesting,,587,HD,demo
+social-00049,2025-11-27T04:25:35.757881+00:00,reddit,user_95547,finance,AAPL is about to moon based on these signals,,1112,AAPL,demo
+social-00050,2025-11-24T13:16:23.757881+00:00,reddit,user_60772,StockMarket,NVDA is about to moon based on these signals,,1472,NVDA,demo
+social-00051,2026-04-18T02:22:43.757881+00:00,reddit,user_56590,StockMarket,MA CEO news — thoughts?,,3151,MA,demo
+social-00052,2025-12-28T22:20:43.757881+00:00,reddit,user_76751,finance,PG earnings tomorrow – what's your position?,,4110,PG,demo
+social-00053,2026-03-10T19:34:24.757881+00:00,reddit,user_72587,StockMarket,"Just bought JPM calls for the first time, nervous",,274,JPM,demo
+social-00054,2026-05-10T21:49:31.757881+00:00,reddit,user_77056,finance,MSFT DD: Why I think this is a 10-bagger,,1163,MSFT,demo
+social-00055,2026-09-01T00:00:58.757881+00:00,reddit,user_99380,stocks,BAC CEO news — thoughts?,,4234,BAC,demo
+social-00056,2026-04-23T12:19:34.757881+00:00,reddit,user_62925,wallstreetbets,Hot take: NVDA is overvalued at current prices,,432,NVDA,demo
+social-00057,2026-04-28T01:09:32.757881+00:00,reddit,user_2413,finance,V CEO news — thoughts?,,4199,V,demo
+social-00058,2026-05-13T04:01:54.757881+00:00,reddit,user_39616,stocks,"Sold XOM today, here's why",,289,XOM,demo
+social-00059,2026-07-20T07:26:14.757881+00:00,reddit,user_40855,StockMarket,Hot take: KO is overvalued at current prices,,503,KO,demo
+social-00060,2026-05-14T18:57:10.757881+00:00,reddit,user_39240,StockMarket,Anyone else holding XOM? Earnings play looks interesting,,2349,XOM,demo
+social-00061,2025-11-03T07:20:16.757881+00:00,reddit,user_17622,StockMarket,XOM DD: Why I think this is a 10-bagger,,2276,XOM,demo
+social-00062,2025-11-22T17:38:17.757881+00:00,reddit,user_34679,wallstreetbets,JPM DD: Why I think this is a 10-bagger,,4946,JPM,demo
+social-00063,2026-09-20T17:19:40.757881+00:00,reddit,user_78564,investing,META CEO news — thoughts?,,3029,META,demo
+social-00064,2026-01-11T17:20:17.757881+00:00,reddit,user_24699,StockMarket,Anyone else holding META? Earnings play looks interesting,,2808,META,demo
+social-00065,2025-11-27T14:26:24.757881+00:00,reddit,user_79059,investing,NVDA CEO news — thoughts?,,3382,NVDA,demo
+social-00066,2026-01-02T16:07:06.757881+00:00,reddit,user_22926,investing,"Just bought UNH calls for the first time, nervous",,445,UNH,demo
+social-00067,2026-07-22T15:54:29.757881+00:00,reddit,user_16203,wallstreetbets,"Sold JPM today, here's why",,3801,JPM,demo
+social-00068,2026-04-05T05:05:27.757881+00:00,reddit,user_99622,StockMarket,UNH earnings tomorrow – what's your position?,,3111,UNH,demo
+social-00069,2026-04-04T13:46:58.757881+00:00,reddit,user_35422,investing,UNH is about to moon based on these signals,,97,UNH,demo
+social-00070,2026-09-27T08:37:40.757881+00:00,reddit,user_42377,StockMarket,Anyone else holding JNJ? Earnings play looks interesting,,797,JNJ,demo
+social-00071,2026-06-06T19:30:40.757881+00:00,reddit,user_47376,finance,Hot take: ABBV is overvalued at current prices,,2744,ABBV,demo
+social-00072,2026-01-13T23:43:34.757881+00:00,reddit,user_77569,finance,JPM CEO news — thoughts?,,1980,JPM,demo
+social-00073,2026-07-28T11:50:33.757881+00:00,reddit,user_26549,StockMarket,"Just bought CVX calls for the first time, nervous",,1473,CVX,demo
+social-00074,2026-05-02T22:24:23.757881+00:00,reddit,user_9906,wallstreetbets,V is about to moon based on these signals,,800,V,demo
+social-00075,2025-11-11T14:46:24.757881+00:00,reddit,user_90849,finance,"Just bought BAC calls for the first time, nervous",,1797,BAC,demo
+social-00076,2026-01-08T02:07:45.757881+00:00,reddit,user_13050,wallstreetbets,JNJ earnings tomorrow – what's your position?,,4910,JNJ,demo
+social-00077,2026-07-04T06:01:32.757881+00:00,reddit,user_16725,wallstreetbets,"Sold GOOGL today, here's why",,3079,GOOGL,demo
+social-00078,2026-08-10T04:39:16.757881+00:00,reddit,user_92180,investing,Hot take: CVX is overvalued at current prices,,2413,CVX,demo
+social-00079,2026-06-15T18:23:13.757881+00:00,reddit,user_10924,finance,Hot take: MA is overvalued at current prices,,3497,MA,demo
+social-00080,2026-01-10T04:50:18.757881+00:00,reddit,user_9177,finance,V is about to moon based on these signals,,2725,V,demo
+social-00081,2026-01-10T13:14:44.757881+00:00,reddit,user_35690,investing,MSFT CEO news — thoughts?,,568,MSFT,demo
+social-00082,2026-09-27T21:20:20.757881+00:00,reddit,user_85604,finance,XOM DD: Why I think this is a 10-bagger,,1178,XOM,demo
+social-00083,2026-07-27T19:09:32.757881+00:00,reddit,user_57525,investing,ABBV DD: Why I think this is a 10-bagger,,3617,ABBV,demo
+social-00084,2025-11-11T08:59:35.757881+00:00,reddit,user_96360,stocks,JPM CEO news — thoughts?,,153,JPM,demo
+social-00085,2025-11-29T01:42:35.757881+00:00,reddit,user_86572,wallstreetbets,Anyone else holding XOM? Earnings play looks interesting,,3198,XOM,demo
+social-00086,2025-11-30T03:22:17.757881+00:00,reddit,user_76319,wallstreetbets,JPM CEO news — thoughts?,,3916,JPM,demo
+social-00087,2026-03-08T03:01:37.757881+00:00,reddit,user_96389,wallstreetbets,HD earnings tomorrow – what's your position?,,27,HD,demo
+social-00088,2026-06-26T22:40:06.757881+00:00,reddit,user_75349,StockMarket,"Just bought UNH calls for the first time, nervous",,2731,UNH,demo
+social-00089,2026-03-06T20:17:17.757881+00:00,reddit,user_8234,wallstreetbets,"Just bought JNJ calls for the first time, nervous",,4379,JNJ,demo
+social-00090,2025-11-02T12:11:56.757881+00:00,reddit,user_39005,investing,"Sold V today, here's why",,4542,V,demo
+social-00091,2026-02-28T10:57:08.757881+00:00,reddit,user_87603,investing,Hot take: MSFT is overvalued at current prices,,3195,MSFT,demo
+social-00092,2026-06-04T04:03:52.757881+00:00,reddit,user_83941,finance,GOOGL earnings tomorrow – what's your position?,,1146,GOOGL,demo
+social-00093,2025-12-16T06:02:31.757881+00:00,reddit,user_4324,StockMarket,MSFT earnings tomorrow – what's your position?,,4007,MSFT,demo
+social-00094,2025-10-26T17:25:16.757881+00:00,reddit,user_66494,StockMarket,UNH CEO news — thoughts?,,134,UNH,demo
+social-00095,2026-02-11T00:39:14.757881+00:00,reddit,user_8347,stocks,Anyone else holding MSFT? Earnings play looks interesting,,3321,MSFT,demo
+social-00096,2025-12-23T11:16:15.757881+00:00,reddit,user_61079,StockMarket,"Sold GOOGL today, here's why",,4746,GOOGL,demo
+social-00097,2026-09-26T10:11:44.757881+00:00,reddit,user_10441,wallstreetbets,"Sold BRK.B today, here's why",,4005,BRK.B,demo
+social-00098,2026-04-03T06:22:22.757881+00:00,reddit,user_32808,investing,Anyone else holding AAPL? Earnings play looks interesting,,1411,AAPL,demo
+social-00099,2026-09-18T14:21:06.757881+00:00,reddit,user_41283,wallstreetbets,MSFT CEO news — thoughts?,,1398,MSFT,demo
+social-00100,2025-10-27T02:24:56.757881+00:00,reddit,user_66161,StockMarket,CVX earnings tomorrow – what's your position?,,516,CVX,demo
+social-00101,2026-03-16T18:51:58.757881+00:00,reddit,user_45216,finance,"Just bought TSLA calls for the first time, nervous",,989,TSLA,demo
+social-00102,2026-05-02T06:18:09.757881+00:00,reddit,user_28948,wallstreetbets,"Sold CVX today, here's why",,2748,CVX,demo
+social-00103,2025-11-18T03:43:01.757881+00:00,reddit,user_36899,investing,NVDA is about to moon based on these signals,,1376,NVDA,demo
+social-00104,2026-05-05T04:25:17.757881+00:00,reddit,user_77282,wallstreetbets,"Sold PG today, here's why",,818,PG,demo
+social-00105,2026-02-25T08:04:58.757881+00:00,reddit,user_21677,wallstreetbets,KO CEO news — thoughts?,,661,KO,demo
+social-00106,2025-10-05T01:37:12.757881+00:00,reddit,user_86426,StockMarket,Hot take: AAPL is overvalued at current prices,,3409,AAPL,demo
+social-00107,2026-06-28T03:32:05.757881+00:00,reddit,user_17632,investing,"Sold XOM today, here's why",,2219,XOM,demo
+social-00108,2026-03-26T04:29:53.757881+00:00,reddit,user_81024,wallstreetbets,"Sold BAC today, here's why",,4095,BAC,demo
+social-00109,2025-11-05T10:42:16.757881+00:00,reddit,user_83207,stocks,"Just bought KO calls for the first time, nervous",,3430,KO,demo
+social-00110,2026-05-06T20:31:30.757881+00:00,reddit,user_70494,wallstreetbets,"Just bought AAPL calls for the first time, nervous",,4421,AAPL,demo
+social-00111,2025-12-26T10:05:21.757881+00:00,reddit,user_61845,investing,Hot take: BAC is overvalued at current prices,,434,BAC,demo
+social-00112,2025-11-15T00:31:58.757881+00:00,reddit,user_63182,finance,"Sold TSLA today, here's why",,1308,TSLA,demo
+social-00113,2025-10-23T05:51:40.757881+00:00,reddit,user_85523,stocks,Hot take: MSFT is overvalued at current prices,,1716,MSFT,demo
+social-00114,2026-01-07T21:20:07.757881+00:00,reddit,user_60394,wallstreetbets,HD DD: Why I think this is a 10-bagger,,429,HD,demo
+social-00115,2025-12-09T13:40:43.757881+00:00,reddit,user_21715,wallstreetbets,ABBV CEO news — thoughts?,,4218,ABBV,demo
+social-00116,2025-10-29T18:44:45.757881+00:00,reddit,user_78687,StockMarket,"Just bought GOOGL calls for the first time, nervous",,3432,GOOGL,demo
+social-00117,2026-07-19T09:38:26.757881+00:00,reddit,user_89716,stocks,TSLA earnings tomorrow – what's your position?,,902,TSLA,demo
+social-00118,2025-12-29T17:22:12.757881+00:00,reddit,user_27208,finance,V earnings tomorrow – what's your position?,,602,V,demo
+social-00119,2026-05-17T11:44:33.757881+00:00,reddit,user_64492,wallstreetbets,XOM is about to moon based on these signals,,1187,XOM,demo
+social-00120,2026-09-27T14:49:20.757881+00:00,reddit,user_49953,investing,TSLA CEO news — thoughts?,,1590,TSLA,demo
+social-00121,2026-01-15T00:01:21.757881+00:00,reddit,user_27504,stocks,"Sold PG today, here's why",,262,PG,demo
+social-00122,2025-10-25T10:16:54.757881+00:00,reddit,user_62018,finance,CVX is about to moon based on these signals,,1402,CVX,demo
+social-00123,2025-12-26T15:28:16.757881+00:00,reddit,user_39687,StockMarket,"Sold V today, here's why",,1392,V,demo
+social-00124,2026-05-04T22:20:36.757881+00:00,reddit,user_69389,finance,CVX earnings tomorrow – what's your position?,,4846,CVX,demo
+social-00125,2026-08-23T07:35:26.757881+00:00,reddit,user_61655,stocks,Anyone else holding XOM? Earnings play looks interesting,,3507,XOM,demo
+social-00126,2026-01-06T12:14:38.757881+00:00,reddit,user_78564,investing,Anyone else holding BRK.B? Earnings play looks interesting,,3422,BRK.B,demo
+social-00127,2025-10-17T19:39:41.757881+00:00,reddit,user_62689,StockMarket,Anyone else holding MSFT? Earnings play looks interesting,,3487,MSFT,demo
+social-00128,2026-03-04T09:37:03.757881+00:00,reddit,user_13844,finance,BAC CEO news — thoughts?,,1970,BAC,demo
+social-00129,2026-05-07T03:45:47.757881+00:00,reddit,user_99707,wallstreetbets,NVDA is about to moon based on these signals,,1785,NVDA,demo
+social-00130,2026-02-18T10:52:14.757881+00:00,reddit,user_12892,wallstreetbets,AMZN CEO news — thoughts?,,2497,AMZN,demo
+social-00131,2026-07-02T09:33:37.757881+00:00,reddit,user_61199,StockMarket,Anyone else holding META? Earnings play looks interesting,,3726,META,demo
+social-00132,2026-07-29T00:18:40.757881+00:00,reddit,user_25241,stocks,MA CEO news — thoughts?,,11,MA,demo
+social-00133,2026-02-28T17:37:20.757881+00:00,reddit,user_91538,stocks,Anyone else holding NVDA? Earnings play looks interesting,,2429,NVDA,demo
+social-00134,2026-07-21T15:42:44.757881+00:00,reddit,user_72098,StockMarket,HD earnings tomorrow – what's your position?,,663,HD,demo
+social-00135,2026-09-09T08:22:44.757881+00:00,reddit,user_45000,wallstreetbets,"Just bought KO calls for the first time, nervous",,422,KO,demo
+social-00136,2026-02-27T23:41:12.757881+00:00,reddit,user_48916,stocks,"Sold GOOGL today, here's why",,4577,GOOGL,demo
+social-00137,2026-05-08T00:55:58.757881+00:00,reddit,user_93974,investing,"Sold NVDA today, here's why",,2743,NVDA,demo
+social-00138,2026-04-29T20:02:21.757881+00:00,reddit,user_99602,StockMarket,BRK.B earnings tomorrow – what's your position?,,1846,BRK.B,demo
+social-00139,2026-02-16T05:47:54.757881+00:00,reddit,user_36043,StockMarket,V is about to moon based on these signals,,2270,V,demo
+social-00140,2025-10-26T20:55:51.757881+00:00,reddit,user_66726,StockMarket,MSFT DD: Why I think this is a 10-bagger,,3851,MSFT,demo
+social-00141,2026-06-22T16:34:44.757881+00:00,reddit,user_70842,stocks,ABBV CEO news — thoughts?,,3015,ABBV,demo
+social-00142,2025-12-14T09:52:12.757881+00:00,reddit,user_11508,finance,"Sold NVDA today, here's why",,2362,NVDA,demo
+social-00143,2025-11-13T17:38:32.757881+00:00,reddit,user_22596,stocks,NVDA DD: Why I think this is a 10-bagger,,1212,NVDA,demo
+social-00144,2025-11-29T17:01:52.757881+00:00,reddit,user_83218,wallstreetbets,Hot take: XOM is overvalued at current prices,,3412,XOM,demo
+social-00145,2026-09-29T02:33:39.757881+00:00,reddit,user_18305,finance,"Just bought ABBV calls for the first time, nervous",,3441,ABBV,demo
+social-00146,2026-07-15T18:14:09.757881+00:00,reddit,user_9250,wallstreetbets,MA earnings tomorrow – what's your position?,,4256,MA,demo
+social-00147,2026-03-11T03:31:57.757881+00:00,reddit,user_76851,stocks,"Just bought V calls for the first time, nervous",,3982,V,demo
+social-00148,2026-06-17T20:30:32.757881+00:00,reddit,user_59360,finance,Hot take: CVX is overvalued at current prices,,4646,CVX,demo
+social-00149,2026-09-16T02:52:54.757881+00:00,reddit,user_41172,investing,Hot take: AMZN is overvalued at current prices,,1857,AMZN,demo
+social-00150,2026-02-23T16:40:05.757881+00:00,reddit,user_7202,investing,"Just bought XOM calls for the first time, nervous",,2329,XOM,demo
+social-00151,2025-12-05T20:54:13.757881+00:00,reddit,user_82085,investing,Hot take: MA is overvalued at current prices,,1493,MA,demo
+social-00152,2026-08-24T05:25:32.757881+00:00,reddit,user_21117,investing,META earnings tomorrow – what's your position?,,957,META,demo
+social-00153,2026-02-02T05:27:15.757881+00:00,reddit,user_76304,investing,MSFT CEO news — thoughts?,,2133,MSFT,demo
+social-00154,2025-12-12T21:55:13.757881+00:00,reddit,user_88235,stocks,"Just bought PG calls for the first time, nervous",,1211,PG,demo
+social-00155,2026-03-25T09:56:58.757881+00:00,reddit,user_71761,investing,Hot take: PG is overvalued at current prices,,995,PG,demo
+social-00156,2026-03-08T09:04:54.757881+00:00,reddit,user_61036,stocks,"Sold AAPL today, here's why",,35,AAPL,demo
+social-00157,2026-04-17T07:40:56.757881+00:00,reddit,user_44421,stocks,ABBV CEO news — thoughts?,,2374,ABBV,demo
+social-00158,2026-06-18T06:07:54.757881+00:00,reddit,user_58947,stocks,CVX DD: Why I think this is a 10-bagger,,3923,CVX,demo
+social-00159,2025-11-25T09:48:24.757881+00:00,reddit,user_89867,StockMarket,MSFT DD: Why I think this is a 10-bagger,,2523,MSFT,demo
+social-00160,2026-03-07T05:44:58.757881+00:00,reddit,user_47844,wallstreetbets,"Just bought AAPL calls for the first time, nervous",,450,AAPL,demo
+social-00161,2026-06-08T07:45:16.757881+00:00,reddit,user_26578,StockMarket,KO earnings tomorrow – what's your position?,,2276,KO,demo
+social-00162,2025-10-11T00:27:22.757881+00:00,reddit,user_89744,wallstreetbets,TSLA is about to moon based on these signals,,1592,TSLA,demo
+social-00163,2026-02-02T16:00:17.757881+00:00,reddit,user_80058,StockMarket,Anyone else holding XOM? Earnings play looks interesting,,2957,XOM,demo
+social-00164,2025-11-28T17:14:36.757881+00:00,reddit,user_51608,stocks,Anyone else holding UNH? Earnings play looks interesting,,2331,UNH,demo
+social-00165,2026-02-15T17:09:13.757881+00:00,reddit,user_41381,finance,PG DD: Why I think this is a 10-bagger,,1766,PG,demo
+social-00166,2026-07-17T05:49:34.757881+00:00,reddit,user_38831,investing,MA is about to moon based on these signals,,3393,MA,demo
+social-00167,2026-08-22T17:49:09.757881+00:00,reddit,user_77962,StockMarket,AMZN DD: Why I think this is a 10-bagger,,1176,AMZN,demo
+social-00168,2026-01-28T00:36:23.757881+00:00,reddit,user_44963,wallstreetbets,TSLA is about to moon based on these signals,,724,TSLA,demo
+social-00169,2026-03-10T06:44:14.757881+00:00,reddit,user_84729,stocks,AAPL is about to moon based on these signals,,1432,AAPL,demo
+social-00170,2026-03-30T17:33:27.757881+00:00,reddit,user_18947,investing,"Sold ABBV today, here's why",,3127,ABBV,demo
+social-00171,2026-05-05T08:42:05.757881+00:00,reddit,user_65302,wallstreetbets,Hot take: JNJ is overvalued at current prices,,4794,JNJ,demo
+social-00172,2026-04-12T03:38:16.757881+00:00,reddit,user_4517,wallstreetbets,"Sold JNJ today, here's why",,2151,JNJ,demo
+social-00173,2026-06-08T00:41:41.757881+00:00,reddit,user_84435,finance,JNJ DD: Why I think this is a 10-bagger,,2356,JNJ,demo
+social-00174,2025-12-10T22:09:30.757881+00:00,reddit,user_33079,wallstreetbets,HD DD: Why I think this is a 10-bagger,,2270,HD,demo
+social-00175,2025-10-28T04:12:28.757881+00:00,reddit,user_79497,stocks,XOM CEO news — thoughts?,,4633,XOM,demo
+social-00176,2026-09-04T11:51:29.757881+00:00,reddit,user_91996,wallstreetbets,"Just bought HD calls for the first time, nervous",,4198,HD,demo
+social-00177,2025-10-09T01:49:10.757881+00:00,reddit,user_35018,investing,Anyone else holding CVX? Earnings play looks interesting,,1197,CVX,demo
+social-00178,2026-03-30T07:31:43.757881+00:00,reddit,user_22405,wallstreetbets,Hot take: V is overvalued at current prices,,2958,V,demo
+social-00179,2026-06-06T08:32:26.757881+00:00,reddit,user_47659,wallstreetbets,Hot take: HD is overvalued at current prices,,2389,HD,demo
+social-00180,2026-06-07T09:42:02.757881+00:00,reddit,user_83317,investing,BAC DD: Why I think this is a 10-bagger,,4905,BAC,demo
+social-00181,2026-05-01T10:03:13.757881+00:00,reddit,user_43284,stocks,Hot take: META is overvalued at current prices,,2223,META,demo
+social-00182,2025-11-08T11:31:10.757881+00:00,reddit,user_19837,wallstreetbets,"Sold PG today, here's why",,4244,PG,demo
+social-00183,2026-02-24T03:01:54.757881+00:00,reddit,user_64556,finance,"Just bought JNJ calls for the first time, nervous",,1335,JNJ,demo
+social-00184,2025-12-25T21:02:27.757881+00:00,reddit,user_25696,StockMarket,GOOGL DD: Why I think this is a 10-bagger,,3418,GOOGL,demo
+social-00185,2026-09-23T00:19:00.757881+00:00,reddit,user_11013,wallstreetbets,"Sold MA today, here's why",,142,MA,demo
+social-00186,2026-02-14T11:50:20.757881+00:00,reddit,user_58925,StockMarket,"Just bought XOM calls for the first time, nervous",,1410,XOM,demo
+social-00187,2025-10-13T10:20:44.757881+00:00,reddit,user_98577,wallstreetbets,JNJ earnings tomorrow – what's your position?,,1054,JNJ,demo
+social-00188,2026-06-26T11:21:06.757881+00:00,reddit,user_18067,wallstreetbets,AMZN is about to moon based on these signals,,915,AMZN,demo
+social-00189,2025-10-09T13:34:33.757881+00:00,reddit,user_64472,finance,Anyone else holding NVDA? Earnings play looks interesting,,1608,NVDA,demo
+social-00190,2025-10-14T23:56:15.757881+00:00,reddit,user_8768,finance,GOOGL DD: Why I think this is a 10-bagger,,2072,GOOGL,demo
+social-00191,2025-10-27T23:45:27.757881+00:00,reddit,user_40537,wallstreetbets,MSFT DD: Why I think this is a 10-bagger,,1014,MSFT,demo
+social-00192,2025-12-21T00:45:55.757881+00:00,reddit,user_88896,stocks,Anyone else holding KO? Earnings play looks interesting,,743,KO,demo
+social-00193,2026-08-26T18:17:17.757881+00:00,reddit,user_98805,stocks,"Just bought AMZN calls for the first time, nervous",,2885,AMZN,demo
+social-00194,2026-08-30T08:45:07.757881+00:00,reddit,user_32696,StockMarket,META DD: Why I think this is a 10-bagger,,811,META,demo
+social-00195,2026-07-25T16:14:15.757881+00:00,reddit,user_2832,StockMarket,CVX earnings tomorrow – what's your position?,,1569,CVX,demo
+social-00196,2025-12-07T23:19:55.757881+00:00,reddit,user_96072,wallstreetbets,JNJ earnings tomorrow – what's your position?,,4130,JNJ,demo
+social-00197,2026-02-21T13:58:13.757881+00:00,reddit,user_92505,StockMarket,"Sold XOM today, here's why",,3601,XOM,demo
+social-00198,2025-12-11T11:55:04.757881+00:00,reddit,user_56586,investing,GOOGL earnings tomorrow – what's your position?,,3338,GOOGL,demo
+social-00199,2026-07-24T23:08:16.757881+00:00,reddit,user_42193,wallstreetbets,GOOGL CEO news — thoughts?,,903,GOOGL,demo
+social-00200,2025-11-24T01:04:57.757881+00:00,reddit,user_38784,StockMarket,Anyone else holding BAC? Earnings play looks interesting,,673,BAC,demo
+social-00201,2026-04-12T00:01:27.757881+00:00,reddit,user_16167,finance,Hot take: V is overvalued at current prices,,3743,V,demo
+social-00202,2026-07-15T03:55:49.757881+00:00,reddit,user_59190,investing,KO is about to moon based on these signals,,2380,KO,demo
+social-00203,2025-12-14T13:53:27.757881+00:00,reddit,user_10123,finance,"Just bought HD calls for the first time, nervous",,1468,HD,demo
+social-00204,2026-06-21T01:54:14.757881+00:00,reddit,user_58417,StockMarket,AAPL DD: Why I think this is a 10-bagger,,976,AAPL,demo
+social-00205,2026-03-04T14:11:49.757881+00:00,reddit,user_53510,StockMarket,AMZN DD: Why I think this is a 10-bagger,,1382,AMZN,demo
+social-00206,2026-02-20T12:18:37.757881+00:00,reddit,user_78982,finance,NVDA DD: Why I think this is a 10-bagger,,1907,NVDA,demo
+social-00207,2026-07-10T21:38:45.757881+00:00,reddit,user_66419,stocks,Hot take: HD is overvalued at current prices,,3278,HD,demo
+social-00208,2026-04-05T01:18:35.757881+00:00,reddit,user_64508,StockMarket,Hot take: PG is overvalued at current prices,,1207,PG,demo
+social-00209,2025-11-13T05:15:44.757881+00:00,reddit,user_17015,stocks,MA CEO news — thoughts?,,4073,MA,demo
+social-00210,2026-06-03T07:07:47.757881+00:00,reddit,user_97704,wallstreetbets,BRK.B DD: Why I think this is a 10-bagger,,4080,BRK.B,demo
+social-00211,2025-12-10T19:34:49.757881+00:00,reddit,user_51152,StockMarket,"Just bought AAPL calls for the first time, nervous",,1251,AAPL,demo
+social-00212,2026-05-31T19:26:16.757881+00:00,reddit,user_87649,StockMarket,JNJ CEO news — thoughts?,,3817,JNJ,demo
+social-00213,2026-01-24T06:29:32.757881+00:00,reddit,user_87781,finance,TSLA CEO news — thoughts?,,4135,TSLA,demo
+social-00214,2026-04-30T22:10:37.757881+00:00,reddit,user_72646,wallstreetbets,Anyone else holding JPM? Earnings play looks interesting,,3525,JPM,demo
+social-00215,2026-02-28T05:58:37.757881+00:00,reddit,user_59997,stocks,GOOGL is about to moon based on these signals,,3625,GOOGL,demo
+social-00216,2025-10-16T05:39:21.757881+00:00,reddit,user_40720,investing,MA CEO news — thoughts?,,3528,MA,demo
+social-00217,2026-01-31T14:37:21.757881+00:00,reddit,user_94811,finance,AMZN CEO news — thoughts?,,896,AMZN,demo
+social-00218,2026-06-21T09:58:21.757881+00:00,reddit,user_71699,StockMarket,CVX CEO news — thoughts?,,3898,CVX,demo
+social-00219,2026-08-30T01:25:13.757881+00:00,reddit,user_21487,StockMarket,Anyone else holding ABBV? Earnings play looks interesting,,3206,ABBV,demo
+social-00220,2026-04-12T09:08:34.757881+00:00,reddit,user_89668,stocks,Hot take: JPM is overvalued at current prices,,2625,JPM,demo
+social-00221,2025-10-13T04:38:11.757881+00:00,reddit,user_78393,wallstreetbets,"Sold MSFT today, here's why",,3001,MSFT,demo
+social-00222,2026-08-12T15:52:20.757881+00:00,reddit,user_82940,stocks,PG is about to moon based on these signals,,797,PG,demo
+social-00223,2026-02-13T07:15:13.757881+00:00,reddit,user_47840,finance,"Just bought HD calls for the first time, nervous",,462,HD,demo
+social-00224,2026-01-06T10:12:59.757881+00:00,reddit,user_12133,wallstreetbets,Hot take: BRK.B is overvalued at current prices,,937,BRK.B,demo
+social-00225,2025-12-07T04:44:41.757881+00:00,reddit,user_3583,StockMarket,"Just bought V calls for the first time, nervous",,306,V,demo
+social-00226,2026-06-14T17:07:39.757881+00:00,reddit,user_56203,stocks,Anyone else holding MA? Earnings play looks interesting,,3847,MA,demo
+social-00227,2025-10-10T21:32:46.757881+00:00,reddit,user_42486,finance,CVX is about to moon based on these signals,,2641,CVX,demo
+social-00228,2025-11-09T05:09:24.757881+00:00,reddit,user_89488,investing,"Just bought CVX calls for the first time, nervous",,4069,CVX,demo
+social-00229,2026-08-13T09:36:59.757881+00:00,reddit,user_88475,stocks,"Sold BAC today, here's why",,2453,BAC,demo
+social-00230,2026-03-20T14:01:09.757881+00:00,reddit,user_10872,StockMarket,PG earnings tomorrow – what's your position?,,2354,PG,demo
+social-00231,2025-10-20T17:18:42.757881+00:00,reddit,user_39970,StockMarket,JPM is about to moon based on these signals,,1850,JPM,demo
+social-00232,2026-07-17T18:30:20.757881+00:00,reddit,user_76784,wallstreetbets,"Just bought KO calls for the first time, nervous",,2239,KO,demo
+social-00233,2026-05-10T05:46:54.757881+00:00,reddit,user_70607,finance,NVDA is about to moon based on these signals,,1718,NVDA,demo
+social-00234,2026-08-07T06:17:57.757881+00:00,reddit,user_67144,stocks,PG is about to moon based on these signals,,4423,PG,demo
+social-00235,2025-12-18T23:08:24.757881+00:00,reddit,user_55304,finance,Hot take: V is overvalued at current prices,,4221,V,demo
+social-00236,2026-06-20T01:40:57.757881+00:00,reddit,user_3438,StockMarket,"Sold MA today, here's why",,4725,MA,demo
+social-00237,2025-12-23T23:09:05.757881+00:00,reddit,user_87613,finance,Hot take: XOM is overvalued at current prices,,4364,XOM,demo
+social-00238,2026-08-29T10:43:23.757881+00:00,reddit,user_75202,wallstreetbets,KO earnings tomorrow – what's your position?,,2984,KO,demo
+social-00239,2025-11-28T15:21:30.757881+00:00,reddit,user_32506,investing,Hot take: MA is overvalued at current prices,,3566,MA,demo
+social-00240,2026-02-03T00:21:01.757881+00:00,reddit,user_84090,investing,HD is about to moon based on these signals,,2186,HD,demo
+social-00241,2026-06-10T03:50:29.757881+00:00,reddit,user_22048,stocks,JNJ earnings tomorrow – what's your position?,,3324,JNJ,demo
+social-00242,2025-11-15T08:43:48.757881+00:00,reddit,user_41703,finance,BRK.B CEO news — thoughts?,,4586,BRK.B,demo
+social-00243,2026-03-15T03:47:27.757881+00:00,reddit,user_85793,wallstreetbets,HD earnings tomorrow – what's your position?,,1305,HD,demo
+social-00244,2025-11-24T05:54:47.757881+00:00,reddit,user_37408,StockMarket,"Sold JPM today, here's why",,345,JPM,demo
+social-00245,2026-08-02T01:14:04.757881+00:00,reddit,user_3609,wallstreetbets,XOM DD: Why I think this is a 10-bagger,,2571,XOM,demo
+social-00246,2026-01-25T23:39:16.757881+00:00,reddit,user_54347,stocks,KO DD: Why I think this is a 10-bagger,,3251,KO,demo
+social-00247,2026-01-01T22:21:01.757881+00:00,reddit,user_15671,StockMarket,AMZN DD: Why I think this is a 10-bagger,,4275,AMZN,demo
+social-00248,2026-07-30T06:53:27.757881+00:00,reddit,user_12829,investing,CVX DD: Why I think this is a 10-bagger,,2567,CVX,demo
+social-00249,2026-08-21T12:12:15.757881+00:00,reddit,user_77588,finance,V earnings tomorrow – what's your position?,,3464,V,demo
+social-00250,2025-11-27T07:03:18.757881+00:00,reddit,user_36985,finance,TSLA is about to moon based on these signals,,2083,TSLA,demo
+social-00251,2025-10-23T23:33:00.757881+00:00,reddit,user_65272,StockMarket,"Just bought CVX calls for the first time, nervous",,925,CVX,demo
+social-00252,2026-05-02T04:59:59.757881+00:00,reddit,user_37403,investing,"Just bought V calls for the first time, nervous",,3893,V,demo
+social-00253,2026-08-17T05:58:03.757881+00:00,reddit,user_41392,wallstreetbets,Anyone else holding PG? Earnings play looks interesting,,447,PG,demo
+social-00254,2026-01-08T12:15:32.757881+00:00,reddit,user_92831,stocks,BRK.B DD: Why I think this is a 10-bagger,,4381,BRK.B,demo
+social-00255,2026-08-31T08:08:17.757881+00:00,reddit,user_58986,finance,Anyone else holding BRK.B? Earnings play looks interesting,,3219,BRK.B,demo
+social-00256,2026-01-27T02:46:06.757881+00:00,reddit,user_31862,stocks,JPM earnings tomorrow – what's your position?,,1312,JPM,demo
+social-00257,2026-06-04T10:55:16.757881+00:00,reddit,user_42573,finance,Anyone else holding MA? Earnings play looks interesting,,2244,MA,demo
+social-00258,2026-08-17T23:02:48.757881+00:00,reddit,user_97592,finance,"Just bought NVDA calls for the first time, nervous",,3460,NVDA,demo
+social-00259,2026-08-18T10:15:37.757881+00:00,reddit,user_22016,stocks,GOOGL DD: Why I think this is a 10-bagger,,2882,GOOGL,demo
+social-00260,2026-05-24T02:24:53.757881+00:00,reddit,user_43830,finance,Anyone else holding HD? Earnings play looks interesting,,426,HD,demo
+social-00261,2026-06-03T23:46:13.757881+00:00,reddit,user_59117,investing,Anyone else holding META? Earnings play looks interesting,,3282,META,demo
+social-00262,2026-06-03T06:25:59.757881+00:00,reddit,user_15526,investing,TSLA earnings tomorrow – what's your position?,,4230,TSLA,demo
+social-00263,2026-08-27T04:31:51.757881+00:00,reddit,user_78858,finance,"Just bought AMZN calls for the first time, nervous",,3698,AMZN,demo
+social-00264,2026-09-06T11:57:07.757881+00:00,reddit,user_91107,StockMarket,"Just bought XOM calls for the first time, nervous",,2308,XOM,demo
+social-00265,2025-11-04T00:56:33.757881+00:00,reddit,user_55328,stocks,"Sold TSLA today, here's why",,3223,TSLA,demo
+social-00266,2026-08-22T10:03:36.757881+00:00,reddit,user_4010,StockMarket,UNH earnings tomorrow – what's your position?,,728,UNH,demo
+social-00267,2025-12-18T06:15:44.757881+00:00,reddit,user_35312,investing,Anyone else holding MA? Earnings play looks interesting,,3285,MA,demo
+social-00268,2026-03-17T19:57:23.757881+00:00,reddit,user_49224,investing,KO DD: Why I think this is a 10-bagger,,115,KO,demo
+social-00269,2026-03-20T06:15:39.757881+00:00,reddit,user_60468,finance,BAC DD: Why I think this is a 10-bagger,,1838,BAC,demo
+social-00270,2025-12-15T06:17:16.757881+00:00,reddit,user_35891,stocks,TSLA CEO news — thoughts?,,3129,TSLA,demo
+social-00271,2026-03-18T18:22:29.757881+00:00,reddit,user_28080,StockMarket,AMZN earnings tomorrow – what's your position?,,2318,AMZN,demo
+social-00272,2026-03-13T17:24:53.757881+00:00,reddit,user_4771,stocks,Hot take: TSLA is overvalued at current prices,,1929,TSLA,demo
+social-00273,2026-03-26T09:41:41.757881+00:00,reddit,user_33547,stocks,KO CEO news — thoughts?,,702,KO,demo
+social-00274,2026-04-02T08:34:51.757881+00:00,reddit,user_91835,finance,AAPL earnings tomorrow – what's your position?,,3141,AAPL,demo
+social-00275,2026-07-15T03:16:30.757881+00:00,reddit,user_79275,stocks,HD DD: Why I think this is a 10-bagger,,780,HD,demo
+social-00276,2025-10-25T01:53:55.757881+00:00,reddit,user_62726,stocks,Anyone else holding ABBV? Earnings play looks interesting,,43,ABBV,demo
+social-00277,2026-04-16T04:57:35.757881+00:00,reddit,user_82219,finance,Hot take: JPM is overvalued at current prices,,3233,JPM,demo
+social-00278,2025-11-22T14:50:14.757881+00:00,reddit,user_77085,investing,Hot take: PG is overvalued at current prices,,1391,PG,demo
+social-00279,2026-04-11T15:53:15.757881+00:00,reddit,user_45456,finance,"Sold BAC today, here's why",,734,BAC,demo
+social-00280,2026-07-05T02:20:57.757881+00:00,reddit,user_16314,stocks,Anyone else holding V? Earnings play looks interesting,,1047,V,demo
+social-00281,2026-09-05T18:55:47.757881+00:00,reddit,user_37831,stocks,XOM is about to moon based on these signals,,2317,XOM,demo
+social-00282,2026-05-28T07:13:25.757881+00:00,reddit,user_68760,stocks,JPM is about to moon based on these signals,,1351,JPM,demo
+social-00283,2026-07-15T10:24:23.757881+00:00,reddit,user_65392,investing,V CEO news — thoughts?,,435,V,demo
+social-00284,2025-11-28T23:32:01.757881+00:00,reddit,user_62636,stocks,"Sold TSLA today, here's why",,3826,TSLA,demo
+social-00285,2025-11-16T07:42:35.757881+00:00,reddit,user_65868,wallstreetbets,HD CEO news — thoughts?,,2920,HD,demo
+social-00286,2026-04-08T16:40:29.757881+00:00,reddit,user_95340,investing,ABBV DD: Why I think this is a 10-bagger,,2863,ABBV,demo
+social-00287,2025-12-20T09:13:23.757881+00:00,reddit,user_38239,investing,"Sold NVDA today, here's why",,4167,NVDA,demo
+social-00288,2026-05-09T00:08:01.757881+00:00,reddit,user_77486,wallstreetbets,"Sold JPM today, here's why",,3411,JPM,demo
+social-00289,2026-01-05T20:38:27.757881+00:00,reddit,user_66288,wallstreetbets,"Just bought NVDA calls for the first time, nervous",,212,NVDA,demo
+social-00290,2026-06-23T20:34:43.757881+00:00,reddit,user_49963,StockMarket,JNJ DD: Why I think this is a 10-bagger,,2650,JNJ,demo
+social-00291,2025-10-13T11:25:02.757881+00:00,reddit,user_11625,finance,AMZN CEO news — thoughts?,,3719,AMZN,demo
+social-00292,2026-05-21T00:40:21.757881+00:00,reddit,user_6747,StockMarket,JPM CEO news — thoughts?,,2661,JPM,demo
+social-00293,2025-11-21T11:38:20.757881+00:00,reddit,user_28704,wallstreetbets,Hot take: CVX is overvalued at current prices,,2647,CVX,demo
+social-00294,2026-07-18T03:00:21.757881+00:00,reddit,user_50989,wallstreetbets,MSFT is about to moon based on these signals,,2090,MSFT,demo
+social-00295,2026-01-03T11:59:47.757881+00:00,reddit,user_53286,wallstreetbets,Anyone else holding META? Earnings play looks interesting,,1705,META,demo
+social-00296,2026-03-02T03:23:49.757881+00:00,reddit,user_99639,investing,META DD: Why I think this is a 10-bagger,,2445,META,demo
+social-00297,2026-08-09T09:05:04.757881+00:00,reddit,user_57670,stocks,"Sold XOM today, here's why",,2941,XOM,demo
+social-00298,2026-08-21T09:34:56.757881+00:00,reddit,user_59385,finance,GOOGL CEO news — thoughts?,,2199,GOOGL,demo
+social-00299,2026-05-23T09:52:07.757881+00:00,reddit,user_56452,wallstreetbets,CVX is about to moon based on these signals,,3016,CVX,demo

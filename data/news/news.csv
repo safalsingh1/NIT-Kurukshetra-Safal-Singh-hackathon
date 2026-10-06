@@ -1,0 +1,501 @@
+id,timestamp,url,source,headline,body,entities,tone,mode
+news-00000,2025-12-27T22:45:44.724566+00:00,https://ft.com/article/0,techcrunch.com,GOOGL announces strategic partnership with Samsung for AI development,,GOOGL,1.98,demo
+news-00001,2025-12-26T04:08:28.724566+00:00,https://wsj.com/article/1,thestreet.com,NVDA reports data breach affecting 15M customers,,NVDA,0.32,demo
+news-00002,2025-10-04T18:51:37.724566+00:00,https://ft.com/article/2,techcrunch.com,MA acquires CloudLogix for $11.5B in all-stock deal,,MA,-3.85,demo
+news-00003,2026-02-26T19:27:59.724566+00:00,https://bloomberg.com/article/3,marketwatch.com,"NVDA announces $5B share buyback program, dividend increase",,NVDA,-2.42,demo
+news-00004,2026-05-30T11:18:33.724566+00:00,https://marketwatch.com/article/4,barrons.com,NVDA CEO John Smith unexpectedly steps down; board to begin search,,NVDA,-4.46,demo
+news-00005,2026-09-03T18:30:02.724566+00:00,https://bloomberg.com/article/5,seekingalpha.com,BRK.B raises annual guidance following strong demand environment,,BRK.B,-1.51,demo
+news-00006,2025-10-29T23:48:25.724566+00:00,https://barrons.com/article/6,fortune.com,SEC opens preliminary investigation into JPM over disclosure claims,,JPM,-1.13,demo
+news-00007,2025-12-26T13:14:57.724566+00:00,https://fortune.com/article/7,marketwatch.com,"ABBV announces $5B share buyback program, dividend increase",,ABBV,-3.62,demo
+news-00008,2026-09-07T14:37:32.724566+00:00,https://techcrunch.com/article/8,marketwatch.com,NVDA CEO Elena Martinez unexpectedly steps down; board to begin search,,NVDA,1.45,demo
+news-00009,2026-07-18T14:05:17.724566+00:00,https://thestreet.com/article/9,thestreet.com,BRK.B raises annual guidance following strong demand environment,,BRK.B,5.0,demo
+news-00010,2026-09-01T16:20:54.724566+00:00,https://bloomberg.com/article/10,ft.com,Federal Reserve decision impacts BAC and broader market outlook,,BAC,-4.2,demo
+news-00011,2026-04-25T17:59:26.724566+00:00,https://cnbc.com/article/11,thestreet.com,"MA announces $5B share buyback program, dividend increase",,MA,0.17,demo
+news-00012,2026-03-27T11:17:56.724566+00:00,https://reuters.com/article/12,techcrunch.com,Geopolitical tensions raise concerns for V supply chain exposure,,V,2.04,demo
+news-00013,2026-08-25T03:12:51.724566+00:00,https://fortune.com/article/13,thestreet.com,JNJ reports data breach affecting 39M customers,,JNJ,1.72,demo
+news-00014,2026-02-20T05:30:48.724566+00:00,https://cnbc.com/article/14,wsj.com,V reports quarterly earnings that beat analyst expectations by 10%,,V,-1.21,demo
+news-00015,2026-07-26T16:22:54.724566+00:00,https://ft.com/article/15,ft.com,Federal Reserve decision impacts ABBV and broader market outlook,,ABBV,0.09,demo
+news-00016,2026-07-06T03:27:12.724566+00:00,https://cnbc.com/article/16,seekingalpha.com,Federal Reserve decision impacts ABBV and broader market outlook,,ABBV,0.12,demo
+news-00017,2026-02-10T13:28:24.724566+00:00,https://reuters.com/article/17,barrons.com,NVDA receives FDA/FCC regulatory approval for key new product,,NVDA,-3.83,demo
+news-00018,2025-10-29T18:43:33.724566+00:00,https://thestreet.com/article/18,wsj.com,NVDA raises annual guidance following strong demand environment,,NVDA,4.1,demo
+news-00019,2026-08-11T20:42:18.724566+00:00,https://seekingalpha.com/article/19,wsj.com,XOM announces strategic partnership with Samsung for AI development,,XOM,-2.78,demo
+news-00020,2025-11-09T11:36:30.724566+00:00,https://reuters.com/article/20,seekingalpha.com,"MSFT to launch next-gen AI chip, orders reportedly exceed supply",,MSFT,-3.33,demo
+news-00021,2025-12-12T12:31:11.724566+00:00,https://cnbc.com/article/21,businessinsider.com,HD CEO David Kim unexpectedly steps down; board to begin search,,HD,-5.0,demo
+news-00022,2025-12-24T06:33:24.724566+00:00,https://seekingalpha.com/article/22,reuters.com,SEC opens preliminary investigation into BRK.B over disclosure claims,,BRK.B,1.44,demo
+news-00023,2026-06-29T18:59:27.724566+00:00,https://techcrunch.com/article/23,thestreet.com,Federal Reserve decision impacts HD and broader market outlook,,HD,2.5,demo
+news-00024,2025-10-21T17:38:52.724566+00:00,https://barrons.com/article/24,businessinsider.com,ABBV receives FDA/FCC regulatory approval for key new product,,ABBV,2.01,demo
+news-00025,2025-10-28T15:43:43.724566+00:00,https://fortune.com/article/25,wsj.com,KO acquires TechStart AI for $7.3B in all-stock deal,,KO,0.81,demo
+news-00026,2026-01-11T12:47:59.724566+00:00,https://wsj.com/article/26,fortune.com,"CVX to launch next-gen AI chip, orders reportedly exceed supply",,CVX,-2.0,demo
+news-00027,2026-09-28T01:21:57.724566+00:00,https://bloomberg.com/article/27,reuters.com,"Supply chain disruption hits V manufacturing, Q4 outlook uncertain",,V,-0.87,demo
+news-00028,2026-02-22T18:31:46.724566+00:00,https://cnbc.com/article/28,ft.com,"Supply chain disruption hits PG manufacturing, Q4 outlook uncertain",,PG,3.77,demo
+news-00029,2026-01-26T12:41:58.724566+00:00,https://fortune.com/article/29,bloomberg.com,Geopolitical tensions raise concerns for ABBV supply chain exposure,,ABBV,-3.5,demo
+news-00030,2025-12-20T07:57:07.724566+00:00,https://fortune.com/article/30,fortune.com,"JNJ announces $5B share buyback program, dividend increase",,JNJ,-3.15,demo
+news-00031,2026-08-20T08:22:19.724566+00:00,https://cnbc.com/article/31,reuters.com,HD reports quarterly earnings that beat analyst expectations by 13%,,HD,-2.44,demo
+news-00032,2026-06-27T15:03:25.724566+00:00,https://ft.com/article/32,thestreet.com,AAPL reports quarterly earnings that beat analyst expectations by 14%,,AAPL,4.6,demo
+news-00033,2026-09-16T09:24:08.724566+00:00,https://reuters.com/article/33,marketwatch.com,PG CEO John Smith unexpectedly steps down; board to begin search,,PG,3.9,demo
+news-00034,2025-12-04T08:54:49.724566+00:00,https://ft.com/article/34,seekingalpha.com,AMZN reports quarterly earnings that beat analyst expectations by 8%,,AMZN,1.64,demo
+news-00035,2026-08-04T01:08:59.724566+00:00,https://techcrunch.com/article/35,bloomberg.com,META acquires SafeGuard Systems for $9.9B in all-stock deal,,META,-0.83,demo
+news-00036,2025-12-27T20:05:08.724566+00:00,https://reuters.com/article/36,fortune.com,JNJ CEO Robert Walsh unexpectedly steps down; board to begin search,,JNJ,2.17,demo
+news-00037,2026-03-06T11:33:36.724566+00:00,https://fortune.com/article/37,thestreet.com,"Analysts upgrade BAC to Buy, raise price target to $282",,BAC,-4.58,demo
+news-00038,2026-08-03T16:19:45.724566+00:00,https://marketwatch.com/article/38,seekingalpha.com,GOOGL reports data breach affecting 46M customers,,GOOGL,-1.89,demo
+news-00039,2025-10-02T22:03:04.724566+00:00,https://thestreet.com/article/39,thestreet.com,Federal Reserve decision impacts HD and broader market outlook,,HD,-1.31,demo
+news-00040,2026-09-16T19:19:55.724566+00:00,https://cnbc.com/article/40,thestreet.com,V raises annual guidance following strong demand environment,,V,-0.67,demo
+news-00041,2026-06-17T11:52:44.724566+00:00,https://seekingalpha.com/article/41,fortune.com,"HD to launch next-gen AI chip, orders reportedly exceed supply",,HD,-1.1,demo
+news-00042,2026-05-25T20:46:59.724566+00:00,https://fortune.com/article/42,marketwatch.com,"Supply chain disruption hits JNJ manufacturing, Q4 outlook uncertain",,JNJ,1.08,demo
+news-00043,2026-01-20T11:22:06.724566+00:00,https://thestreet.com/article/43,fortune.com,Federal Reserve decision impacts NVDA and broader market outlook,,NVDA,4.25,demo
+news-00044,2026-04-04T18:52:45.724566+00:00,https://barrons.com/article/44,bloomberg.com,"Supply chain disruption hits TSLA manufacturing, Q4 outlook uncertain",,TSLA,0.46,demo
+news-00045,2026-01-05T00:23:14.724566+00:00,https://ft.com/article/45,fortune.com,"UNH to launch next-gen AI chip, orders reportedly exceed supply",,UNH,0.61,demo
+news-00046,2026-03-28T12:49:12.724566+00:00,https://ft.com/article/46,businessinsider.com,Federal Reserve decision impacts ABBV and broader market outlook,,ABBV,0.03,demo
+news-00047,2026-03-16T23:47:58.724566+00:00,https://thestreet.com/article/47,businessinsider.com,Geopolitical tensions raise concerns for BAC supply chain exposure,,BAC,4.85,demo
+news-00048,2026-06-02T16:00:22.724566+00:00,https://wsj.com/article/48,cnbc.com,"Supply chain disruption hits JPM manufacturing, Q4 outlook uncertain",,JPM,0.3,demo
+news-00049,2025-11-25T00:01:38.724566+00:00,https://ft.com/article/49,wsj.com,NVDA acquires CloudLogix for $5.3B in all-stock deal,,NVDA,-3.02,demo
+news-00050,2026-03-14T10:18:32.724566+00:00,https://seekingalpha.com/article/50,barrons.com,"MA to launch next-gen AI chip, orders reportedly exceed supply",,MA,-1.47,demo
+news-00051,2026-08-29T16:59:56.724566+00:00,https://seekingalpha.com/article/51,thestreet.com,"UNH to launch next-gen AI chip, orders reportedly exceed supply",,UNH,0.86,demo
+news-00052,2026-06-23T00:20:55.724566+00:00,https://seekingalpha.com/article/52,techcrunch.com,SEC opens preliminary investigation into XOM over disclosure claims,,XOM,2.23,demo
+news-00053,2026-06-16T17:53:35.724566+00:00,https://reuters.com/article/53,bloomberg.com,Federal Reserve decision impacts CVX and broader market outlook,,CVX,0.41,demo
+news-00054,2026-09-08T21:07:35.724566+00:00,https://seekingalpha.com/article/54,cnbc.com,TSLA stock falls on weaker-than-expected revenue guidance,,TSLA,-2.17,demo
+news-00055,2026-06-11T18:04:10.724566+00:00,https://bloomberg.com/article/55,fortune.com,BRK.B reports quarterly earnings that beat analyst expectations by 27%,,BRK.B,0.64,demo
+news-00056,2025-12-25T21:51:51.724566+00:00,https://businessinsider.com/article/56,techcrunch.com,AMZN raises annual guidance following strong demand environment,,AMZN,-1.21,demo
+news-00057,2026-01-31T01:22:49.724566+00:00,https://bloomberg.com/article/57,barrons.com,META reports quarterly earnings that beat analyst expectations by 12%,,META,0.21,demo
+news-00058,2025-11-10T20:04:35.724566+00:00,https://techcrunch.com/article/58,cnbc.com,"CVX announces $5B share buyback program, dividend increase",,CVX,-1.28,demo
+news-00059,2026-06-16T04:06:47.724566+00:00,https://marketwatch.com/article/59,bloomberg.com,HD receives FDA/FCC regulatory approval for key new product,,HD,-3.27,demo
+news-00060,2026-07-03T22:52:54.724566+00:00,https://ft.com/article/60,seekingalpha.com,SEC opens preliminary investigation into PG over disclosure claims,,PG,-3.09,demo
+news-00061,2026-08-18T22:41:30.724566+00:00,https://techcrunch.com/article/61,barrons.com,HD raises annual guidance following strong demand environment,,HD,-3.53,demo
+news-00062,2026-02-09T21:43:52.724566+00:00,https://reuters.com/article/62,businessinsider.com,"MA announces $5B share buyback program, dividend increase",,MA,-3.36,demo
+news-00063,2026-09-09T03:27:51.724566+00:00,https://barrons.com/article/63,techcrunch.com,Geopolitical tensions raise concerns for JPM supply chain exposure,,JPM,-1.58,demo
+news-00064,2026-06-27T11:13:59.724566+00:00,https://businessinsider.com/article/64,fortune.com,"HD to launch next-gen AI chip, orders reportedly exceed supply",,HD,-4.2,demo
+news-00065,2026-01-29T04:20:04.724566+00:00,https://fortune.com/article/65,barrons.com,"Analysts upgrade BRK.B to Buy, raise price target to $452",,BRK.B,0.3,demo
+news-00066,2025-11-18T02:52:54.724566+00:00,https://techcrunch.com/article/66,wsj.com,"Analysts upgrade MA to Buy, raise price target to $880",,MA,-0.25,demo
+news-00067,2026-01-17T15:27:02.724566+00:00,https://techcrunch.com/article/67,barrons.com,XOM stock falls on weaker-than-expected revenue guidance,,XOM,1.89,demo
+news-00068,2026-04-27T16:47:14.724566+00:00,https://ft.com/article/68,cnbc.com,PG reports quarterly earnings that beat analyst expectations by 4%,,PG,0.18,demo
+news-00069,2026-05-13T04:57:13.724566+00:00,https://cnbc.com/article/69,businessinsider.com,"Supply chain disruption hits AAPL manufacturing, Q4 outlook uncertain",,AAPL,0.38,demo
+news-00070,2026-06-03T17:08:48.724566+00:00,https://fortune.com/article/70,reuters.com,SEC opens preliminary investigation into NVDA over disclosure claims,,NVDA,-0.8,demo
+news-00071,2026-05-25T17:34:39.724566+00:00,https://barrons.com/article/71,barrons.com,HD CEO Elena Martinez unexpectedly steps down; board to begin search,,HD,0.58,demo
+news-00072,2026-05-27T00:27:33.724566+00:00,https://techcrunch.com/article/72,bloomberg.com,HD stock falls on weaker-than-expected revenue guidance,,HD,-1.19,demo
+news-00073,2026-05-04T15:13:41.724566+00:00,https://bloomberg.com/article/73,ft.com,META reports quarterly earnings that beat analyst expectations by 16%,,META,3.28,demo
+news-00074,2026-06-26T05:10:45.724566+00:00,https://wsj.com/article/74,cnbc.com,JNJ stock falls on weaker-than-expected revenue guidance,,JNJ,-0.8,demo
+news-00075,2026-05-01T17:58:36.724566+00:00,https://wsj.com/article/75,fortune.com,SEC opens preliminary investigation into GOOGL over disclosure claims,,GOOGL,-2.63,demo
+news-00076,2026-04-02T06:52:09.724566+00:00,https://techcrunch.com/article/76,cnbc.com,"CVX to launch next-gen AI chip, orders reportedly exceed supply",,CVX,2.36,demo
+news-00077,2026-09-12T16:18:34.724566+00:00,https://seekingalpha.com/article/77,techcrunch.com,"Analysts upgrade MSFT to Buy, raise price target to $193",,MSFT,-1.28,demo
+news-00078,2025-12-09T07:11:00.724566+00:00,https://businessinsider.com/article/78,thestreet.com,Federal Reserve decision impacts JPM and broader market outlook,,JPM,-3.77,demo
+news-00079,2026-02-14T09:31:10.724566+00:00,https://seekingalpha.com/article/79,marketwatch.com,"Analysts upgrade XOM to Buy, raise price target to $437",,XOM,-1.96,demo
+news-00080,2026-03-27T21:34:20.724566+00:00,https://bloomberg.com/article/80,marketwatch.com,UNH raises annual guidance following strong demand environment,,UNH,1.23,demo
+news-00081,2026-03-30T16:13:08.724566+00:00,https://seekingalpha.com/article/81,reuters.com,ABBV CEO David Kim unexpectedly steps down; board to begin search,,ABBV,-2.91,demo
+news-00082,2026-09-27T12:49:27.724566+00:00,https://cnbc.com/article/82,businessinsider.com,Geopolitical tensions raise concerns for MSFT supply chain exposure,,MSFT,0.91,demo
+news-00083,2026-01-30T22:41:19.724566+00:00,https://thestreet.com/article/83,reuters.com,META receives FDA/FCC regulatory approval for key new product,,META,3.02,demo
+news-00084,2026-04-17T21:19:06.724566+00:00,https://techcrunch.com/article/84,cnbc.com,AMZN acquires SafeGuard Systems for $6.8B in all-stock deal,,AMZN,-3.97,demo
+news-00085,2026-04-17T15:26:09.724566+00:00,https://techcrunch.com/article/85,ft.com,"KO announces $5B share buyback program, dividend increase",,KO,0.04,demo
+news-00086,2026-05-15T11:33:54.724566+00:00,https://fortune.com/article/86,businessinsider.com,"JNJ announces $5B share buyback program, dividend increase",,JNJ,-0.71,demo
+news-00087,2026-09-04T23:33:45.724566+00:00,https://wsj.com/article/87,techcrunch.com,V CEO Sarah Chen unexpectedly steps down; board to begin search,,V,-4.71,demo
+news-00088,2026-03-01T04:48:08.724566+00:00,https://fortune.com/article/88,fortune.com,SEC opens preliminary investigation into XOM over disclosure claims,,XOM,-1.27,demo
+news-00089,2025-11-09T23:40:04.724566+00:00,https://thestreet.com/article/89,businessinsider.com,MA reports quarterly earnings that beat analyst expectations by 26%,,MA,-4.38,demo
+news-00090,2026-06-11T15:12:14.724566+00:00,https://bloomberg.com/article/90,marketwatch.com,"JPM announces $5B share buyback program, dividend increase",,JPM,-2.03,demo
+news-00091,2026-05-30T01:25:36.724566+00:00,https://bloomberg.com/article/91,wsj.com,Federal Reserve decision impacts MSFT and broader market outlook,,MSFT,3.26,demo
+news-00092,2026-09-18T02:48:36.724566+00:00,https://reuters.com/article/92,reuters.com,"Analysts upgrade GOOGL to Buy, raise price target to $467",,GOOGL,-3.61,demo
+news-00093,2026-03-11T06:53:17.724566+00:00,https://barrons.com/article/93,fortune.com,BAC stock falls on weaker-than-expected revenue guidance,,BAC,1.33,demo
+news-00094,2025-12-31T10:26:26.724566+00:00,https://businessinsider.com/article/94,fortune.com,BRK.B raises annual guidance following strong demand environment,,BRK.B,-3.31,demo
+news-00095,2026-02-13T11:11:33.724566+00:00,https://barrons.com/article/95,cnbc.com,Federal Reserve decision impacts MA and broader market outlook,,MA,0.05,demo
+news-00096,2026-02-18T16:01:45.724566+00:00,https://barrons.com/article/96,cnbc.com,"XOM to launch next-gen AI chip, orders reportedly exceed supply",,XOM,1.92,demo
+news-00097,2026-08-21T16:54:31.724566+00:00,https://cnbc.com/article/97,wsj.com,XOM reports data breach affecting 44M customers,,XOM,1.52,demo
+news-00098,2026-06-10T06:37:07.724566+00:00,https://reuters.com/article/98,cnbc.com,AMZN stock falls on weaker-than-expected revenue guidance,,AMZN,-3.75,demo
+news-00099,2026-07-19T13:18:50.724566+00:00,https://seekingalpha.com/article/99,ft.com,V CEO Robert Walsh unexpectedly steps down; board to begin search,,V,-3.9,demo
+news-00100,2026-08-11T11:18:18.724566+00:00,https://cnbc.com/article/100,techcrunch.com,"JPM announces $5B share buyback program, dividend increase",,JPM,5.0,demo
+news-00101,2026-08-26T17:11:50.724566+00:00,https://thestreet.com/article/101,marketwatch.com,UNH announces strategic partnership with NVIDIA for AI development,,UNH,-3.09,demo
+news-00102,2026-02-23T12:40:22.724566+00:00,https://bloomberg.com/article/102,fortune.com,JPM CEO David Kim unexpectedly steps down; board to begin search,,JPM,-4.0,demo
+news-00103,2026-06-06T00:40:52.724566+00:00,https://businessinsider.com/article/103,techcrunch.com,NVDA raises annual guidance following strong demand environment,,NVDA,-2.35,demo
+news-00104,2026-04-29T00:35:06.724566+00:00,https://ft.com/article/104,seekingalpha.com,"Supply chain disruption hits XOM manufacturing, Q4 outlook uncertain",,XOM,1.37,demo
+news-00105,2026-08-22T00:52:12.724566+00:00,https://businessinsider.com/article/105,barrons.com,GOOGL acquires DataCore Inc. for $5.6B in all-stock deal,,GOOGL,1.22,demo
+news-00106,2026-09-17T10:42:19.724566+00:00,https://fortune.com/article/106,marketwatch.com,GOOGL reports quarterly earnings that beat analyst expectations by 15%,,GOOGL,2.38,demo
+news-00107,2026-06-08T11:24:23.724566+00:00,https://fortune.com/article/107,barrons.com,TSLA reports quarterly earnings that beat analyst expectations by 4%,,TSLA,-0.29,demo
+news-00108,2026-09-05T00:26:11.724566+00:00,https://wsj.com/article/108,marketwatch.com,ABBV stock falls on weaker-than-expected revenue guidance,,ABBV,0.46,demo
+news-00109,2026-01-07T14:33:14.724566+00:00,https://ft.com/article/109,bloomberg.com,Federal Reserve decision impacts ABBV and broader market outlook,,ABBV,1.68,demo
+news-00110,2025-11-20T11:45:45.724566+00:00,https://techcrunch.com/article/110,seekingalpha.com,V receives FDA/FCC regulatory approval for key new product,,V,1.96,demo
+news-00111,2025-11-13T14:44:40.724566+00:00,https://businessinsider.com/article/111,thestreet.com,CVX CEO David Kim unexpectedly steps down; board to begin search,,CVX,0.2,demo
+news-00112,2025-11-13T04:33:52.724566+00:00,https://businessinsider.com/article/112,techcrunch.com,Geopolitical tensions raise concerns for XOM supply chain exposure,,XOM,1.51,demo
+news-00113,2026-06-01T17:20:53.724566+00:00,https://fortune.com/article/113,barrons.com,JPM receives FDA/FCC regulatory approval for key new product,,JPM,-2.16,demo
+news-00114,2025-11-15T16:42:14.724566+00:00,https://fortune.com/article/114,fortune.com,Geopolitical tensions raise concerns for KO supply chain exposure,,KO,-4.02,demo
+news-00115,2026-08-19T14:23:37.724566+00:00,https://businessinsider.com/article/115,seekingalpha.com,V acquires CloudLogix for $4.1B in all-stock deal,,V,1.89,demo
+news-00116,2025-11-06T16:33:50.724566+00:00,https://bloomberg.com/article/116,bloomberg.com,AMZN acquires CloudLogix for $6.9B in all-stock deal,,AMZN,-1.09,demo
+news-00117,2026-03-10T19:18:05.724566+00:00,https://marketwatch.com/article/117,fortune.com,GOOGL stock falls on weaker-than-expected revenue guidance,,GOOGL,-2.62,demo
+news-00118,2026-04-07T12:37:06.724566+00:00,https://wsj.com/article/118,bloomberg.com,"Analysts upgrade CVX to Buy, raise price target to $880",,CVX,-1.45,demo
+news-00119,2026-07-27T07:16:37.724566+00:00,https://barrons.com/article/119,barrons.com,Federal Reserve decision impacts ABBV and broader market outlook,,ABBV,-0.07,demo
+news-00120,2026-09-25T03:38:23.724566+00:00,https://marketwatch.com/article/120,marketwatch.com,META reports quarterly earnings that beat analyst expectations by 8%,,META,-0.62,demo
+news-00121,2025-11-06T21:31:51.724566+00:00,https://techcrunch.com/article/121,thestreet.com,AAPL CEO Elena Martinez unexpectedly steps down; board to begin search,,AAPL,4.2,demo
+news-00122,2025-11-04T06:08:40.724566+00:00,https://reuters.com/article/122,ft.com,SEC opens preliminary investigation into V over disclosure claims,,V,0.55,demo
+news-00123,2026-04-08T20:58:57.724566+00:00,https://barrons.com/article/123,businessinsider.com,HD acquires TechStart AI for $4.5B in all-stock deal,,HD,-3.19,demo
+news-00124,2025-10-19T21:36:28.724566+00:00,https://wsj.com/article/124,seekingalpha.com,CVX reports data breach affecting 49M customers,,CVX,-3.69,demo
+news-00125,2026-01-22T16:07:49.724566+00:00,https://marketwatch.com/article/125,bloomberg.com,JPM reports quarterly earnings that beat analyst expectations by 18%,,JPM,0.31,demo
+news-00126,2025-10-30T06:04:47.724566+00:00,https://seekingalpha.com/article/126,techcrunch.com,ABBV reports quarterly earnings that beat analyst expectations by 16%,,ABBV,2.27,demo
+news-00127,2026-07-04T19:17:49.724566+00:00,https://fortune.com/article/127,seekingalpha.com,UNH raises annual guidance following strong demand environment,,UNH,-3.92,demo
+news-00128,2026-01-04T18:09:41.724566+00:00,https://seekingalpha.com/article/128,barrons.com,PG acquires DataCore Inc. for $9.1B in all-stock deal,,PG,4.1,demo
+news-00129,2025-10-31T22:11:41.724566+00:00,https://thestreet.com/article/129,fortune.com,META announces strategic partnership with Qualcomm for AI development,,META,2.54,demo
+news-00130,2026-05-24T05:03:10.724566+00:00,https://ft.com/article/130,fortune.com,GOOGL announces strategic partnership with Samsung for AI development,,GOOGL,1.01,demo
+news-00131,2026-06-08T23:24:20.724566+00:00,https://fortune.com/article/131,barrons.com,"Analysts upgrade CVX to Buy, raise price target to $550",,CVX,1.32,demo
+news-00132,2026-02-15T22:37:36.724566+00:00,https://thestreet.com/article/132,bloomberg.com,JNJ raises annual guidance following strong demand environment,,JNJ,0.96,demo
+news-00133,2026-05-29T02:34:52.724566+00:00,https://barrons.com/article/133,thestreet.com,NVDA acquires SafeGuard Systems for $10.8B in all-stock deal,,NVDA,-3.21,demo
+news-00134,2025-11-29T20:24:52.724566+00:00,https://reuters.com/article/134,businessinsider.com,TSLA announces strategic partnership with Amazon for AI development,,TSLA,-1.23,demo
+news-00135,2026-03-21T21:59:43.724566+00:00,https://thestreet.com/article/135,thestreet.com,MA reports data breach affecting 44M customers,,MA,2.56,demo
+news-00136,2026-02-09T05:26:43.724566+00:00,https://bloomberg.com/article/136,marketwatch.com,KO announces strategic partnership with Samsung for AI development,,KO,3.34,demo
+news-00137,2026-05-16T13:48:48.724566+00:00,https://fortune.com/article/137,ft.com,Geopolitical tensions raise concerns for NVDA supply chain exposure,,NVDA,1.14,demo
+news-00138,2026-08-14T01:43:08.724566+00:00,https://ft.com/article/138,fortune.com,"ABBV to launch next-gen AI chip, orders reportedly exceed supply",,ABBV,-3.17,demo
+news-00139,2025-10-09T08:12:30.724566+00:00,https://marketwatch.com/article/139,cnbc.com,SEC opens preliminary investigation into PG over disclosure claims,,PG,3.1,demo
+news-00140,2026-04-17T10:17:54.724566+00:00,https://thestreet.com/article/140,techcrunch.com,Geopolitical tensions raise concerns for NVDA supply chain exposure,,NVDA,-1.25,demo
+news-00141,2025-12-11T11:53:38.724566+00:00,https://techcrunch.com/article/141,barrons.com,META stock falls on weaker-than-expected revenue guidance,,META,4.22,demo
+news-00142,2026-03-25T14:35:57.724566+00:00,https://wsj.com/article/142,thestreet.com,KO CEO Sarah Chen unexpectedly steps down; board to begin search,,KO,-0.91,demo
+news-00143,2026-07-31T10:55:45.724566+00:00,https://seekingalpha.com/article/143,thestreet.com,JNJ receives FDA/FCC regulatory approval for key new product,,JNJ,4.06,demo
+news-00144,2025-11-11T02:29:35.724566+00:00,https://techcrunch.com/article/144,thestreet.com,"XOM announces $5B share buyback program, dividend increase",,XOM,2.23,demo
+news-00145,2026-08-21T00:12:15.724566+00:00,https://seekingalpha.com/article/145,bloomberg.com,Geopolitical tensions raise concerns for AMZN supply chain exposure,,AMZN,-2.26,demo
+news-00146,2026-02-24T20:43:36.724566+00:00,https://wsj.com/article/146,reuters.com,"Analysts upgrade PG to Buy, raise price target to $249",,PG,0.72,demo
+news-00147,2026-07-23T23:11:58.724566+00:00,https://techcrunch.com/article/147,businessinsider.com,"Supply chain disruption hits AMZN manufacturing, Q4 outlook uncertain",,AMZN,5.0,demo
+news-00148,2026-01-22T03:35:19.724566+00:00,https://wsj.com/article/148,cnbc.com,KO announces strategic partnership with Microsoft for AI development,,KO,-1.19,demo
+news-00149,2026-08-23T04:46:56.724566+00:00,https://businessinsider.com/article/149,barrons.com,GOOGL receives FDA/FCC regulatory approval for key new product,,GOOGL,-0.21,demo
+news-00150,2026-05-11T21:15:31.724566+00:00,https://seekingalpha.com/article/150,ft.com,Federal Reserve decision impacts HD and broader market outlook,,HD,2.33,demo
+news-00151,2025-10-19T04:03:27.724566+00:00,https://fortune.com/article/151,seekingalpha.com,"Analysts upgrade XOM to Buy, raise price target to $465",,XOM,0.03,demo
+news-00152,2026-02-08T09:35:08.724566+00:00,https://ft.com/article/152,reuters.com,"Analysts upgrade GOOGL to Buy, raise price target to $897",,GOOGL,0.55,demo
+news-00153,2026-08-13T09:59:38.724566+00:00,https://ft.com/article/153,bloomberg.com,"META to launch next-gen AI chip, orders reportedly exceed supply",,META,-4.04,demo
+news-00154,2026-08-14T22:25:22.724566+00:00,https://thestreet.com/article/154,businessinsider.com,V raises annual guidance following strong demand environment,,V,2.75,demo
+news-00155,2026-01-16T08:51:03.724566+00:00,https://bloomberg.com/article/155,marketwatch.com,V acquires DataCore Inc. for $4.4B in all-stock deal,,V,-1.23,demo
+news-00156,2026-01-13T20:18:16.724566+00:00,https://bloomberg.com/article/156,techcrunch.com,XOM acquires CloudLogix for $6.8B in all-stock deal,,XOM,-3.0,demo
+news-00157,2026-02-06T14:43:21.724566+00:00,https://fortune.com/article/157,cnbc.com,NVDA raises annual guidance following strong demand environment,,NVDA,3.31,demo
+news-00158,2026-05-29T01:07:07.724566+00:00,https://seekingalpha.com/article/158,cnbc.com,Federal Reserve decision impacts MSFT and broader market outlook,,MSFT,-0.8,demo
+news-00159,2025-10-14T08:32:20.724566+00:00,https://ft.com/article/159,barrons.com,Federal Reserve decision impacts META and broader market outlook,,META,-5.0,demo
+news-00160,2025-11-30T20:26:05.724566+00:00,https://fortune.com/article/160,businessinsider.com,"Analysts upgrade UNH to Buy, raise price target to $687",,UNH,0.61,demo
+news-00161,2026-06-11T12:37:56.724566+00:00,https://cnbc.com/article/161,wsj.com,V announces strategic partnership with Samsung for AI development,,V,-0.2,demo
+news-00162,2026-05-27T21:23:46.724566+00:00,https://cnbc.com/article/162,techcrunch.com,Geopolitical tensions raise concerns for JPM supply chain exposure,,JPM,-0.49,demo
+news-00163,2025-11-05T08:33:23.724566+00:00,https://fortune.com/article/163,marketwatch.com,Federal Reserve decision impacts MA and broader market outlook,,MA,-1.67,demo
+news-00164,2025-11-18T09:28:03.724566+00:00,https://wsj.com/article/164,ft.com,META CEO John Smith unexpectedly steps down; board to begin search,,META,0.81,demo
+news-00165,2025-11-21T15:50:34.724566+00:00,https://barrons.com/article/165,bloomberg.com,ABBV announces strategic partnership with NVIDIA for AI development,,ABBV,-2.87,demo
+news-00166,2025-10-31T01:33:20.724566+00:00,https://businessinsider.com/article/166,businessinsider.com,Federal Reserve decision impacts NVDA and broader market outlook,,NVDA,1.54,demo
+news-00167,2026-03-19T06:34:55.724566+00:00,https://thestreet.com/article/167,reuters.com,"AMZN announces $5B share buyback program, dividend increase",,AMZN,1.54,demo
+news-00168,2026-09-14T19:36:05.724566+00:00,https://cnbc.com/article/168,bloomberg.com,BRK.B raises annual guidance following strong demand environment,,BRK.B,-3.38,demo
+news-00169,2025-11-07T13:06:12.724566+00:00,https://thestreet.com/article/169,fortune.com,SEC opens preliminary investigation into ABBV over disclosure claims,,ABBV,4.89,demo
+news-00170,2025-10-19T22:01:19.724566+00:00,https://fortune.com/article/170,barrons.com,MSFT raises annual guidance following strong demand environment,,MSFT,0.28,demo
+news-00171,2026-01-22T18:13:22.724566+00:00,https://fortune.com/article/171,cnbc.com,"Supply chain disruption hits ABBV manufacturing, Q4 outlook uncertain",,ABBV,-0.54,demo
+news-00172,2026-02-11T09:06:43.724566+00:00,https://barrons.com/article/172,ft.com,"Analysts upgrade MA to Buy, raise price target to $508",,MA,-2.41,demo
+news-00173,2025-11-12T11:59:36.724566+00:00,https://marketwatch.com/article/173,wsj.com,"Supply chain disruption hits ABBV manufacturing, Q4 outlook uncertain",,ABBV,1.41,demo
+news-00174,2026-09-03T07:32:16.724566+00:00,https://ft.com/article/174,marketwatch.com,Geopolitical tensions raise concerns for UNH supply chain exposure,,UNH,1.71,demo
+news-00175,2026-04-13T23:03:53.724566+00:00,https://cnbc.com/article/175,businessinsider.com,MA reports quarterly earnings that beat analyst expectations by 5%,,MA,-1.96,demo
+news-00176,2026-05-22T07:33:57.724566+00:00,https://fortune.com/article/176,fortune.com,"Supply chain disruption hits PG manufacturing, Q4 outlook uncertain",,PG,1.94,demo
+news-00177,2026-07-25T21:56:54.724566+00:00,https://seekingalpha.com/article/177,marketwatch.com,PG reports quarterly earnings that beat analyst expectations by 15%,,PG,0.61,demo
+news-00178,2026-01-18T21:28:23.724566+00:00,https://barrons.com/article/178,fortune.com,UNH reports data breach affecting 36M customers,,UNH,-4.25,demo
+news-00179,2026-07-22T11:04:22.724566+00:00,https://ft.com/article/179,wsj.com,PG reports data breach affecting 46M customers,,PG,-0.11,demo
+news-00180,2025-11-29T02:30:54.724566+00:00,https://barrons.com/article/180,thestreet.com,SEC opens preliminary investigation into V over disclosure claims,,V,1.01,demo
+news-00181,2026-04-17T06:48:21.724566+00:00,https://thestreet.com/article/181,thestreet.com,"Supply chain disruption hits V manufacturing, Q4 outlook uncertain",,V,-2.85,demo
+news-00182,2026-08-07T16:34:50.724566+00:00,https://techcrunch.com/article/182,techcrunch.com,Federal Reserve decision impacts GOOGL and broader market outlook,,GOOGL,3.29,demo
+news-00183,2026-05-16T21:07:07.724566+00:00,https://businessinsider.com/article/183,ft.com,MSFT receives FDA/FCC regulatory approval for key new product,,MSFT,-0.42,demo
+news-00184,2025-11-13T22:35:16.724566+00:00,https://wsj.com/article/184,reuters.com,"Supply chain disruption hits BRK.B manufacturing, Q4 outlook uncertain",,BRK.B,5.0,demo
+news-00185,2026-09-24T18:09:52.724566+00:00,https://businessinsider.com/article/185,techcrunch.com,"KO to launch next-gen AI chip, orders reportedly exceed supply",,KO,1.2,demo
+news-00186,2025-12-08T12:27:52.724566+00:00,https://businessinsider.com/article/186,thestreet.com,"Analysts upgrade XOM to Buy, raise price target to $724",,XOM,-2.14,demo
+news-00187,2026-01-26T04:30:04.724566+00:00,https://wsj.com/article/187,cnbc.com,ABBV stock falls on weaker-than-expected revenue guidance,,ABBV,-0.35,demo
+news-00188,2026-07-09T12:41:13.724566+00:00,https://cnbc.com/article/188,cnbc.com,PG announces strategic partnership with Samsung for AI development,,PG,-5.0,demo
+news-00189,2026-01-23T01:30:08.724566+00:00,https://reuters.com/article/189,cnbc.com,"AMZN to launch next-gen AI chip, orders reportedly exceed supply",,AMZN,-2.17,demo
+news-00190,2026-05-08T12:40:30.724566+00:00,https://techcrunch.com/article/190,cnbc.com,SEC opens preliminary investigation into TSLA over disclosure claims,,TSLA,0.94,demo
+news-00191,2025-10-22T15:32:24.724566+00:00,https://bloomberg.com/article/191,seekingalpha.com,"Analysts upgrade BRK.B to Buy, raise price target to $797",,BRK.B,-1.75,demo
+news-00192,2026-09-08T09:33:55.724566+00:00,https://businessinsider.com/article/192,businessinsider.com,Federal Reserve decision impacts META and broader market outlook,,META,-4.88,demo
+news-00193,2025-12-31T10:44:11.724566+00:00,https://thestreet.com/article/193,techcrunch.com,"CVX to launch next-gen AI chip, orders reportedly exceed supply",,CVX,3.23,demo
+news-00194,2026-09-06T00:37:33.724566+00:00,https://cnbc.com/article/194,reuters.com,XOM reports quarterly earnings that beat analyst expectations by 12%,,XOM,1.62,demo
+news-00195,2026-06-08T07:45:08.724566+00:00,https://thestreet.com/article/195,thestreet.com,"Supply chain disruption hits MA manufacturing, Q4 outlook uncertain",,MA,3.83,demo
+news-00196,2026-07-08T08:06:28.724566+00:00,https://ft.com/article/196,reuters.com,"META to launch next-gen AI chip, orders reportedly exceed supply",,META,-0.43,demo
+news-00197,2026-08-19T10:23:28.724566+00:00,https://seekingalpha.com/article/197,thestreet.com,"Analysts upgrade UNH to Buy, raise price target to $289",,UNH,-3.59,demo
+news-00198,2026-03-24T18:09:51.724566+00:00,https://cnbc.com/article/198,marketwatch.com,BRK.B raises annual guidance following strong demand environment,,BRK.B,2.46,demo
+news-00199,2025-10-26T09:19:41.724566+00:00,https://fortune.com/article/199,bloomberg.com,"Supply chain disruption hits BRK.B manufacturing, Q4 outlook uncertain",,BRK.B,0.11,demo
+news-00200,2026-02-22T00:02:41.724566+00:00,https://barrons.com/article/200,wsj.com,GOOGL CEO Sarah Chen unexpectedly steps down; board to begin search,,GOOGL,-3.83,demo
+news-00201,2026-09-21T18:10:16.724566+00:00,https://businessinsider.com/article/201,thestreet.com,ABBV stock falls on weaker-than-expected revenue guidance,,ABBV,-4.54,demo
+news-00202,2026-09-23T11:37:40.724566+00:00,https://barrons.com/article/202,bloomberg.com,MA reports quarterly earnings that beat analyst expectations by 20%,,MA,-2.33,demo
+news-00203,2026-03-22T20:32:23.724566+00:00,https://bloomberg.com/article/203,fortune.com,BAC CEO Elena Martinez unexpectedly steps down; board to begin search,,BAC,-0.42,demo
+news-00204,2026-05-09T06:19:14.724566+00:00,https://reuters.com/article/204,thestreet.com,"Supply chain disruption hits MA manufacturing, Q4 outlook uncertain",,MA,1.75,demo
+news-00205,2026-05-14T20:32:21.724566+00:00,https://bloomberg.com/article/205,reuters.com,TSLA acquires TechStart AI for $11.9B in all-stock deal,,TSLA,1.91,demo
+news-00206,2025-11-23T20:34:33.724566+00:00,https://fortune.com/article/206,techcrunch.com,Federal Reserve decision impacts MSFT and broader market outlook,,MSFT,-0.36,demo
+news-00207,2026-06-24T09:47:44.724566+00:00,https://fortune.com/article/207,thestreet.com,SEC opens preliminary investigation into NVDA over disclosure claims,,NVDA,1.53,demo
+news-00208,2025-10-03T14:39:39.724566+00:00,https://reuters.com/article/208,cnbc.com,"Supply chain disruption hits AMZN manufacturing, Q4 outlook uncertain",,AMZN,-0.24,demo
+news-00209,2026-02-13T16:43:48.724566+00:00,https://ft.com/article/209,cnbc.com,MA CEO John Smith unexpectedly steps down; board to begin search,,MA,-1.75,demo
+news-00210,2026-03-24T15:25:11.724566+00:00,https://barrons.com/article/210,fortune.com,"TSLA to launch next-gen AI chip, orders reportedly exceed supply",,TSLA,3.06,demo
+news-00211,2025-11-25T16:26:44.724566+00:00,https://thestreet.com/article/211,cnbc.com,MSFT CEO Robert Walsh unexpectedly steps down; board to begin search,,MSFT,1.38,demo
+news-00212,2026-04-22T16:41:58.724566+00:00,https://wsj.com/article/212,seekingalpha.com,JNJ raises annual guidance following strong demand environment,,JNJ,5.0,demo
+news-00213,2026-05-06T03:11:28.724566+00:00,https://businessinsider.com/article/213,reuters.com,"Analysts upgrade HD to Buy, raise price target to $637",,HD,-5.0,demo
+news-00214,2026-04-29T04:08:32.724566+00:00,https://businessinsider.com/article/214,wsj.com,"AMZN announces $5B share buyback program, dividend increase",,AMZN,-0.49,demo
+news-00215,2026-04-26T02:10:09.724566+00:00,https://ft.com/article/215,seekingalpha.com,ABBV CEO Robert Walsh unexpectedly steps down; board to begin search,,ABBV,1.51,demo
+news-00216,2025-10-22T06:38:37.724566+00:00,https://cnbc.com/article/216,seekingalpha.com,Federal Reserve decision impacts NVDA and broader market outlook,,NVDA,-4.58,demo
+news-00217,2026-09-04T22:22:16.724566+00:00,https://marketwatch.com/article/217,cnbc.com,Geopolitical tensions raise concerns for TSLA supply chain exposure,,TSLA,-1.04,demo
+news-00218,2026-01-03T05:00:49.724566+00:00,https://thestreet.com/article/218,marketwatch.com,KO stock falls on weaker-than-expected revenue guidance,,KO,-0.72,demo
+news-00219,2026-04-19T10:05:02.724566+00:00,https://businessinsider.com/article/219,businessinsider.com,PG announces strategic partnership with Samsung for AI development,,PG,-2.41,demo
+news-00220,2025-12-27T04:42:41.724566+00:00,https://techcrunch.com/article/220,ft.com,V reports quarterly earnings that beat analyst expectations by 11%,,V,-2.76,demo
+news-00221,2026-02-07T08:51:17.724566+00:00,https://wsj.com/article/221,seekingalpha.com,TSLA reports data breach affecting 17M customers,,TSLA,1.66,demo
+news-00222,2026-04-10T18:58:11.724566+00:00,https://businessinsider.com/article/222,ft.com,"XOM to launch next-gen AI chip, orders reportedly exceed supply",,XOM,3.5,demo
+news-00223,2026-06-08T12:23:06.724566+00:00,https://reuters.com/article/223,thestreet.com,ABBV reports quarterly earnings that beat analyst expectations by 5%,,ABBV,-0.75,demo
+news-00224,2025-12-26T04:54:09.724566+00:00,https://thestreet.com/article/224,businessinsider.com,"Analysts upgrade BRK.B to Buy, raise price target to $594",,BRK.B,1.3,demo
+news-00225,2026-05-04T11:58:41.724566+00:00,https://seekingalpha.com/article/225,reuters.com,ABBV reports quarterly earnings that beat analyst expectations by 19%,,ABBV,0.59,demo
+news-00226,2025-11-12T19:45:10.724566+00:00,https://bloomberg.com/article/226,thestreet.com,SEC opens preliminary investigation into HD over disclosure claims,,HD,1.9,demo
+news-00227,2025-11-01T22:48:00.724566+00:00,https://marketwatch.com/article/227,seekingalpha.com,"Supply chain disruption hits UNH manufacturing, Q4 outlook uncertain",,UNH,-5.0,demo
+news-00228,2026-05-04T21:50:17.724566+00:00,https://businessinsider.com/article/228,reuters.com,Federal Reserve decision impacts MSFT and broader market outlook,,MSFT,2.03,demo
+news-00229,2026-05-10T00:27:12.724566+00:00,https://bloomberg.com/article/229,thestreet.com,Geopolitical tensions raise concerns for V supply chain exposure,,V,1.35,demo
+news-00230,2026-01-19T03:33:12.724566+00:00,https://thestreet.com/article/230,barrons.com,Federal Reserve decision impacts MSFT and broader market outlook,,MSFT,3.38,demo
+news-00231,2026-09-28T00:01:46.724566+00:00,https://bloomberg.com/article/231,cnbc.com,SEC opens preliminary investigation into UNH over disclosure claims,,UNH,-1.74,demo
+news-00232,2025-11-01T17:17:11.724566+00:00,https://thestreet.com/article/232,techcrunch.com,"Analysts upgrade AMZN to Buy, raise price target to $337",,AMZN,0.96,demo
+news-00233,2026-05-21T13:45:45.724566+00:00,https://seekingalpha.com/article/233,marketwatch.com,KO reports quarterly earnings that beat analyst expectations by 23%,,KO,-3.7,demo
+news-00234,2025-11-04T13:00:52.724566+00:00,https://barrons.com/article/234,cnbc.com,META stock falls on weaker-than-expected revenue guidance,,META,-1.57,demo
+news-00235,2026-07-16T12:22:28.724566+00:00,https://seekingalpha.com/article/235,marketwatch.com,"Analysts upgrade AMZN to Buy, raise price target to $415",,AMZN,-3.33,demo
+news-00236,2026-05-06T13:45:51.724566+00:00,https://thestreet.com/article/236,thestreet.com,AMZN acquires CloudLogix for $6.9B in all-stock deal,,AMZN,2.27,demo
+news-00237,2026-01-23T14:30:07.724566+00:00,https://seekingalpha.com/article/237,seekingalpha.com,AAPL stock falls on weaker-than-expected revenue guidance,,AAPL,1.39,demo
+news-00238,2026-01-14T12:01:12.724566+00:00,https://businessinsider.com/article/238,ft.com,UNH announces strategic partnership with NVIDIA for AI development,,UNH,0.96,demo
+news-00239,2026-01-06T00:40:24.724566+00:00,https://techcrunch.com/article/239,fortune.com,"Supply chain disruption hits JPM manufacturing, Q4 outlook uncertain",,JPM,1.73,demo
+news-00240,2026-08-10T12:49:23.724566+00:00,https://marketwatch.com/article/240,businessinsider.com,"Analysts upgrade UNH to Buy, raise price target to $239",,UNH,-1.72,demo
+news-00241,2025-12-10T05:59:12.724566+00:00,https://seekingalpha.com/article/241,marketwatch.com,V raises annual guidance following strong demand environment,,V,3.02,demo
+news-00242,2025-11-15T11:47:56.724566+00:00,https://barrons.com/article/242,wsj.com,JPM reports data breach affecting 46M customers,,JPM,1.02,demo
+news-00243,2026-03-21T12:59:01.724566+00:00,https://cnbc.com/article/243,techcrunch.com,TSLA announces strategic partnership with NVIDIA for AI development,,TSLA,-2.29,demo
+news-00244,2025-10-30T23:41:33.724566+00:00,https://businessinsider.com/article/244,barrons.com,"Supply chain disruption hits AMZN manufacturing, Q4 outlook uncertain",,AMZN,-0.96,demo
+news-00245,2026-08-05T08:20:26.724566+00:00,https://marketwatch.com/article/245,techcrunch.com,Geopolitical tensions raise concerns for MSFT supply chain exposure,,MSFT,-4.3,demo
+news-00246,2026-06-10T12:45:47.724566+00:00,https://barrons.com/article/246,reuters.com,BRK.B reports data breach affecting 7M customers,,BRK.B,-1.29,demo
+news-00247,2025-11-09T13:22:02.724566+00:00,https://cnbc.com/article/247,wsj.com,AAPL receives FDA/FCC regulatory approval for key new product,,AAPL,-1.96,demo
+news-00248,2026-05-18T20:20:36.724566+00:00,https://techcrunch.com/article/248,thestreet.com,SEC opens preliminary investigation into PG over disclosure claims,,PG,-3.33,demo
+news-00249,2026-02-14T12:56:45.724566+00:00,https://cnbc.com/article/249,marketwatch.com,"Supply chain disruption hits AMZN manufacturing, Q4 outlook uncertain",,AMZN,2.72,demo
+news-00250,2026-08-12T21:46:03.724566+00:00,https://techcrunch.com/article/250,bloomberg.com,MA reports quarterly earnings that beat analyst expectations by 13%,,MA,-0.89,demo
+news-00251,2026-05-04T14:27:51.724566+00:00,https://ft.com/article/251,marketwatch.com,META receives FDA/FCC regulatory approval for key new product,,META,1.92,demo
+news-00252,2026-09-10T05:21:05.724566+00:00,https://wsj.com/article/252,businessinsider.com,HD reports data breach affecting 49M customers,,HD,-3.24,demo
+news-00253,2026-05-14T11:33:36.724566+00:00,https://bloomberg.com/article/253,thestreet.com,SEC opens preliminary investigation into NVDA over disclosure claims,,NVDA,2.5,demo
+news-00254,2026-05-18T05:34:04.724566+00:00,https://bloomberg.com/article/254,marketwatch.com,"Analysts upgrade V to Buy, raise price target to $789",,V,-2.82,demo
+news-00255,2025-11-04T04:13:59.724566+00:00,https://fortune.com/article/255,ft.com,"Analysts upgrade CVX to Buy, raise price target to $219",,CVX,-1.97,demo
+news-00256,2026-02-28T06:43:24.724566+00:00,https://seekingalpha.com/article/256,ft.com,"Supply chain disruption hits UNH manufacturing, Q4 outlook uncertain",,UNH,-1.19,demo
+news-00257,2026-02-01T10:23:08.724566+00:00,https://businessinsider.com/article/257,barrons.com,META reports quarterly earnings that beat analyst expectations by 14%,,META,0.67,demo
+news-00258,2026-04-11T05:30:17.724566+00:00,https://seekingalpha.com/article/258,techcrunch.com,"BAC announces $5B share buyback program, dividend increase",,BAC,-1.46,demo
+news-00259,2026-01-17T00:06:08.724566+00:00,https://wsj.com/article/259,thestreet.com,MSFT raises annual guidance following strong demand environment,,MSFT,-2.1,demo
+news-00260,2026-07-30T06:51:52.724566+00:00,https://thestreet.com/article/260,marketwatch.com,BAC receives FDA/FCC regulatory approval for key new product,,BAC,0.94,demo
+news-00261,2026-01-25T21:08:09.724566+00:00,https://reuters.com/article/261,businessinsider.com,BRK.B raises annual guidance following strong demand environment,,BRK.B,0.81,demo
+news-00262,2026-05-27T06:20:23.724566+00:00,https://fortune.com/article/262,seekingalpha.com,SEC opens preliminary investigation into CVX over disclosure claims,,CVX,-1.85,demo
+news-00263,2026-05-22T01:24:15.724566+00:00,https://thestreet.com/article/263,ft.com,"Analysts upgrade JPM to Buy, raise price target to $686",,JPM,-4.61,demo
+news-00264,2026-09-03T23:45:24.724566+00:00,https://fortune.com/article/264,ft.com,"HD to launch next-gen AI chip, orders reportedly exceed supply",,HD,5.0,demo
+news-00265,2026-04-10T08:22:24.724566+00:00,https://ft.com/article/265,barrons.com,Federal Reserve decision impacts UNH and broader market outlook,,UNH,-3.82,demo
+news-00266,2026-09-07T23:28:40.724566+00:00,https://marketwatch.com/article/266,businessinsider.com,"Supply chain disruption hits BAC manufacturing, Q4 outlook uncertain",,BAC,-0.01,demo
+news-00267,2026-06-05T19:25:48.724566+00:00,https://fortune.com/article/267,techcrunch.com,"Analysts upgrade MA to Buy, raise price target to $323",,MA,-3.85,demo
+news-00268,2026-05-02T19:35:29.724566+00:00,https://barrons.com/article/268,ft.com,JPM reports data breach affecting 2M customers,,JPM,-0.9,demo
+news-00269,2026-09-28T05:13:47.724566+00:00,https://ft.com/article/269,businessinsider.com,"Supply chain disruption hits GOOGL manufacturing, Q4 outlook uncertain",,GOOGL,1.83,demo
+news-00270,2025-11-03T06:30:09.724566+00:00,https://marketwatch.com/article/270,fortune.com,Geopolitical tensions raise concerns for JPM supply chain exposure,,JPM,1.97,demo
+news-00271,2026-07-02T13:13:43.724566+00:00,https://bloomberg.com/article/271,reuters.com,NVDA CEO Sarah Chen unexpectedly steps down; board to begin search,,NVDA,1.31,demo
+news-00272,2026-09-01T09:14:24.724566+00:00,https://seekingalpha.com/article/272,techcrunch.com,SEC opens preliminary investigation into AAPL over disclosure claims,,AAPL,-1.54,demo
+news-00273,2026-02-22T00:12:38.724566+00:00,https://cnbc.com/article/273,ft.com,V acquires TechStart AI for $6.6B in all-stock deal,,V,-4.34,demo
+news-00274,2026-06-03T04:25:03.724566+00:00,https://techcrunch.com/article/274,ft.com,Geopolitical tensions raise concerns for META supply chain exposure,,META,-3.72,demo
+news-00275,2026-05-19T05:30:52.724566+00:00,https://techcrunch.com/article/275,seekingalpha.com,"Analysts upgrade GOOGL to Buy, raise price target to $353",,GOOGL,1.47,demo
+news-00276,2026-01-20T21:56:30.724566+00:00,https://techcrunch.com/article/276,reuters.com,"ABBV announces $5B share buyback program, dividend increase",,ABBV,-3.22,demo
+news-00277,2026-01-25T00:56:20.724566+00:00,https://fortune.com/article/277,reuters.com,UNH stock falls on weaker-than-expected revenue guidance,,UNH,-2.37,demo
+news-00278,2025-10-06T22:45:36.724566+00:00,https://marketwatch.com/article/278,marketwatch.com,SEC opens preliminary investigation into KO over disclosure claims,,KO,4.72,demo
+news-00279,2026-07-28T10:37:43.724566+00:00,https://bloomberg.com/article/279,reuters.com,XOM reports data breach affecting 26M customers,,XOM,2.26,demo
+news-00280,2026-07-27T04:16:15.724566+00:00,https://seekingalpha.com/article/280,seekingalpha.com,"BAC to launch next-gen AI chip, orders reportedly exceed supply",,BAC,-0.9,demo
+news-00281,2025-11-01T22:49:18.724566+00:00,https://thestreet.com/article/281,wsj.com,JNJ stock falls on weaker-than-expected revenue guidance,,JNJ,3.85,demo
+news-00282,2025-10-24T18:00:36.724566+00:00,https://wsj.com/article/282,bloomberg.com,Geopolitical tensions raise concerns for HD supply chain exposure,,HD,-0.61,demo
+news-00283,2025-11-17T15:34:37.724566+00:00,https://reuters.com/article/283,techcrunch.com,SEC opens preliminary investigation into META over disclosure claims,,META,-4.8,demo
+news-00284,2026-01-14T15:21:14.724566+00:00,https://techcrunch.com/article/284,bloomberg.com,PG stock falls on weaker-than-expected revenue guidance,,PG,3.04,demo
+news-00285,2026-06-02T23:19:02.724566+00:00,https://bloomberg.com/article/285,businessinsider.com,"Supply chain disruption hits CVX manufacturing, Q4 outlook uncertain",,CVX,3.12,demo
+news-00286,2026-05-13T03:32:16.724566+00:00,https://fortune.com/article/286,techcrunch.com,META announces strategic partnership with Samsung for AI development,,META,-0.04,demo
+news-00287,2026-04-03T11:27:07.724566+00:00,https://marketwatch.com/article/287,seekingalpha.com,Geopolitical tensions raise concerns for MSFT supply chain exposure,,MSFT,1.17,demo
+news-00288,2026-02-03T12:17:56.724566+00:00,https://cnbc.com/article/288,bloomberg.com,V reports data breach affecting 15M customers,,V,0.06,demo
+news-00289,2025-10-20T02:22:22.724566+00:00,https://seekingalpha.com/article/289,bloomberg.com,Geopolitical tensions raise concerns for BAC supply chain exposure,,BAC,5.0,demo
+news-00290,2026-01-28T06:55:39.724566+00:00,https://techcrunch.com/article/290,barrons.com,PG CEO David Kim unexpectedly steps down; board to begin search,,PG,0.98,demo
+news-00291,2026-07-24T14:29:43.724566+00:00,https://wsj.com/article/291,ft.com,ABBV reports quarterly earnings that beat analyst expectations by 16%,,ABBV,3.06,demo
+news-00292,2026-07-15T21:42:59.724566+00:00,https://techcrunch.com/article/292,cnbc.com,AAPL announces strategic partnership with Qualcomm for AI development,,AAPL,0.14,demo
+news-00293,2025-11-07T09:21:31.724566+00:00,https://reuters.com/article/293,wsj.com,Geopolitical tensions raise concerns for JPM supply chain exposure,,JPM,-2.42,demo
+news-00294,2026-03-04T09:54:28.724566+00:00,https://bloomberg.com/article/294,barrons.com,GOOGL reports data breach affecting 26M customers,,GOOGL,-3.56,demo
+news-00295,2026-02-02T18:48:01.724566+00:00,https://businessinsider.com/article/295,cnbc.com,V CEO Sarah Chen unexpectedly steps down; board to begin search,,V,-0.12,demo
+news-00296,2026-03-09T03:15:32.724566+00:00,https://bloomberg.com/article/296,thestreet.com,"Analysts upgrade GOOGL to Buy, raise price target to $415",,GOOGL,1.43,demo
+news-00297,2026-08-11T21:38:10.724566+00:00,https://fortune.com/article/297,cnbc.com,"META announces $5B share buyback program, dividend increase",,META,2.4,demo
+news-00298,2026-03-05T03:33:12.724566+00:00,https://thestreet.com/article/298,reuters.com,Federal Reserve decision impacts NVDA and broader market outlook,,NVDA,-1.59,demo
+news-00299,2026-01-07T07:04:58.724566+00:00,https://bloomberg.com/article/299,businessinsider.com,ABBV announces strategic partnership with Microsoft for AI development,,ABBV,-5.0,demo
+news-00300,2026-06-04T01:05:11.724566+00:00,https://fortune.com/article/300,bloomberg.com,TSLA reports data breach affecting 42M customers,,TSLA,1.07,demo
+news-00301,2026-08-12T13:29:52.724566+00:00,https://ft.com/article/301,bloomberg.com,Geopolitical tensions raise concerns for MA supply chain exposure,,MA,-2.16,demo
+news-00302,2026-04-12T22:31:14.724566+00:00,https://reuters.com/article/302,seekingalpha.com,Federal Reserve decision impacts CVX and broader market outlook,,CVX,-3.67,demo
+news-00303,2026-09-10T08:23:38.724566+00:00,https://ft.com/article/303,reuters.com,MA reports data breach affecting 36M customers,,MA,1.64,demo
+news-00304,2025-11-24T13:25:11.724566+00:00,https://seekingalpha.com/article/304,wsj.com,Federal Reserve decision impacts XOM and broader market outlook,,XOM,1.88,demo
+news-00305,2026-04-06T13:16:13.724566+00:00,https://thestreet.com/article/305,businessinsider.com,"Analysts upgrade PG to Buy, raise price target to $497",,PG,0.76,demo
+news-00306,2026-07-31T14:47:24.724566+00:00,https://cnbc.com/article/306,reuters.com,KO stock falls on weaker-than-expected revenue guidance,,KO,1.03,demo
+news-00307,2026-01-06T12:28:57.724566+00:00,https://fortune.com/article/307,wsj.com,GOOGL raises annual guidance following strong demand environment,,GOOGL,5.0,demo
+news-00308,2026-08-26T12:19:02.724566+00:00,https://ft.com/article/308,ft.com,UNH CEO Robert Walsh unexpectedly steps down; board to begin search,,UNH,-2.92,demo
+news-00309,2025-11-26T10:46:36.724566+00:00,https://barrons.com/article/309,wsj.com,"CVX announces $5B share buyback program, dividend increase",,CVX,3.78,demo
+news-00310,2026-04-24T17:08:35.724566+00:00,https://businessinsider.com/article/310,reuters.com,"Analysts upgrade MSFT to Buy, raise price target to $448",,MSFT,0.19,demo
+news-00311,2025-11-28T15:03:47.724566+00:00,https://barrons.com/article/311,techcrunch.com,Geopolitical tensions raise concerns for AAPL supply chain exposure,,AAPL,1.74,demo
+news-00312,2026-02-04T13:10:02.724566+00:00,https://ft.com/article/312,ft.com,"UNH to launch next-gen AI chip, orders reportedly exceed supply",,UNH,-1.94,demo
+news-00313,2026-08-14T13:33:04.724566+00:00,https://ft.com/article/313,seekingalpha.com,CVX raises annual guidance following strong demand environment,,CVX,-1.17,demo
+news-00314,2026-05-10T15:36:36.724566+00:00,https://reuters.com/article/314,ft.com,CVX reports data breach affecting 10M customers,,CVX,-5.0,demo
+news-00315,2026-07-18T17:23:27.724566+00:00,https://bloomberg.com/article/315,wsj.com,"Analysts upgrade V to Buy, raise price target to $825",,V,5.0,demo
+news-00316,2025-10-28T14:10:50.724566+00:00,https://marketwatch.com/article/316,cnbc.com,AAPL stock falls on weaker-than-expected revenue guidance,,AAPL,-0.18,demo
+news-00317,2026-04-11T18:08:41.724566+00:00,https://seekingalpha.com/article/317,marketwatch.com,HD receives FDA/FCC regulatory approval for key new product,,HD,1.89,demo
+news-00318,2026-01-24T19:02:06.724566+00:00,https://reuters.com/article/318,marketwatch.com,MA raises annual guidance following strong demand environment,,MA,4.33,demo
+news-00319,2026-05-02T17:07:41.724566+00:00,https://bloomberg.com/article/319,marketwatch.com,NVDA reports data breach affecting 39M customers,,NVDA,2.16,demo
+news-00320,2025-12-21T02:09:24.724566+00:00,https://wsj.com/article/320,seekingalpha.com,"HD to launch next-gen AI chip, orders reportedly exceed supply",,HD,0.64,demo
+news-00321,2025-10-21T12:55:24.724566+00:00,https://seekingalpha.com/article/321,barrons.com,GOOGL receives FDA/FCC regulatory approval for key new product,,GOOGL,0.97,demo
+news-00322,2025-12-21T15:13:44.724566+00:00,https://ft.com/article/322,fortune.com,KO raises annual guidance following strong demand environment,,KO,-1.12,demo
+news-00323,2025-11-06T15:44:41.724566+00:00,https://fortune.com/article/323,thestreet.com,JPM acquires TechStart AI for $2.6B in all-stock deal,,JPM,0.14,demo
+news-00324,2026-01-14T13:28:00.724566+00:00,https://barrons.com/article/324,reuters.com,SEC opens preliminary investigation into MA over disclosure claims,,MA,-1.75,demo
+news-00325,2025-12-29T14:51:36.724566+00:00,https://thestreet.com/article/325,reuters.com,"CVX announces $5B share buyback program, dividend increase",,CVX,0.39,demo
+news-00326,2026-09-17T20:46:51.724566+00:00,https://techcrunch.com/article/326,reuters.com,BRK.B receives FDA/FCC regulatory approval for key new product,,BRK.B,-1.01,demo
+news-00327,2025-12-08T09:38:10.724566+00:00,https://ft.com/article/327,wsj.com,MA stock falls on weaker-than-expected revenue guidance,,MA,0.15,demo
+news-00328,2026-09-20T23:36:02.724566+00:00,https://techcrunch.com/article/328,bloomberg.com,AMZN announces strategic partnership with Qualcomm for AI development,,AMZN,0.98,demo
+news-00329,2026-09-23T10:51:21.724566+00:00,https://reuters.com/article/329,techcrunch.com,MA reports data breach affecting 37M customers,,MA,-1.67,demo
+news-00330,2025-11-10T04:15:23.724566+00:00,https://bloomberg.com/article/330,barrons.com,CVX stock falls on weaker-than-expected revenue guidance,,CVX,-5.0,demo
+news-00331,2026-05-12T09:55:49.724566+00:00,https://barrons.com/article/331,businessinsider.com,XOM reports quarterly earnings that beat analyst expectations by 8%,,XOM,-3.21,demo
+news-00332,2026-01-02T12:41:13.724566+00:00,https://reuters.com/article/332,techcrunch.com,"Supply chain disruption hits UNH manufacturing, Q4 outlook uncertain",,UNH,1.72,demo
+news-00333,2026-08-25T14:11:12.724566+00:00,https://businessinsider.com/article/333,techcrunch.com,Federal Reserve decision impacts JPM and broader market outlook,,JPM,-1.43,demo
+news-00334,2026-06-09T23:17:40.724566+00:00,https://bloomberg.com/article/334,wsj.com,"Supply chain disruption hits V manufacturing, Q4 outlook uncertain",,V,-0.32,demo
+news-00335,2026-08-05T15:30:45.724566+00:00,https://ft.com/article/335,bloomberg.com,BAC raises annual guidance following strong demand environment,,BAC,2.58,demo
+news-00336,2025-10-24T15:24:53.724566+00:00,https://wsj.com/article/336,reuters.com,"Supply chain disruption hits TSLA manufacturing, Q4 outlook uncertain",,TSLA,1.19,demo
+news-00337,2026-06-06T00:44:10.724566+00:00,https://bloomberg.com/article/337,fortune.com,UNH reports quarterly earnings that beat analyst expectations by 10%,,UNH,-1.18,demo
+news-00338,2026-09-14T15:33:23.724566+00:00,https://cnbc.com/article/338,techcrunch.com,"ABBV announces $5B share buyback program, dividend increase",,ABBV,-0.88,demo
+news-00339,2026-08-31T03:08:34.724566+00:00,https://wsj.com/article/339,fortune.com,TSLA CEO Robert Walsh unexpectedly steps down; board to begin search,,TSLA,1.21,demo
+news-00340,2025-12-08T12:38:04.724566+00:00,https://barrons.com/article/340,reuters.com,AAPL CEO Robert Walsh unexpectedly steps down; board to begin search,,AAPL,-1.31,demo
+news-00341,2026-08-28T23:38:45.724566+00:00,https://marketwatch.com/article/341,businessinsider.com,UNH raises annual guidance following strong demand environment,,UNH,0.21,demo
+news-00342,2026-08-25T18:15:48.724566+00:00,https://marketwatch.com/article/342,thestreet.com,Federal Reserve decision impacts GOOGL and broader market outlook,,GOOGL,5.0,demo
+news-00343,2026-01-17T15:17:53.724566+00:00,https://fortune.com/article/343,marketwatch.com,"V announces $5B share buyback program, dividend increase",,V,0.44,demo
+news-00344,2025-11-25T14:31:30.724566+00:00,https://techcrunch.com/article/344,reuters.com,Federal Reserve decision impacts KO and broader market outlook,,KO,-1.81,demo
+news-00345,2026-08-15T04:05:44.724566+00:00,https://wsj.com/article/345,marketwatch.com,"CVX to launch next-gen AI chip, orders reportedly exceed supply",,CVX,1.25,demo
+news-00346,2026-09-07T15:48:39.724566+00:00,https://thestreet.com/article/346,ft.com,JNJ raises annual guidance following strong demand environment,,JNJ,2.71,demo
+news-00347,2026-06-13T10:03:37.724566+00:00,https://bloomberg.com/article/347,wsj.com,"Analysts upgrade V to Buy, raise price target to $530",,V,-3.96,demo
+news-00348,2025-11-17T00:05:25.724566+00:00,https://businessinsider.com/article/348,reuters.com,"JPM announces $5B share buyback program, dividend increase",,JPM,-2.4,demo
+news-00349,2026-09-04T03:57:09.724566+00:00,https://fortune.com/article/349,seekingalpha.com,GOOGL receives FDA/FCC regulatory approval for key new product,,GOOGL,-1.43,demo
+news-00350,2026-03-28T23:09:44.724566+00:00,https://ft.com/article/350,marketwatch.com,"HD announces $5B share buyback program, dividend increase",,HD,5.0,demo
+news-00351,2025-10-04T02:13:13.724566+00:00,https://businessinsider.com/article/351,cnbc.com,MSFT CEO David Kim unexpectedly steps down; board to begin search,,MSFT,-0.43,demo
+news-00352,2026-03-17T21:05:40.724566+00:00,https://businessinsider.com/article/352,seekingalpha.com,KO reports quarterly earnings that beat analyst expectations by 4%,,KO,-2.42,demo
+news-00353,2025-12-15T06:35:28.724566+00:00,https://reuters.com/article/353,fortune.com,BAC reports quarterly earnings that beat analyst expectations by 23%,,BAC,1.07,demo
+news-00354,2026-01-29T03:29:13.724566+00:00,https://ft.com/article/354,bloomberg.com,"AMZN announces $5B share buyback program, dividend increase",,AMZN,2.36,demo
+news-00355,2026-02-12T08:47:20.724566+00:00,https://businessinsider.com/article/355,marketwatch.com,AMZN stock falls on weaker-than-expected revenue guidance,,AMZN,1.78,demo
+news-00356,2026-02-21T15:10:02.724566+00:00,https://techcrunch.com/article/356,fortune.com,AAPL stock falls on weaker-than-expected revenue guidance,,AAPL,-1.29,demo
+news-00357,2026-06-16T08:17:39.724566+00:00,https://bloomberg.com/article/357,fortune.com,"MSFT announces $5B share buyback program, dividend increase",,MSFT,-0.82,demo
+news-00358,2026-06-29T05:56:48.724566+00:00,https://fortune.com/article/358,fortune.com,JPM reports quarterly earnings that beat analyst expectations by 12%,,JPM,-1.42,demo
+news-00359,2026-04-18T22:36:11.724566+00:00,https://techcrunch.com/article/359,barrons.com,GOOGL announces strategic partnership with Google for AI development,,GOOGL,0.23,demo
+news-00360,2026-02-18T06:21:38.724566+00:00,https://techcrunch.com/article/360,seekingalpha.com,JPM raises annual guidance following strong demand environment,,JPM,3.29,demo
+news-00361,2025-10-03T07:48:27.724566+00:00,https://reuters.com/article/361,fortune.com,BRK.B announces strategic partnership with Qualcomm for AI development,,BRK.B,-5.0,demo
+news-00362,2026-03-28T15:31:03.724566+00:00,https://cnbc.com/article/362,cnbc.com,"Supply chain disruption hits GOOGL manufacturing, Q4 outlook uncertain",,GOOGL,2.97,demo
+news-00363,2026-03-16T16:51:02.724566+00:00,https://techcrunch.com/article/363,bloomberg.com,V announces strategic partnership with Google for AI development,,V,-2.03,demo
+news-00364,2026-01-14T11:06:44.724566+00:00,https://techcrunch.com/article/364,bloomberg.com,"Analysts upgrade PG to Buy, raise price target to $510",,PG,4.91,demo
+news-00365,2026-06-27T04:38:39.724566+00:00,https://businessinsider.com/article/365,seekingalpha.com,Federal Reserve decision impacts UNH and broader market outlook,,UNH,-3.83,demo
+news-00366,2026-08-09T19:56:14.724566+00:00,https://barrons.com/article/366,fortune.com,"Supply chain disruption hits GOOGL manufacturing, Q4 outlook uncertain",,GOOGL,-2.88,demo
+news-00367,2026-04-07T20:54:58.724566+00:00,https://businessinsider.com/article/367,bloomberg.com,Geopolitical tensions raise concerns for AMZN supply chain exposure,,AMZN,1.69,demo
+news-00368,2026-05-09T16:34:59.724566+00:00,https://wsj.com/article/368,fortune.com,"BAC announces $5B share buyback program, dividend increase",,BAC,0.36,demo
+news-00369,2026-04-07T10:11:51.724566+00:00,https://marketwatch.com/article/369,fortune.com,Federal Reserve decision impacts BRK.B and broader market outlook,,BRK.B,-3.26,demo
+news-00370,2026-04-12T19:48:14.724566+00:00,https://ft.com/article/370,bloomberg.com,META stock falls on weaker-than-expected revenue guidance,,META,-2.81,demo
+news-00371,2026-05-04T01:16:41.724566+00:00,https://fortune.com/article/371,seekingalpha.com,BRK.B acquires SafeGuard Systems for $9.7B in all-stock deal,,BRK.B,-0.1,demo
+news-00372,2026-04-13T10:08:35.724566+00:00,https://techcrunch.com/article/372,fortune.com,XOM reports quarterly earnings that beat analyst expectations by 6%,,XOM,-1.19,demo
+news-00373,2026-05-30T16:24:08.724566+00:00,https://fortune.com/article/373,cnbc.com,Geopolitical tensions raise concerns for KO supply chain exposure,,KO,0.41,demo
+news-00374,2026-02-08T04:29:47.724566+00:00,https://thestreet.com/article/374,barrons.com,MSFT reports data breach affecting 49M customers,,MSFT,1.96,demo
+news-00375,2025-10-03T02:45:52.724566+00:00,https://marketwatch.com/article/375,marketwatch.com,"BRK.B announces $5B share buyback program, dividend increase",,BRK.B,-4.41,demo
+news-00376,2026-07-17T14:59:26.724566+00:00,https://techcrunch.com/article/376,seekingalpha.com,META announces strategic partnership with Qualcomm for AI development,,META,-4.64,demo
+news-00377,2026-08-18T11:41:20.724566+00:00,https://wsj.com/article/377,techcrunch.com,"Analysts upgrade MA to Buy, raise price target to $748",,MA,0.22,demo
+news-00378,2026-04-16T01:44:58.724566+00:00,https://ft.com/article/378,businessinsider.com,MA reports quarterly earnings that beat analyst expectations by 19%,,MA,-3.21,demo
+news-00379,2026-06-27T22:29:45.724566+00:00,https://barrons.com/article/379,ft.com,"META to launch next-gen AI chip, orders reportedly exceed supply",,META,0.88,demo
+news-00380,2026-06-28T05:00:00.724566+00:00,https://wsj.com/article/380,cnbc.com,UNH acquires CloudLogix for $2.1B in all-stock deal,,UNH,-2.99,demo
+news-00381,2026-09-01T12:39:47.724566+00:00,https://marketwatch.com/article/381,techcrunch.com,"ABBV to launch next-gen AI chip, orders reportedly exceed supply",,ABBV,1.68,demo
+news-00382,2026-07-05T03:39:44.724566+00:00,https://fortune.com/article/382,ft.com,PG receives FDA/FCC regulatory approval for key new product,,PG,1.17,demo
+news-00383,2026-05-16T14:26:08.724566+00:00,https://barrons.com/article/383,fortune.com,"XOM to launch next-gen AI chip, orders reportedly exceed supply",,XOM,-0.64,demo
+news-00384,2025-10-22T20:53:20.724566+00:00,https://fortune.com/article/384,reuters.com,BAC CEO Robert Walsh unexpectedly steps down; board to begin search,,BAC,1.92,demo
+news-00385,2025-12-20T11:42:49.724566+00:00,https://thestreet.com/article/385,reuters.com,"Analysts upgrade JNJ to Buy, raise price target to $791",,JNJ,1.52,demo
+news-00386,2026-08-07T17:18:55.724566+00:00,https://techcrunch.com/article/386,cnbc.com,"ABBV to launch next-gen AI chip, orders reportedly exceed supply",,ABBV,-2.29,demo
+news-00387,2025-10-07T07:07:56.724566+00:00,https://techcrunch.com/article/387,cnbc.com,MSFT CEO Sarah Chen unexpectedly steps down; board to begin search,,MSFT,1.92,demo
+news-00388,2026-07-30T16:29:58.724566+00:00,https://techcrunch.com/article/388,wsj.com,CVX raises annual guidance following strong demand environment,,CVX,-3.25,demo
+news-00389,2026-03-17T16:16:11.724566+00:00,https://cnbc.com/article/389,thestreet.com,MSFT raises annual guidance following strong demand environment,,MSFT,-0.98,demo
+news-00390,2026-05-22T01:36:55.724566+00:00,https://reuters.com/article/390,fortune.com,AMZN reports data breach affecting 46M customers,,AMZN,5.0,demo
+news-00391,2026-04-24T07:19:28.724566+00:00,https://wsj.com/article/391,ft.com,V receives FDA/FCC regulatory approval for key new product,,V,1.42,demo
+news-00392,2026-02-08T03:39:57.724566+00:00,https://marketwatch.com/article/392,marketwatch.com,PG raises annual guidance following strong demand environment,,PG,0.31,demo
+news-00393,2026-03-24T08:12:26.724566+00:00,https://wsj.com/article/393,fortune.com,PG reports data breach affecting 8M customers,,PG,1.71,demo
+news-00394,2025-10-11T20:33:41.724566+00:00,https://thestreet.com/article/394,marketwatch.com,UNH receives FDA/FCC regulatory approval for key new product,,UNH,-0.17,demo
+news-00395,2025-11-03T05:48:09.724566+00:00,https://bloomberg.com/article/395,ft.com,BAC stock falls on weaker-than-expected revenue guidance,,BAC,4.01,demo
+news-00396,2026-08-20T02:47:05.724566+00:00,https://techcrunch.com/article/396,techcrunch.com,HD stock falls on weaker-than-expected revenue guidance,,HD,0.87,demo
+news-00397,2025-10-16T23:24:48.724566+00:00,https://bloomberg.com/article/397,bloomberg.com,V reports quarterly earnings that beat analyst expectations by 8%,,V,-1.45,demo
+news-00398,2026-03-19T10:22:24.724566+00:00,https://marketwatch.com/article/398,reuters.com,HD acquires TechStart AI for $7.9B in all-stock deal,,HD,-2.69,demo
+news-00399,2025-10-19T22:32:07.724566+00:00,https://techcrunch.com/article/399,bloomberg.com,"Analysts upgrade CVX to Buy, raise price target to $802",,CVX,2.28,demo
+news-00400,2025-10-14T05:32:34.724566+00:00,https://businessinsider.com/article/400,ft.com,MA receives FDA/FCC regulatory approval for key new product,,MA,-3.42,demo
+news-00401,2025-10-06T14:12:53.724566+00:00,https://thestreet.com/article/401,thestreet.com,SEC opens preliminary investigation into PG over disclosure claims,,PG,3.15,demo
+news-00402,2026-02-12T19:13:01.724566+00:00,https://wsj.com/article/402,seekingalpha.com,Geopolitical tensions raise concerns for TSLA supply chain exposure,,TSLA,-0.06,demo
+news-00403,2025-12-11T16:39:59.724566+00:00,https://fortune.com/article/403,barrons.com,"GOOGL announces $5B share buyback program, dividend increase",,GOOGL,-5.0,demo
+news-00404,2026-05-15T17:49:52.724566+00:00,https://businessinsider.com/article/404,marketwatch.com,"Analysts upgrade NVDA to Buy, raise price target to $202",,NVDA,-0.01,demo
+news-00405,2026-04-08T22:50:32.724566+00:00,https://businessinsider.com/article/405,marketwatch.com,V reports data breach affecting 21M customers,,V,1.66,demo
+news-00406,2026-08-03T09:10:13.724566+00:00,https://wsj.com/article/406,techcrunch.com,"HD to launch next-gen AI chip, orders reportedly exceed supply",,HD,1.06,demo
+news-00407,2026-03-24T05:19:28.724566+00:00,https://marketwatch.com/article/407,cnbc.com,"Supply chain disruption hits MA manufacturing, Q4 outlook uncertain",,MA,1.89,demo
+news-00408,2026-06-02T14:47:55.724566+00:00,https://bloomberg.com/article/408,techcrunch.com,ABBV announces strategic partnership with Qualcomm for AI development,,ABBV,1.35,demo
+news-00409,2026-01-11T11:24:27.724566+00:00,https://thestreet.com/article/409,thestreet.com,"Supply chain disruption hits ABBV manufacturing, Q4 outlook uncertain",,ABBV,3.84,demo
+news-00410,2026-02-20T13:45:37.724566+00:00,https://thestreet.com/article/410,reuters.com,Federal Reserve decision impacts MA and broader market outlook,,MA,-1.09,demo
+news-00411,2026-05-10T05:07:10.724566+00:00,https://barrons.com/article/411,fortune.com,"META announces $5B share buyback program, dividend increase",,META,-0.01,demo
+news-00412,2026-06-18T21:57:25.724566+00:00,https://wsj.com/article/412,thestreet.com,Geopolitical tensions raise concerns for NVDA supply chain exposure,,NVDA,-0.17,demo
+news-00413,2025-11-11T08:24:51.724566+00:00,https://techcrunch.com/article/413,thestreet.com,Federal Reserve decision impacts V and broader market outlook,,V,1.82,demo
+news-00414,2026-08-22T17:25:25.724566+00:00,https://bloomberg.com/article/414,thestreet.com,UNH raises annual guidance following strong demand environment,,UNH,-2.41,demo
+news-00415,2026-09-11T19:19:45.724566+00:00,https://barrons.com/article/415,reuters.com,XOM receives FDA/FCC regulatory approval for key new product,,XOM,2.73,demo
+news-00416,2026-07-07T20:01:59.724566+00:00,https://bloomberg.com/article/416,fortune.com,AMZN CEO John Smith unexpectedly steps down; board to begin search,,AMZN,0.92,demo
+news-00417,2025-12-03T21:12:41.724566+00:00,https://fortune.com/article/417,seekingalpha.com,CVX reports quarterly earnings that beat analyst expectations by 10%,,CVX,2.19,demo
+news-00418,2025-10-23T23:25:30.724566+00:00,https://ft.com/article/418,cnbc.com,Geopolitical tensions raise concerns for BAC supply chain exposure,,BAC,3.16,demo
+news-00419,2025-11-04T13:31:17.724566+00:00,https://wsj.com/article/419,businessinsider.com,JNJ reports data breach affecting 38M customers,,JNJ,0.8,demo
+news-00420,2025-12-06T09:34:01.724566+00:00,https://techcrunch.com/article/420,fortune.com,"Analysts upgrade META to Buy, raise price target to $170",,META,-2.14,demo
+news-00421,2025-10-08T16:39:44.724566+00:00,https://wsj.com/article/421,thestreet.com,"GOOGL announces $5B share buyback program, dividend increase",,GOOGL,-2.09,demo
+news-00422,2026-04-26T15:34:25.724566+00:00,https://thestreet.com/article/422,bloomberg.com,KO announces strategic partnership with Samsung for AI development,,KO,-4.15,demo
+news-00423,2026-04-23T00:05:32.724566+00:00,https://seekingalpha.com/article/423,marketwatch.com,"HD announces $5B share buyback program, dividend increase",,HD,-3.01,demo
+news-00424,2026-09-19T20:08:43.724566+00:00,https://techcrunch.com/article/424,barrons.com,UNH announces strategic partnership with Microsoft for AI development,,UNH,-2.67,demo
+news-00425,2026-09-07T18:20:30.724566+00:00,https://thestreet.com/article/425,seekingalpha.com,KO raises annual guidance following strong demand environment,,KO,3.65,demo
+news-00426,2026-02-19T22:53:12.724566+00:00,https://bloomberg.com/article/426,ft.com,TSLA acquires SafeGuard Systems for $10.3B in all-stock deal,,TSLA,-0.83,demo
+news-00427,2026-05-27T21:25:43.724566+00:00,https://cnbc.com/article/427,fortune.com,PG acquires SafeGuard Systems for $9.5B in all-stock deal,,PG,-2.02,demo
+news-00428,2026-01-29T08:30:05.724566+00:00,https://barrons.com/article/428,marketwatch.com,PG stock falls on weaker-than-expected revenue guidance,,PG,-2.68,demo
+news-00429,2025-11-10T04:57:07.724566+00:00,https://wsj.com/article/429,thestreet.com,META acquires TechStart AI for $8.5B in all-stock deal,,META,-1.04,demo
+news-00430,2025-11-06T15:17:40.724566+00:00,https://ft.com/article/430,businessinsider.com,Geopolitical tensions raise concerns for UNH supply chain exposure,,UNH,0.25,demo
+news-00431,2025-10-16T22:11:33.724566+00:00,https://techcrunch.com/article/431,seekingalpha.com,Geopolitical tensions raise concerns for KO supply chain exposure,,KO,-0.05,demo
+news-00432,2025-12-19T14:20:06.724566+00:00,https://fortune.com/article/432,thestreet.com,META raises annual guidance following strong demand environment,,META,-1.71,demo
+news-00433,2026-06-21T00:39:00.724566+00:00,https://reuters.com/article/433,marketwatch.com,META CEO Sarah Chen unexpectedly steps down; board to begin search,,META,-2.07,demo
+news-00434,2025-10-08T05:30:49.724566+00:00,https://techcrunch.com/article/434,techcrunch.com,UNH announces strategic partnership with Qualcomm for AI development,,UNH,-1.39,demo
+news-00435,2025-12-29T03:30:52.724566+00:00,https://barrons.com/article/435,wsj.com,"Supply chain disruption hits JPM manufacturing, Q4 outlook uncertain",,JPM,0.94,demo
+news-00436,2025-11-16T16:53:25.724566+00:00,https://thestreet.com/article/436,cnbc.com,Geopolitical tensions raise concerns for NVDA supply chain exposure,,NVDA,-2.28,demo
+news-00437,2026-07-28T06:54:06.724566+00:00,https://wsj.com/article/437,marketwatch.com,XOM stock falls on weaker-than-expected revenue guidance,,XOM,-0.04,demo
+news-00438,2025-12-26T20:23:58.724566+00:00,https://fortune.com/article/438,techcrunch.com,JPM CEO Elena Martinez unexpectedly steps down; board to begin search,,JPM,3.23,demo
+news-00439,2026-01-06T16:12:58.724566+00:00,https://cnbc.com/article/439,bloomberg.com,JPM acquires DataCore Inc. for $6.9B in all-stock deal,,JPM,1.46,demo
+news-00440,2026-01-14T18:15:20.724566+00:00,https://ft.com/article/440,techcrunch.com,Federal Reserve decision impacts V and broader market outlook,,V,-3.21,demo
+news-00441,2025-12-20T00:12:31.724566+00:00,https://wsj.com/article/441,barrons.com,"Analysts upgrade BRK.B to Buy, raise price target to $180",,BRK.B,4.22,demo
+news-00442,2025-10-18T16:12:30.724566+00:00,https://businessinsider.com/article/442,marketwatch.com,AAPL reports data breach affecting 26M customers,,AAPL,0.28,demo
+news-00443,2026-07-20T14:22:22.724566+00:00,https://barrons.com/article/443,ft.com,BRK.B reports quarterly earnings that beat analyst expectations by 19%,,BRK.B,-3.11,demo
+news-00444,2026-04-21T12:18:34.724566+00:00,https://businessinsider.com/article/444,marketwatch.com,"META to launch next-gen AI chip, orders reportedly exceed supply",,META,-1.22,demo
+news-00445,2026-09-01T23:14:14.724566+00:00,https://cnbc.com/article/445,ft.com,KO receives FDA/FCC regulatory approval for key new product,,KO,0.34,demo
+news-00446,2026-07-01T09:24:09.724566+00:00,https://marketwatch.com/article/446,marketwatch.com,"META announces $5B share buyback program, dividend increase",,META,-1.72,demo
+news-00447,2026-08-10T12:55:37.724566+00:00,https://wsj.com/article/447,thestreet.com,JPM acquires TechStart AI for $2.2B in all-stock deal,,JPM,0.01,demo
+news-00448,2026-08-28T03:10:31.724566+00:00,https://fortune.com/article/448,thestreet.com,HD receives FDA/FCC regulatory approval for key new product,,HD,-5.0,demo
+news-00449,2026-06-27T10:36:59.724566+00:00,https://ft.com/article/449,reuters.com,GOOGL CEO John Smith unexpectedly steps down; board to begin search,,GOOGL,0.02,demo
+news-00450,2026-01-10T08:21:49.724566+00:00,https://marketwatch.com/article/450,reuters.com,PG acquires DataCore Inc. for $7.1B in all-stock deal,,PG,-5.0,demo
+news-00451,2026-02-17T04:08:37.724566+00:00,https://marketwatch.com/article/451,fortune.com,JNJ receives FDA/FCC regulatory approval for key new product,,JNJ,-2.15,demo
+news-00452,2026-09-27T21:09:22.724566+00:00,https://marketwatch.com/article/452,seekingalpha.com,Federal Reserve decision impacts AMZN and broader market outlook,,AMZN,2.42,demo
+news-00453,2026-02-02T07:48:24.724566+00:00,https://fortune.com/article/453,cnbc.com,"V to launch next-gen AI chip, orders reportedly exceed supply",,V,-2.64,demo
+news-00454,2025-12-06T05:48:19.724566+00:00,https://ft.com/article/454,reuters.com,SEC opens preliminary investigation into CVX over disclosure claims,,CVX,-2.71,demo
+news-00455,2026-03-05T11:01:14.724566+00:00,https://bloomberg.com/article/455,bloomberg.com,META announces strategic partnership with Qualcomm for AI development,,META,-0.36,demo
+news-00456,2026-09-29T01:19:54.724566+00:00,https://seekingalpha.com/article/456,cnbc.com,JPM CEO Robert Walsh unexpectedly steps down; board to begin search,,JPM,-0.78,demo
+news-00457,2025-10-13T08:35:28.724566+00:00,https://reuters.com/article/457,fortune.com,"Analysts upgrade META to Buy, raise price target to $653",,META,-0.71,demo
+news-00458,2026-06-04T08:04:36.724566+00:00,https://techcrunch.com/article/458,fortune.com,Geopolitical tensions raise concerns for ABBV supply chain exposure,,ABBV,1.49,demo
+news-00459,2026-04-29T20:21:32.724566+00:00,https://wsj.com/article/459,bloomberg.com,"Supply chain disruption hits XOM manufacturing, Q4 outlook uncertain",,XOM,3.02,demo
+news-00460,2026-02-12T19:31:38.724566+00:00,https://cnbc.com/article/460,businessinsider.com,BAC receives FDA/FCC regulatory approval for key new product,,BAC,1.94,demo
+news-00461,2026-08-08T03:51:29.724566+00:00,https://cnbc.com/article/461,barrons.com,HD CEO David Kim unexpectedly steps down; board to begin search,,HD,-4.45,demo
+news-00462,2026-03-02T14:46:17.724566+00:00,https://seekingalpha.com/article/462,wsj.com,BRK.B raises annual guidance following strong demand environment,,BRK.B,2.12,demo
+news-00463,2026-08-12T08:55:49.724566+00:00,https://cnbc.com/article/463,seekingalpha.com,ABBV CEO Sarah Chen unexpectedly steps down; board to begin search,,ABBV,3.49,demo
+news-00464,2025-12-14T04:36:43.724566+00:00,https://marketwatch.com/article/464,reuters.com,SEC opens preliminary investigation into MA over disclosure claims,,MA,-0.48,demo
+news-00465,2026-07-07T00:23:48.724566+00:00,https://businessinsider.com/article/465,techcrunch.com,AMZN reports quarterly earnings that beat analyst expectations by 10%,,AMZN,3.45,demo
+news-00466,2026-02-23T11:57:33.724566+00:00,https://businessinsider.com/article/466,techcrunch.com,JNJ stock falls on weaker-than-expected revenue guidance,,JNJ,0.66,demo
+news-00467,2025-10-29T23:38:27.724566+00:00,https://thestreet.com/article/467,businessinsider.com,SEC opens preliminary investigation into UNH over disclosure claims,,UNH,-2.86,demo
+news-00468,2025-12-18T14:46:42.724566+00:00,https://businessinsider.com/article/468,techcrunch.com,MA stock falls on weaker-than-expected revenue guidance,,MA,0.15,demo
+news-00469,2026-06-03T14:31:24.724566+00:00,https://techcrunch.com/article/469,reuters.com,"META to launch next-gen AI chip, orders reportedly exceed supply",,META,5.0,demo
+news-00470,2025-12-25T20:13:15.724566+00:00,https://bloomberg.com/article/470,wsj.com,Federal Reserve decision impacts PG and broader market outlook,,PG,3.79,demo
+news-00471,2025-10-05T17:31:11.724566+00:00,https://reuters.com/article/471,barrons.com,BRK.B stock falls on weaker-than-expected revenue guidance,,BRK.B,-3.24,demo
+news-00472,2026-02-10T16:36:36.724566+00:00,https://fortune.com/article/472,reuters.com,META reports quarterly earnings that beat analyst expectations by 14%,,META,-3.81,demo
+news-00473,2025-12-31T14:58:20.724566+00:00,https://marketwatch.com/article/473,thestreet.com,XOM stock falls on weaker-than-expected revenue guidance,,XOM,0.0,demo
+news-00474,2026-07-03T16:31:08.724566+00:00,https://businessinsider.com/article/474,thestreet.com,AMZN raises annual guidance following strong demand environment,,AMZN,-0.01,demo
+news-00475,2026-01-17T04:29:50.724566+00:00,https://barrons.com/article/475,thestreet.com,SEC opens preliminary investigation into MA over disclosure claims,,MA,0.71,demo
+news-00476,2026-04-16T18:09:19.724566+00:00,https://seekingalpha.com/article/476,techcrunch.com,SEC opens preliminary investigation into PG over disclosure claims,,PG,-4.14,demo
+news-00477,2026-06-14T21:59:22.724566+00:00,https://thestreet.com/article/477,seekingalpha.com,NVDA CEO Elena Martinez unexpectedly steps down; board to begin search,,NVDA,1.23,demo
+news-00478,2026-04-23T10:52:11.724566+00:00,https://fortune.com/article/478,bloomberg.com,HD reports quarterly earnings that beat analyst expectations by 7%,,HD,-0.77,demo
+news-00479,2026-05-12T00:30:24.724566+00:00,https://fortune.com/article/479,seekingalpha.com,Federal Reserve decision impacts MSFT and broader market outlook,,MSFT,-0.94,demo
+news-00480,2026-09-28T12:28:57.724566+00:00,https://wsj.com/article/480,fortune.com,"Supply chain disruption hits BRK.B manufacturing, Q4 outlook uncertain",,BRK.B,-0.76,demo
+news-00481,2026-08-18T03:11:46.724566+00:00,https://barrons.com/article/481,cnbc.com,MSFT receives FDA/FCC regulatory approval for key new product,,MSFT,-0.59,demo
+news-00482,2026-02-28T21:50:00.724566+00:00,https://wsj.com/article/482,wsj.com,GOOGL receives FDA/FCC regulatory approval for key new product,,GOOGL,1.46,demo
+news-00483,2026-07-26T20:33:59.724566+00:00,https://fortune.com/article/483,barrons.com,"Analysts upgrade GOOGL to Buy, raise price target to $206",,GOOGL,1.07,demo
+news-00484,2026-04-27T14:36:02.724566+00:00,https://barrons.com/article/484,businessinsider.com,Geopolitical tensions raise concerns for UNH supply chain exposure,,UNH,-3.66,demo
+news-00485,2026-08-19T02:36:35.724566+00:00,https://techcrunch.com/article/485,marketwatch.com,HD reports data breach affecting 24M customers,,HD,-0.11,demo
+news-00486,2026-07-11T08:01:04.724566+00:00,https://reuters.com/article/486,cnbc.com,MA reports data breach affecting 14M customers,,MA,-2.38,demo
+news-00487,2025-10-10T16:33:32.724566+00:00,https://techcrunch.com/article/487,cnbc.com,Geopolitical tensions raise concerns for V supply chain exposure,,V,0.82,demo
+news-00488,2026-01-13T04:09:22.724566+00:00,https://marketwatch.com/article/488,barrons.com,MSFT CEO Robert Walsh unexpectedly steps down; board to begin search,,MSFT,-1.41,demo
+news-00489,2026-07-10T06:32:48.724566+00:00,https://marketwatch.com/article/489,businessinsider.com,SEC opens preliminary investigation into NVDA over disclosure claims,,NVDA,0.36,demo
+news-00490,2026-09-25T06:45:09.724566+00:00,https://marketwatch.com/article/490,marketwatch.com,Geopolitical tensions raise concerns for CVX supply chain exposure,,CVX,-3.2,demo
+news-00491,2025-10-23T06:47:47.724566+00:00,https://cnbc.com/article/491,thestreet.com,UNH reports quarterly earnings that beat analyst expectations by 13%,,UNH,2.95,demo
+news-00492,2026-03-24T07:43:54.724566+00:00,https://barrons.com/article/492,barrons.com,MSFT receives FDA/FCC regulatory approval for key new product,,MSFT,-3.98,demo
+news-00493,2025-11-03T07:39:49.724566+00:00,https://businessinsider.com/article/493,barrons.com,"V to launch next-gen AI chip, orders reportedly exceed supply",,V,-5.0,demo
+news-00494,2025-12-18T04:47:34.724566+00:00,https://businessinsider.com/article/494,seekingalpha.com,Federal Reserve decision impacts AMZN and broader market outlook,,AMZN,0.21,demo
+news-00495,2026-01-13T15:59:00.724566+00:00,https://seekingalpha.com/article/495,marketwatch.com,Federal Reserve decision impacts NVDA and broader market outlook,,NVDA,-2.85,demo
+news-00496,2025-10-11T15:54:41.724566+00:00,https://cnbc.com/article/496,ft.com,"Analysts upgrade TSLA to Buy, raise price target to $249",,TSLA,-1.44,demo
+news-00497,2025-12-01T20:13:51.724566+00:00,https://techcrunch.com/article/497,bloomberg.com,PG announces strategic partnership with Google for AI development,,PG,3.03,demo
+news-00498,2026-03-26T01:09:55.724566+00:00,https://businessinsider.com/article/498,reuters.com,"Analysts upgrade V to Buy, raise price target to $316",,V,-0.42,demo
+news-00499,2026-06-01T05:27:35.724566+00:00,https://techcrunch.com/article/499,ft.com,"XOM to launch next-gen AI chip, orders reportedly exceed supply",,XOM,-1.14,demo
