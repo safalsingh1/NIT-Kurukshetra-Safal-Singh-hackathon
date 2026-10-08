@@ -1,7 +1,7 @@
 # FinRisk AI 🧠 — S&P Global & Crisil Campus Hackathon 2026
 
 **Candidate Name:** Safal Singh  
-**College Email ID:** *(add your NIT Kurukshetra email)*  
+**College Email ID:** safalsingh@nitkkr.ac.in  
 **College / Campus:** NIT Kurukshetra  
 **Demo Video Link:** *(add YouTube unlisted link before submission)*  
 **Slide Deck Link:** [FinRisk AI — Presentation PDF (Google Drive)](https://drive.google.com/file/d/1isHV2PJpKT0e2MSMzscI3w63rLPYSny8/view?usp=sharing)  
@@ -104,9 +104,8 @@ python -m spacy download en_core_web_lg
 cp .env.example .env
 # Edit .env to set SEC_USER_AGENT="FinRiskAI candidate@college.ac.in" if testing live SEC polling
 
-# 4. Generate demo dataset and documentation artifacts
+# 4. Generate demo dataset (prices, news cache, synthetic portfolio)
 python scripts/generate_demo_data.py
-python scripts/generate_docs.py
 
 # 5. Run automated test suite (34 unit & integration tests)
 python -m pytest tests/ -v
