@@ -7,8 +7,6 @@
 **Presentation Deck (OneDrive Cloud):** [FinRisk AI Presentation Deck (OneDrive)](https://1drv.ms/b/c/b54c5000cff07bc3/IQC2AS5GHLeqQ7EjYoY1C0dvAVKEZgUIHLeelGEkyIXgZ1o?e=Loekbo)  
 **Slide Deck (In-Repo PDF):** [docs/presentation.pdf](docs/presentation.pdf)  
 **Slide Deck (In-Repo PowerPoint):** [docs/presentation.pptx](docs/presentation.pptx)  
-**Demo Video Script (2.5-Min Gen Z Edition 🔥):** [docs/demo_video_script_genz.md](docs/demo_video_script_genz.md)  
-**Demo Video Script (Standard Institutional):** [docs/demo_video_script.md](docs/demo_video_script.md)  
 **Architecture Diagram:** [docs/architecture.png](docs/architecture.png) | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)  
 
 
@@ -185,7 +183,6 @@ npm run dev
 │   ├── presentation.pdf           <-- 7-Slide Presentation Deck (PDF format)
 │   ├── presentation.pptx          <-- 7-Slide Presentation Deck (PowerPoint format)
 │   ├── architecture.png           <-- High-resolution architecture & data flow diagram
-│   ├── demo_video_script_genz.md  <-- 2.5-Minute Video Walkthrough Script
 │   └── screenshots/               <-- Captured dashboard UI screenshots
 │       ├── market_radar.png
 │       ├── event_replay.png
