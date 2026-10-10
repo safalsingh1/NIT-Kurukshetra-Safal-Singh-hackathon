@@ -811,18 +811,27 @@ def trigger_rebalance(req: Optional[RebalanceRequest] = None):
             })
         signals_df = pd.DataFrame(rows)
 
+    N = len(PROTOTYPE_UNIVERSE)
+    benchmark_w = {t: 1.0 / N for t in PROTOTYPE_UNIVERSE}
+    # Reset to baseline benchmark index so active tactical tilt is calculated relative to index
+    rb._current_weights = dict(benchmark_w)
     event = rb.rebalance(signals_df)
 
     portfolio_rows = []
+    n_acted = 0
     for d in event.decisions:
-        delta = round(d.delta * 100, 1)
-        action = "BUY" if delta > 0.05 else ("SELL" if delta < -0.05 else "HOLD")
+        b_w = round(benchmark_w.get(d.ticker, 1.0 / N) * 100, 1)
+        next_w = round(d.to_weight * 100, 1)
+        delta = round(next_w - b_w, 1)
+        action = "BUY" if delta > 0.1 else ("SELL" if delta < -0.1 else "HOLD")
+        if action != "HOLD":
+            n_acted += 1
         portfolio_rows.append({
             "ticker":        d.ticker,
             "company":       d.company,
             "sector":        TICKER_DB.get(d.ticker, {}).get("sector", "Unknown"),
-            "prev":          round(d.from_weight * 100, 1),
-            "next":          round(d.to_weight * 100, 1),
+            "prev":          b_w,
+            "next":          next_w,
             "delta":         delta,
             "action":        action,
             "actionability": d.actionability,
@@ -833,7 +842,7 @@ def trigger_rebalance(req: Optional[RebalanceRequest] = None):
     return _response({
         "timestamp":    event.timestamp.isoformat(),
         "turnover":     round(event.turnover * 100, 1),
-        "n_acted":      event.n_acted,
+        "n_acted":      n_acted,
         "n_abstained":  event.n_abstained,
         "prev_weights": {k: round(v * 100, 2) for k, v in event.prev_weights.items()},
         "new_weights":  {k: round(v * 100, 2) for k, v in event.new_weights.items()},

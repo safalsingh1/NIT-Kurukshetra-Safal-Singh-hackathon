@@ -32,7 +32,7 @@ MIN_WEIGHT       = 0.00    # No short selling
 MAX_TURNOVER     = 0.10    # Maximum total turnover per rebalance (10%)
 MAX_SECTOR_WEIGHT= 0.30    # Maximum total weight in any single sector (30%)
 LAMBDA_RISK      = 2.0     # Quadratic risk penalty coefficient
-LAMBDA_TURNOVER  = 1.5     # L1 turnover penalty coefficient
+LAMBDA_TURNOVER  = 0.05    # L1 turnover penalty coefficient (5 bps slippage/friction)
 MIN_CONFIDENCE   = 0.50    # Below this, weight is locked to previous
 
 
