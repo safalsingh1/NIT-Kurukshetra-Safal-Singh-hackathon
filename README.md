@@ -3,11 +3,12 @@
 **Candidate Name:** Safal Singh  
 **College Email ID:** 123103051@nitkkr.ac.in  
 **College / Campus:** NIT Kurukshetra  
-**Demo Video Link:** [YouTube Unlisted Walkthrough](https://youtu.be/placeholder-demo-video) *(Replace with your unlisted YouTube link)*  
-**Demo Video Script (Standard Institutional):** [docs/demo_video_script.md](docs/demo_video_script.md)  
+**Demo Video Link:** [YouTube Unlisted Walkthrough](https://youtu.be/su26HGmlV_g)  
+**Presentation Deck (OneDrive Cloud):** [FinRisk AI Presentation Deck (OneDrive)](https://1drv.ms/b/c/b54c5000cff07bc3/IQC2AS5GHLeqQ7EjYoY1C0dvAVKEZgUIHLeelGEkyIXgZ1o?e=Loekbo)  
+**Slide Deck (In-Repo PDF):** [docs/presentation.pdf](docs/presentation.pdf)  
+**Slide Deck (In-Repo PowerPoint):** [docs/presentation.pptx](docs/presentation.pptx)  
 **Demo Video Script (2.5-Min Gen Z Edition 🔥):** [docs/demo_video_script_genz.md](docs/demo_video_script_genz.md)  
-**Slide Deck (PDF):** [docs/presentation.pdf](docs/presentation.pdf)  
-**Slide Deck (PowerPoint):** [docs/presentation.pptx](docs/presentation.pptx)  
+**Demo Video Script (Standard Institutional):** [docs/demo_video_script.md](docs/demo_video_script.md)  
 **Architecture Diagram:** [docs/architecture.png](docs/architecture.png) | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)  
 
 
@@ -70,6 +71,20 @@ Modern financial markets react instantaneously to unstructured event streams, fr
 - **Backend & AI/ML:** Python 3.11, FastAPI, Uvicorn, PyTorch, HuggingFace Transformers (`ProsusDE/finbert`, `facebook/bart-large-mnli`), `sentence-transformers` (`all-MiniLM-L6-v2`), FAISS CPU, CVXPY (Clarabel/OSQP solvers), Scikit-Learn (Ledoit-Wolf covariance), NumPy, Pandas.
 - **Frontend Dashboard:** React 18, Vite, Tailwind CSS, Lucide Icons, Recharts (Heatmap, Risk Index timeline, Ablation curves, Stress P&L waterfalls).
 - **Automation & Integrations:** Composio SDK, Google Slides API, Google Drive API.
+
+### Interactive Dashboard Walkthrough & Screenshots
+
+| **1. Market Radar (Live Streaming Feed, Sentiment Heatmap & Real-Time Risk Timeline)** |
+|:---:|
+| ![Market Radar](docs/screenshots/market_radar.png) |
+
+| **2. Event Replay (Signal Evolution: Rumor Abstention → Media Corroboration → SEC 8-K Execution)** |
+|:---:|
+| ![Event Replay](docs/screenshots/event_replay.png) |
+
+| **3. Tactical Portfolio Rebalancer (CVXPY Convex Optimization, 10% Turnover Budget & Audit JSON)** |
+|:---:|
+| ![Portfolio Rebalancer](docs/screenshots/portfolio_rebalancer.png) |
 
 ---
 
@@ -169,7 +184,12 @@ npm run dev
 ├── docs/
 │   ├── presentation.pdf           <-- 7-Slide Presentation Deck (PDF format)
 │   ├── presentation.pptx          <-- 7-Slide Presentation Deck (PowerPoint format)
-│   └── architecture.png           <-- High-resolution architecture & data flow diagram
+│   ├── architecture.png           <-- High-resolution architecture & data flow diagram
+│   ├── demo_video_script_genz.md  <-- 2.5-Minute Video Walkthrough Script
+│   └── screenshots/               <-- Captured dashboard UI screenshots
+│       ├── market_radar.png
+│       ├── event_replay.png
+│       └── portfolio_rebalancer.png
 │
 ├── data/                          <-- All sample & synthetic data used in prototype
 │   ├── prices.csv                 <-- 504-day adjusted close price history (15 tickers)

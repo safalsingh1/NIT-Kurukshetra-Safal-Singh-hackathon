@@ -1,8 +1,8 @@
 # FinRisk AI 🧠 — 2.5-Minute Demo Video Script (Gen Z Edition 🔥)
 **S&P Global & CRISIL Campus Hackathon 2026**  
 **Candidate:** Safal Singh | **College:** NIT Kurukshetra  
-**Target Runtime:** Exactly 2 Minutes 30 Seconds Max (150s Total | ~360 Words | Ultra-Punchy & Institutional Grade)  
-**Deliverable 3:** YouTube (Unlisted) Screen Recording Walkthrough
+**Deliverable 3 (YouTube Link):** [https://youtu.be/su26HGmlV_g](https://youtu.be/su26HGmlV_g)  
+**Deliverable 2 (Presentation Deck):** [OneDrive Link](https://1drv.ms/b/c/b54c5000cff07bc3/IQC2AS5GHLeqQ7EjYoY1C0dvAVKEZgUIHLeelGEkyIXgZ1o?e=Loekbo) | [docs/presentation.pdf](presentation.pdf)
 
 ---
 

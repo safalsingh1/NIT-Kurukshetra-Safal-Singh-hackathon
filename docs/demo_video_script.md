@@ -1,7 +1,8 @@
 # FinRisk AI 🧠 — Demo Video Walkthrough Script (10 Minutes)
 **S&P Global & CRISIL Campus Hackathon 2026**  
 **Candidate:** Safal Singh | **Institution:** NIT Kurukshetra  
-**Deliverable 3:** 10-Minute Screen Recording Walkthrough (YouTube Unlisted)
+**Deliverable 3 (YouTube Walkthrough Link):** [https://youtu.be/su26HGmlV_g](https://youtu.be/su26HGmlV_g)  
+**Deliverable 2 (Presentation Deck):** [OneDrive Link](https://1drv.ms/b/c/b54c5000cff07bc3/IQC2AS5GHLeqQ7EjYoY1C0dvAVKEZgUIHLeelGEkyIXgZ1o?e=Loekbo) | [docs/presentation.pdf](presentation.pdf)
 
 ---
 
