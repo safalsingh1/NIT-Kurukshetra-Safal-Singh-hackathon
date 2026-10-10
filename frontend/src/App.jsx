@@ -7,7 +7,7 @@ import EventReplay       from './pages/EventReplay.jsx'
 import Portfolio         from './pages/Portfolio.jsx'
 import MacroStressTest   from './pages/MacroStressTest.jsx'
 import { api } from './api.js'
-import { ToastContainer, toast } from './Toast.jsx'
+import { ToastContainer, toast, NotificationBell } from './Toast.jsx'
 
 const NAV = [
   { id:'radar',   label:'Market Radar',       icon: Activity,    comp: MarketRadar       },
@@ -52,13 +52,13 @@ export default function App() {
             {
               title: `🟢 CONFIRMED: ${evt.action} Signal`,
               type:  evt.action === 'SELL' ? 'sell' : 'confirm',
-              duration: 7000,
+              duration: 3800,
             }
           )
         } else if (evt.impact >= 8 && evt.status !== 'WATCH') {
           toast(
             `${evt.ticker} high-impact event (${evt.impact}/10) — ${evt.event_type}`,
-            { title: '⚠ High Impact Alert', type: 'alert', duration: 6000 }
+            { title: '⚠ High Impact Alert', type: 'alert', duration: 3500 }
           )
         }
       })
@@ -216,6 +216,9 @@ export default function App() {
               {toggling ? 'CONNECTING…' : 'LIVE'}
             </button>
           </div>
+
+          {/* ── Institutional Alert Feed & Controls ── */}
+          <NotificationBell />
         </div>
       </header>
 
