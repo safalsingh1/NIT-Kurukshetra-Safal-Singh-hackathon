@@ -4,7 +4,8 @@
 **College Email ID:** safalsingh@nitkkr.ac.in  
 **College / Campus:** NIT Kurukshetra  
 **Demo Video Link:** [YouTube Unlisted Walkthrough](https://youtu.be/placeholder-demo-video) *(Replace with your unlisted YouTube link)*  
-**Demo Video Script & Guide:** [docs/demo_video_script.md](docs/demo_video_script.md)  
+**Demo Video Script (Standard Institutional):** [docs/demo_video_script.md](docs/demo_video_script.md)  
+**Demo Video Script (4-Min Gen Z Edition 🔥):** [docs/demo_video_script_genz.md](docs/demo_video_script_genz.md)  
 **Slide Deck (PDF):** [docs/presentation.pdf](docs/presentation.pdf)  
 **Slide Deck (PowerPoint):** [docs/presentation.pptx](docs/presentation.pptx)  
 **Architecture Diagram:** [docs/architecture.png](docs/architecture.png) | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)  
