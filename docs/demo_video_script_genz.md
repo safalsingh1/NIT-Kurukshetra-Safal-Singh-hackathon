@@ -10,13 +10,14 @@
 
 | Timestamp | Duration | Section | On-Screen Visual Focus |
 |---|---|---|---|
-| `0:00 – 0:20` | **20s** | **Intro: The Problem & The Flex** | GitHub README header → Dashboard Hero header |
-| `0:20 – 0:40` | **20s** | **Setup: Running from README** | Terminal (`pytest` 34/34 green → FastAPI & Vite live) |
-| `0:40 – 0:58` | **18s** | **Step 1: Market Radar** | `/radar` 15-stock universe & live streaming ticker |
-| `0:58 – 1:20` | **22s** | **Step 2: Event Intel & Abstention** | `/events` FinBERT + FAISS dedup + Evidence Gate `< 40` |
-| `1:20 – 1:42` | **22s** | **Step 3: CVXPY Rebalance & Audit** | `/portfolio` Click "Rebalance Now", 10% cap, Audit JSON |
-| `1:42 – 1:58` | **16s** | **Step 4: Macro Stress Test** | `/stress-test` 2008 Lehman / Tech Crash shock simulation |
-| `1:58 – 2:30` | **32s** | **Receipts & Closing Impact** | Benchmark stats (+14.2% Sharpe, 0 bad trades) & sign-off |
+| `0:00 – 0:18` | **18s** | **Intro: The Problem & The Flex** | GitHub README header → Dashboard Hero header |
+| `0:18 – 0:35` | **17s** | **Setup: Running from README** | Terminal (`pytest` 34/34 green → FastAPI & Vite live) |
+| `0:35 – 0:50` | **15s** | **Step 1: Market Radar** | `/radar` 15-stock universe & live streaming ticker |
+| `0:50 – 1:10` | **20s** | **Step 2: Event Intel & Abstention** | `/events` FinBERT + FAISS dedup + Evidence Gate `< 40` |
+| `1:10 – 1:30` | **20s** | **Step 3: Event Replay Lore** | `/replay` NVDA 3-step: Rumor → Corroboration → SEC 8-K |
+| `1:30 – 1:52` | **22s** | **Step 4: CVXPY Rebalance & Audit** | `/portfolio` Click "Rebalance Now", 10% cap, Audit JSON |
+| `1:52 – 2:08` | **16s** | **Step 5: Macro Stress Test** | `/stress-test` 2008 Lehman / Tech Crash shock simulation |
+| `2:08 – 2:30` | **22s** | **Receipts & Closing Impact** | Benchmark stats (+14.2% Sharpe, 0 bad trades) & sign-off |
 
 ---
 
@@ -32,17 +33,17 @@
 
 ---
 
-### 1. Intro: The Problem & The Flex (`0:00 – 0:20` | 20s)
+### 1. Intro: The Problem & The Flex (`0:00 – 0:18` | 18s)
 **Visual:** Show GitHub repo, then cut straight into the sleek FinRisk AI dashboard at `http://localhost:5173/`.
 
 > **Voiceover (Safal Singh):**  
 > *"What's good S&P Global and CRISIL jury! I'm Safal Singh from NIT Kurukshetra, and this is **FinRisk AI**—an autonomous, event-driven risk engine that turns live financial news into risk-bounded portfolio execution.  
 > 
-> Traditional risk systems are moving like dial-up internet: backward-looking covariance misses sudden shocks, while naive NLP gets completely ratio'd by recycled Twitter rumors. FinRisk AI brings institutional rigor with zero cap. Let's run it!"*
+> Backward-looking covariance misses sudden shocks, while naive NLP gets totally ratio'd by recycled rumors. FinRisk AI brings institutional rigor with zero cap. Let's run it!"*
 
 ---
 
-### 2. Setup: Running from README (`0:20 – 0:40` | 20s)
+### 2. Setup: Running from README (`0:18 – 0:35` | 17s)
 **Visual:** Switch to Terminal. Show `pytest tests/` passing 34/34 tests, then the running backend and frontend logs.
 
 > **Voiceover:**  
@@ -54,27 +55,40 @@
 
 ---
 
-### 3. Step 1: Live Market Radar (`0:40 – 0:58` | 18s)
+### 3. Step 1: Live Market Radar (`0:35 – 0:50` | 15s)
 **Visual:** Switch to browser. Open `/radar`. Show the 15-stock universe cards (NVDA, AAPL, MSFT, etc.) updating live.
 
 > **Voiceover:**  
 > *"Here's our **Market Radar**, monitoring a 15-asset mega-cap portfolio in real time.  
 > 
-> Notice the top status bar: we're in live streaming mode, ingesting updates every 1.5 seconds. For each stock, the system tracks real-time sentiment, market beta, and composite risk index without lagging the UI."*
+> In live streaming mode, updates ingest every 1.5 seconds. For each stock, the system tracks real-time sentiment, market beta, and composite risk index without lagging the UI."*
 
 ---
 
-### 4. Step 2: Event Intel & Abstention Gate (`0:58 – 1:20` | 22s)
+### 4. Step 2: Event Intel & Abstention Gate (`0:50 – 1:10` | 20s)
 **Visual:** Click `/events`. Highlight an unverified rumor showing **ABSTAIN / HALT**, then contrast with a verified SEC 8-K event.
 
 > **Voiceover:**  
-> *"Next up, **Event Intelligence**. When breaking news hits, FinBERT embeds the text, and FAISS vector deduplication filters out 30 reposted copies of the same story.  
+> *"Next, **Event Intelligence**. When breaking news hits, FinBERT embeds the text, and FAISS vector deduplication filters out 30 reposted copies of the same story.  
 > 
-> Most importantly: look at this **Evidence Score**. When corroboration falls below 40, the system hits the brakes and **ABSTAINS**. It refuses to trade on unverified vibes, saving capital from false breakout traps."*
+> Most importantly: when the **Evidence Score** falls below 40, the system hits the brakes and **ABSTAINS**. It refuses to trade on unverified vibes, saving capital from false breakout traps."*
 
 ---
 
-### 5. Step 3: CVXPY Rebalancing & Audit Trail (`1:20 – 1:42` | 22s)
+### 5. Step 3: Event Replay Lore (`1:10 – 1:30` | 20s)
+**Visual:** Click `/replay`. Drag through the 3-step benchmark: `NVDA — Blackwell Supply Delay`.
+
+> **Voiceover:**  
+> *"In **Event Replay**, we reconstruct the exact timeline from initial rumor to execution.  
+> 
+> Watch this NVDA Blackwell case study:  
+> At 10:05 AM, an unverified social rumor drops—evidence is only 22/100, so the AI abstains.  
+> At 10:18 AM, Bloomberg confirms—evidence hits 61.  
+> At 10:37 AM, Nvidia files an official SEC 8-K—evidence surges to 91, instantly triggering a risk-reducing sell before the market dumps."*
+
+---
+
+### 6. Step 4: CVXPY Rebalancing & Audit Trail (`1:30 – 1:52` | 22s)
 **Visual:** Click `/portfolio`. Click **Rebalance Now**. Show weights shifting, the 10% turnover bar, and open the Audit JSON preview.
 
 > **Voiceover:**  
@@ -84,7 +98,7 @@
 
 ---
 
-### 6. Step 4: Macro Stress Testing (`1:42 – 1:58` | 16s)
+### 7. Step 5: Macro Stress Testing (`1:52 – 2:08` | 16s)
 **Visual:** Click `/stress-test`. Select "2008 GFC" or "Tech Crash" and watch the correlation matrix and VaR recalculate instantly.
 
 > **Voiceover:**  
@@ -94,13 +108,11 @@
 
 ---
 
-### 7. Results & Institutional Impact (`1:58 – 2:30` | 32s)
+### 8. Results & Institutional Impact (`2:08 – 2:30` | 22s)
 **Visual:** Scroll through backtest performance metrics or show the presentation deck summary slide.
 
 > **Voiceover:**  
-> *"Let's talk receipts: in empirical backtests across 504 market sessions, FinRisk AI delivered a **+14.2% higher Sharpe ratio**, cut maximum drawdown by **3.8%**, and recorded **zero uncorroborated panic trades**.  
-> 
-> That's event-driven alpha combined with mathematical safety.  
+> *"Let's talk receipts: across 504 market sessions, FinRisk AI delivered a **+14.2% higher Sharpe ratio**, cut maximum drawdown by **3.8%**, and recorded **zero uncorroborated panic trades**.  
 > 
 > Full source code, test suites, and slides are live in the GitHub repo. Thanks for tuning in, S&P Global and CRISIL team—let's build the future of risk!"*
 
@@ -111,10 +123,10 @@
 - **Speaking Speed:** 146 words per minute (confident, energetic, perfectly natural for Gen Z demos)
 - **Total Duration:** 150 seconds (2 mins 30 secs)
 - **Checklist Compliance:** 
-  - Problem & Solution: ✅ 20s
-  - Setup & Run from README: ✅ 20s
-  - End-to-End Walkthrough: ✅ 78s
-  - Results & Impact: ✅ 32s
+  - Problem & Solution: ✅ 18s
+  - Setup & Run from README: ✅ 17s
+  - End-to-End Walkthrough: ✅ 93s (Radar 15s + Events 20s + Replay 20s + Rebalancer 22s + Stress Test 16s)
+  - Results & Impact: ✅ 22s
 
 ---
 
@@ -137,12 +149,13 @@ Slide Deck: docs/presentation.pdf in GitHub repository
 
 Video Chapters / Timestamps:
 0:00 - The Problem: Reaction Lag & Media Echo Chambers
-0:20 - Setup & Quickstart (pytest 34/34 passing)
-0:40 - E2E Walkthrough: Live Market Radar
-0:58 - E2E Walkthrough: Event Intelligence & Evidence Abstention Gate
-1:20 - E2E Walkthrough: Tactical CVXPY Rebalancing & Audit JSON
-1:42 - E2E Walkthrough: Macro Stress Testing
-1:58 - Empirical Results (+14.2% Sharpe) & Institutional Impact
+0:18 - Setup & Quickstart (pytest 34/34 passing)
+0:35 - E2E Walkthrough: Live Market Radar
+0:50 - E2E Walkthrough: Event Intelligence & Evidence Abstention Gate
+1:10 - E2E Walkthrough: Event Replay (NVDA Blackwell 3-Step Lore)
+1:30 - E2E Walkthrough: Tactical CVXPY Rebalancing & Audit JSON
+1:52 - E2E Walkthrough: Macro Stress Testing
+2:08 - Empirical Results (+14.2% Sharpe) & Institutional Impact
 ```
 
 ### Settings:
