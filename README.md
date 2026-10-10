@@ -1,7 +1,7 @@
 # FinRisk AI 🧠 — S&P Global & Crisil Campus Hackathon 2026
 
 **Candidate Name:** Safal Singh  
-**College Email ID:** safalsingh@nitkkr.ac.in  
+**College Email ID:** 123103051@nitkkr.ac.in  
 **College / Campus:** NIT Kurukshetra  
 **Demo Video Link:** [YouTube Unlisted Walkthrough](https://youtu.be/placeholder-demo-video) *(Replace with your unlisted YouTube link)*  
 **Demo Video Script (Standard Institutional):** [docs/demo_video_script.md](docs/demo_video_script.md)  
