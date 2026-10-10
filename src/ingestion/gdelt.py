@@ -113,7 +113,7 @@ def _fetch_gdelt_doc(query: str, lookback_hours: int, max_records: int) -> pd.Da
         "format": "json",
         "sort": "DateDesc",
     }
-    resp = requests.get(GDELT_DOC_API, params=params, timeout=30)
+    resp = requests.get(GDELT_DOC_API, params=params, timeout=3)
     resp.raise_for_status()
     data = resp.json()
 

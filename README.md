@@ -3,10 +3,12 @@
 **Candidate Name:** Safal Singh  
 **College Email ID:** safalsingh@nitkkr.ac.in  
 **College / Campus:** NIT Kurukshetra  
-**Demo Video Link:** *(add YouTube unlisted link before submission)*  
-**Slide Deck Link:** [FinRisk AI — Presentation PDF (Google Drive)](https://drive.google.com/file/d/1isHV2PJpKT0e2MSMzscI3w63rLPYSny8/view?usp=sharing)  
-**Local Slide Deck:** `docs/presentation.pdf` | `docs/presentation.pptx`  
-**Architecture Diagrams:** `docs/architecture.png` | `docs/ARCHITECTURE.md` (Mermaid)
+**Demo Video Link:** [YouTube Unlisted Walkthrough](https://youtu.be/placeholder-demo-video) *(Replace with your unlisted YouTube link)*  
+**Demo Video Script & Guide:** [docs/demo_video_script.md](docs/demo_video_script.md)  
+**Slide Deck (PDF):** [docs/presentation.pdf](docs/presentation.pdf)  
+**Slide Deck (PowerPoint):** [docs/presentation.pptx](docs/presentation.pptx)  
+**Architecture Diagram:** [docs/architecture.png](docs/architecture.png) | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)  
+
 
 ---
 

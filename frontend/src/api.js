@@ -25,6 +25,9 @@ export const api = {
   narrative: (ticker)   => req(`/explain/narrative/${ticker}`),
   analyze:   (body)     => req('/analyze', { method: 'POST', body: JSON.stringify(body) }),
   rebalance: (body)     => req('/rebalance', { method: 'POST', body: JSON.stringify(body || {}) }),
-  ablation:  (params)   => req('/backtest/ablation?' + new URLSearchParams(params || {})),
-  stress:    (scenario) => req(`/stress?scenario=${scenario || 'rate_shock_150bps'}`),
+  ablation:   (params)   => req('/backtest/ablation?' + new URLSearchParams(params || {})),
+  stress:     (scenario) => req(`/stress?scenario=${scenario || 'rate_shock_150bps'}`),
+  liveStart:  ()         => req('/live/start', { method: 'POST' }),
+  liveStop:   ()         => req('/live/stop', { method: 'POST' }),
+  liveStatus: ()         => req('/live/status'),
 };

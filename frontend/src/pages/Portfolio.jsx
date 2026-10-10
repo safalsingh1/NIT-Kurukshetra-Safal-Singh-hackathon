@@ -69,8 +69,8 @@ export default function Portfolio({ apiLive = false }) {
   const [narrativeTicker, setNarrativeTicker] = useState(null);
   const [narrativeLoading, setNarrativeLoading] = useState(false);
 
-  const fetchLivePortfolio = async () => {
-    setRebalancing(true);
+  const fetchLivePortfolio = async (notify = false) => {
+    if (notify) setRebalancing(true);
     try {
       const res = await api.rebalance();
       if (res?.data?.portfolio) {
@@ -82,15 +82,17 @@ export default function Portfolio({ apiLive = false }) {
           timestamp: res.data.timestamp,
           decisions: res.data.decisions,
         });
-        toast(
-          `Rebalancer ran: ${res.data.n_acted} weight changes, ${res.data.turnover?.toFixed(1)}pp turnover.`,
-          { title: '✅ Rebalance Complete', type: 'confirm', duration: 5000 }
-        );
+        if (notify) {
+          toast(
+            `Rebalancer ran: ${res.data.n_acted} weight changes, ${res.data.turnover?.toFixed(1)}pp turnover.`,
+            { title: '✅ Rebalance Complete', type: 'confirm', duration: 5000 }
+          );
+        }
       }
     } catch (e) {
       console.error(e);
     } finally {
-      setRebalancing(false);
+      if (notify) setRebalancing(false);
     }
   };
 
@@ -100,7 +102,10 @@ export default function Portfolio({ apiLive = false }) {
       setLiveStats(null);
       return;
     }
-    fetchLivePortfolio();
+    fetchLivePortfolio(false);
+    // Auto-update continuously every 2 seconds in live mode
+    const interval = setInterval(() => fetchLivePortfolio(false), 2_000);
+    return () => clearInterval(interval);
   }, [apiLive]);
 
   // ── Audit export ──────────────────────────────────────────────────────
@@ -263,7 +268,7 @@ export default function Portfolio({ apiLive = false }) {
             </button>
             {apiLive && (
               <button
-                onClick={fetchLivePortfolio}
+                onClick={() => fetchLivePortfolio(true)}
                 disabled={rebalancing}
                 className="btn btn-outline"
                 style={{ display: 'flex', alignItems: 'center', gap: 6, fontSize: '0.75rem', padding: '6px 12px' }}

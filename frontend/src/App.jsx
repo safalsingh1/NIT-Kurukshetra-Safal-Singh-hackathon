@@ -21,17 +21,22 @@ const STATUS_SOURCES = ['GDELT', 'SEC', 'NLP', 'Social']
 
 export default function App() {
   const [page, setPage]         = useState('radar')
-  const [apiLive, setApiLive]   = useState(false)
+  const [apiLive, setApiLive]   = useState(true)
   const [toggling, setToggling] = useState(false)
-  const [apiOk, setApiOk]       = useState(false)
+  const [apiOk, setApiOk]       = useState(true)
   const seenAlerts              = useRef(new Set())
 
-  // Check API health on mount
+  // Check API health on mount and start live stream ingestion
   useEffect(() => {
-    api.health().then(r => setApiOk(!!r))
+    api.health().then(async r => {
+      setApiOk(!!r)
+      if (r) {
+        await api.liveStart()
+      }
+    })
   }, [])
 
-  // ── Real-time event alert polling (every 15s when live) ──────────────
+  // ── Real-time event alert polling (every 6s when live) ──────────────
   useEffect(() => {
     if (!apiLive) return
     const poll = async () => {
@@ -59,30 +64,46 @@ export default function App() {
       })
     }
     poll()
-    const interval = setInterval(poll, 15_000)
+    const interval = setInterval(poll, 2_000)
     return () => clearInterval(interval)
   }, [apiLive])
 
-  const handleModeToggle = useCallback(async () => {
-    if (toggling) return
-    setToggling(true)
-    if (!apiLive) {
-      const h = await api.health()
-      setApiOk(!!h)
-      if (!h) {
-        setToggling(false)
-        toast('Backend not reachable — start uvicorn on port 8000 first.', { title: 'Connection Failed', type: 'alert', duration: 5000 })
-        return
-      }
-      toast('Live mode activated — monitoring GDELT & SEC EDGAR for confirmed events.', { title: '🟢 Live Mode On', type: 'confirm', duration: 4000 })
-    } else {
-      toast('Switched to demo mode.', { title: '🔵 Demo Mode', type: 'info', duration: 3000 })
-    }
-    setApiLive(v => !v)
-    setToggling(false)
-  }, [apiLive, toggling])
+  const handleSelectDemo = useCallback(() => {
+    if (!apiLive) return;
+    setApiLive(false);
+    toast('Switched to Demo mode — using curated baseline dataset.', {
+      title: '🔵 Demo Mode Active',
+      type: 'info',
+      duration: 3000,
+    });
+  }, [apiLive]);
 
-  const ActivePage = NAV.find(n => n.id === page)?.comp ?? MarketRadar
+  const handleSelectLive = useCallback(async () => {
+    if (apiLive) return;
+    if (toggling) return;
+    setToggling(true);
+    const h = await api.health();
+    setApiOk(!!h);
+    if (!h) {
+      setToggling(false);
+      toast('Backend not reachable — start uvicorn on port 8000 first.', {
+        title: 'Connection Failed',
+        type: 'alert',
+        duration: 5000,
+      });
+      return;
+    }
+    await api.liveStart();
+    setApiLive(true);
+    setToggling(false);
+    toast('Live mode activated — continuous market risk stream active.', {
+      title: '🟢 Live Mode Active',
+      type: 'confirm',
+      duration: 4000,
+    });
+  }, [apiLive, toggling]);
+
+  const ActivePage = NAV.find(n => n.id === page)?.comp ?? MarketRadar;
 
   return (
     <div className="app-shell">
@@ -99,45 +120,102 @@ export default function App() {
             <span key={s} className={`status-dot ${i === 3 ? 'warn' : ''}`}>{s}</span>
           ))}
 
-          {/* ── Live / Demo toggle ── */}
-          <button
-            id="mode-toggle-btn"
-            onClick={handleModeToggle}
-            disabled={toggling}
-            title={apiLive ? 'Switch to Demo mode' : apiOk ? 'Switch to Live mode' : 'Backend unavailable — start uvicorn first'}
+          {/* ── Two separate buttons: DEMO and LIVE ── */}
+          <div
+            id="mode-selector-container"
             style={{
               display: 'flex',
               alignItems: 'center',
-              gap: 7,
-              padding: '5px 14px',
-              borderRadius: 20,
-              border: `1px solid ${apiLive ? 'rgba(72,187,120,0.5)' : 'rgba(99,179,237,0.3)'}`,
-              background: apiLive
-                ? 'rgba(72,187,120,0.12)'
-                : 'rgba(99,179,237,0.08)',
-              color: apiLive ? 'var(--green)' : 'var(--blue)',
-              cursor: toggling ? 'wait' : 'pointer',
-              fontSize: '0.78rem',
-              fontWeight: 700,
-              letterSpacing: '0.06em',
-              transition: 'all 0.25s ease',
-              outline: 'none',
-              opacity: toggling ? 0.6 : 1,
+              background: 'rgba(15, 23, 42, 0.75)',
+              border: '1px solid rgba(148, 163, 184, 0.18)',
+              borderRadius: 24,
+              padding: '3px',
+              gap: 4,
             }}
           >
-            {/* pulse dot */}
-            <span style={{
-              width: 7, height: 7, borderRadius: '50%',
-              background: apiLive ? 'var(--green)' : 'var(--blue)',
-              boxShadow: apiLive
-                ? '0 0 0 0 rgba(72,187,120,0.4)'
-                : '0 0 0 0 rgba(99,179,237,0.4)',
-              animation: apiLive ? 'pulse-live 1.5s infinite' : 'none',
-              display: 'inline-block',
-              flexShrink: 0,
-            }}/>
-            {toggling ? 'CONNECTING…' : apiLive ? 'LIVE' : 'DEMO'}
-          </button>
+            {/* DEMO BUTTON */}
+            <button
+              id="select-demo-btn"
+              onClick={handleSelectDemo}
+              title="Select Demo mode (offline baseline data)"
+              style={{
+                display: 'flex',
+                alignItems: 'center',
+                gap: 6,
+                padding: '5px 13px',
+                borderRadius: 20,
+                border: !apiLive
+                  ? '1px solid rgba(99, 179, 237, 0.65)'
+                  : '1px solid transparent',
+                background: !apiLive
+                  ? 'rgba(99, 179, 237, 0.2)'
+                  : 'transparent',
+                color: !apiLive ? '#63b3ed' : '#94a3b8',
+                cursor: 'pointer',
+                fontSize: '0.78rem',
+                fontWeight: 700,
+                letterSpacing: '0.04em',
+                transition: 'all 0.2s ease',
+                outline: 'none',
+                boxShadow: !apiLive ? '0 0 10px rgba(99,179,237,0.25)' : 'none',
+              }}
+            >
+              <span
+                style={{
+                  width: 7,
+                  height: 7,
+                  borderRadius: '50%',
+                  background: !apiLive ? '#63b3ed' : '#64748b',
+                  display: 'inline-block',
+                }}
+              />
+              DEMO
+            </button>
+
+            {/* LIVE BUTTON */}
+            <button
+              id="select-live-btn"
+              onClick={handleSelectLive}
+              disabled={toggling}
+              title="Select Live mode (real-time streaming market risk)"
+              style={{
+                display: 'flex',
+                alignItems: 'center',
+                gap: 6,
+                padding: '5px 13px',
+                borderRadius: 20,
+                border: apiLive
+                  ? '1px solid rgba(72, 187, 120, 0.65)'
+                  : '1px solid transparent',
+                background: apiLive
+                  ? 'rgba(72, 187, 120, 0.2)'
+                  : 'transparent',
+                color: apiLive ? '#48bb78' : '#94a3b8',
+                cursor: toggling ? 'wait' : 'pointer',
+                fontSize: '0.78rem',
+                fontWeight: 700,
+                letterSpacing: '0.04em',
+                transition: 'all 0.2s ease',
+                outline: 'none',
+                boxShadow: apiLive ? '0 0 12px rgba(72,187,120,0.3)' : 'none',
+              }}
+            >
+              <span
+                style={{
+                  width: 7,
+                  height: 7,
+                  borderRadius: '50%',
+                  background: apiLive ? '#48bb78' : '#64748b',
+                  boxShadow: apiLive
+                    ? '0 0 0 0 rgba(72,187,120,0.5)'
+                    : 'none',
+                  animation: apiLive ? 'pulse-live 1.5s infinite' : 'none',
+                  display: 'inline-block',
+                }}
+              />
+              {toggling ? 'CONNECTING…' : 'LIVE'}
+            </button>
+          </div>
         </div>
       </header>
 
@@ -167,7 +245,7 @@ export default function App() {
             <br/>
             {apiLive
               ? <>Data from live APIs<br/>Backend: <span style={{color:'var(--green)'}}>connected</span></>
-              : <>Pre-saved demo data<br/>Click <strong>DEMO</strong> button to go live</>
+              : <>Pre-saved demo data<br/>Select <strong>LIVE</strong> button to stream</>
             }
           </div>
           <div className="universe-badge" style={{marginTop:10}}>

@@ -98,8 +98,14 @@ export default function EventIntelligence({ apiLive = false }) {
 
   useEffect(() => {
     if (!apiLive) { setLiveEvents(null); return; }
-    setLoading(true);
-    api.events({}).then(r => setLiveEvents(r?.data ?? null)).finally(() => setLoading(false));
+    const fetchEvents = (showLoader = false) => {
+      if (showLoader) setLoading(true);
+      api.events({}).then(r => setLiveEvents(r?.data ?? null)).finally(() => setLoading(false));
+    };
+    fetchEvents(true);
+    // Refresh continuously every 1.5 seconds in live mode
+    const interval = setInterval(() => fetchEvents(false), 1_500);
+    return () => clearInterval(interval);
   }, [apiLive]);
 
   const allEvents = liveEvents ?? DEMO_EVENTS;

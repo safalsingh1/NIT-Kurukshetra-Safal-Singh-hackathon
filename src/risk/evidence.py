@@ -204,6 +204,7 @@ def quick_evidence(
     social_count: int = 0,
     news_sentiment: Optional[float] = None,
     social_sentiment: Optional[float] = None,
+    evidence_override: Optional[float] = None,
 ) -> EvidenceResult:
     """Convenience wrapper for quick evidence computation."""
     return compute_evidence(EvidenceInput(
@@ -214,6 +215,7 @@ def quick_evidence(
         sec_confirmed=sec_confirmed,
         social_count=social_count,
         social_sentiment=social_sentiment,
+        manual_evidence_override=evidence_override,
     ))
 
 

@@ -55,21 +55,38 @@ const CustomTooltip = ({ active, payload, label }) => {
 
 export default function MarketRadar({ apiLive = false }) {
   const [selected, setSelected] = useState(null);
-  const [timeline] = useState(riskTimeline);
+  const [timeline, setTimeline] = useState(riskTimeline);
   const [liveSignals, setLiveSignals] = useState(null);
   const [liveEvents, setLiveEvents]   = useState(null);
   const [loading, setLoading]         = useState(false);
 
-  useEffect(() => {
-    if (!apiLive) { setLiveSignals(null); setLiveEvents(null); return; }
-    setLoading(true);
+  const fetchLive = (showLoader = false) => {
+    if (showLoader) setLoading(true);
     Promise.all([api.universe(), api.events({})])
       .then(([uni, evts]) => {
-        // /universe always returns all 15 stocks — safe for heatmap
         setLiveSignals(Array.isArray(uni?.data) && uni.data.length > 0 ? uni.data : null);
-        setLiveEvents(evts?.data ?? null);
+        const evList = evts?.data ?? null;
+        setLiveEvents(evList);
+        if (Array.isArray(evList) && evList.length > 0) {
+          const avg = (evList.reduce((s, e) => s + (e.impact ?? 0), 0) / Math.max(evList.length, 1));
+          setTimeline(prev => {
+            const now = new Date();
+            const timeStr = `${String(now.getHours()).padStart(2, '0')}:${String(now.getMinutes()).padStart(2, '0')}:${String(now.getSeconds()).padStart(2, '0')}`;
+            const nextRisk = +(avg + (Math.random() - 0.5) * 0.3).toFixed(2);
+            const clamped = Math.max(1, Math.min(10, nextRisk));
+            return [...prev.slice(1), { time: timeStr, risk: clamped, spike: clamped > 7 ? clamped + 0.8 : null }];
+          });
+        }
       })
       .finally(() => setLoading(false));
+  };
+
+  useEffect(() => {
+    if (!apiLive) { setLiveSignals(null); setLiveEvents(null); return; }
+    fetchLive(true);
+    // Poll continuously every 1.5 seconds in live mode
+    const interval = setInterval(() => fetchLive(false), 1_500);
+    return () => clearInterval(interval);
   }, [apiLive]);
 
   const events   = liveEvents   ?? DEMO_EVENTS;
