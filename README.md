@@ -7,7 +7,7 @@
 **Presentation Deck (OneDrive Cloud):** [FinRisk AI Presentation Deck (OneDrive)](https://1drv.ms/b/c/b54c5000cff07bc3/IQDym2hUuTRAR4dgOISYGvQrAQJIO9plTAvkjMZR9kDAn_o?e=9WZXnh)  
 **Slide Deck (In-Repo PDF):** [docs/presentation.pdf](docs/presentation.pdf)  
 **Slide Deck (In-Repo PowerPoint):** [docs/presentation.pptx](docs/presentation.pptx)  
-**Architecture Diagram:** [docs/architecture.png](docs/architecture.png) | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)  
+**Architecture Diagram:**  [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)  
 
 
 ---
